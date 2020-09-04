@@ -23372,7 +23372,7 @@
         },
         {
             "key": "draftType",
-            "value": "freeAgents"
+            "value": "random"
         },
         {
             "key": "foulsNeededToFoulOut",
