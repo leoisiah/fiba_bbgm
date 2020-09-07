@@ -2,7 +2,7 @@
 
 Basketball GM rosters for FIBA national teams.
 
-Open the "rosters" directory to view the list of JSON files for BBGM.
+Open the "rosters" directory to view the list of JSON files for BBGM (http://play.basketball-gm.com/).
 
 The "code" directory contains a rough code I used to generate these.
 
