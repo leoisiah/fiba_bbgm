@@ -1,5 +1,6 @@
 {
     "version": 36,
+    "startingSeason": 2020,
     "players": [
         {
             "tid": 31,
