@@ -6,7 +6,7 @@ Open the "rosters" directory to view the list of JSON files for BBGM (http://pla
 
 The "code" directory contains a rough code I used to generate these.
 
-Credits to realgm.com , the source of stats used for this project.
+Credits to https://basketball.realgm.com/, the source of stats used for this project.
 
 # Donate
 
