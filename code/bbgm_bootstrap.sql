@@ -229,8 +229,8 @@ sub.CompetitionId as subCompetitionId,
 sub.YR as subYR, 
 main.CompetitionId as mainCompetitionId, 
 main.YR as mainYR,
-(AVG(main.OVR)-MIN(main.OVR))/(AVG(sub.OVR)-MIN(sub.OVR)) as slope, 
--MIN(sub.OVR)*(AVG(main.OVR)-MIN(main.OVR))/(AVG(sub.OVR)-MIN(sub.OVR))+MIN(main.OVR) as intercept
+COALESCE((AVG(main.OVR)-MIN(main.OVR))/(AVG(sub.OVR)-MIN(sub.OVR)),1) as slope, 
+-MIN(sub.OVR)*COALESCE((AVG(main.OVR)-MIN(main.OVR))/(AVG(sub.OVR)-MIN(sub.OVR)),1)+MIN(main.OVR) as intercept
 from Overall sub, Overall main
 where sub.PlayerId = main.PlayerId
 group by sub.CompetitionId, sub.YR, main.CompetitionId, main.YR;

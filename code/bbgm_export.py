@@ -32,10 +32,11 @@ def computeCollege(college):
     return college;
 
 #%%
-competitionId = 2;
-year = 2019;
+competitionId = 1;
+competitionYear = 2016;
 
-filename = str(year)+"-"+str((year+1)%100)+".FIBA.json"
+fileYear = 2018;
+filename = str(fileYear-1)+"-"+str((fileYear)%100)+".FIBA.json"
 
 teamMap = {};
 confMap = {0:0, 1:1, 2:1, 3:0};
@@ -54,7 +55,7 @@ try:
         group by Team
         having count(1) >= 10
         )
-        order by Rank""".format(competitionId=competitionId, year=year), con=conn);
+        order by Rank""".format(competitionId=competitionId, year=competitionYear), con=conn);
     
     teamsJson = [];
     
@@ -76,7 +77,7 @@ try:
         group by Team
         having count(1) >= 10
         )
-        order by a.Team""".format(competitionId=competitionId, year=year), con=conn);
+        order by a.Team""".format(competitionId=competitionId, year=competitionYear), con=conn);
    
     playersJson = [];
     
@@ -103,16 +104,18 @@ try:
                       "weight": computeWeight(row["HT"], row["WT"]), 
                       "born": {"year": int(row["Birth Date"][0:4]), "loc": computeBirthLoc(row["Birth City"], row["Nationality"])}, 
                       "college": computeCollege(row["College"]),
-                      "contract":{"amount":30000,"exp":year+31},}
+                      "contract":{"amount":30000,"exp":fileYear+30},}
         playersJson.append(playerJson);
 
         
-        output = {"version":36, "players":playersJson, "teams":teamsJson, 
-                  f"gameAttributes": [{"key": "aiTradesFactor", "value": 0}, {"key": "challengeNoTrades", "value": True}, {"key": "draftType", "value": "random"}, {"key": "foulsNeededToFoulOut", "value": 5}, {"key": "maxRosterSize", "value": 19}, {"key": "numSeasonsFutureDraftPicks", "value": 0}, {"key": "quarterLength", "value": 10}]}
+    output = {"version":36, "startingSeason":fileYear, "players":playersJson, "teams":teamsJson, 
+              "gameAttributes": [{"key": "aiTradesFactor", "value": 0}, {"key": "challengeNoTrades", "value": True}, {"key": "draftType", "value": "random"}, {"key": "foulsNeededToFoulOut", "value": 5}, {"key": "maxRosterSize", "value": 19}, {"key": "numSeasonsFutureDraftPicks", "value": 0}, {"key": "quarterLength", "value": 10}]}
         
-        outJson = json.dumps(output, indent=4)
+    outJson = json.dumps(output, indent=4)
         
-        with open(filename, "w") as fw:
-            fw.write(outJson);
+    with open(filename, "w") as fw:
+        fw.write(outJson);
+			
+    print("OUTPUT: "+filename);
 finally:    
     conn.close();

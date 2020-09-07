@@ -32,11 +32,8 @@ try:
     conso_simple_ratings = pandas.concat([conso_simple, ratings], axis=1)
     print(conso_simple_ratings);
     
-    for i in range(len(conso_simple_ratings)):
-        try:
-            conso_simple_ratings.iloc[i:i+1].to_sql("Raw_Ratings", conn, if_exists='append', index=False);
-        except:
-            pass;    
+    conso_simple_ratings.to_sql("Raw_Ratings", conn, if_exists='append', index=False);
+
                       
 finally:    
     conn.commit();
