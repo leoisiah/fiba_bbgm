@@ -32,30 +32,86 @@ def computeCollege(college):
     return college;
 
 #%%
-competitionId = 1;
-competitionYear = 2016;
-
-fileYear = 2018;
-filename = str(fileYear-1)+"-"+str((fileYear)%100)+".FIBA.json"
-
-teamMap = {};
-confMap = {0:0, 1:1, 2:1, 3:0};
-divMap = {0:0, 1:3, 2:4, 3:1, 4:2, 5:5, 6:5, 7:2, 8:1, 9:4, 10:3, 11:0}
-
-conn = sqlite3.connect('bbgm.db');
-
-try:  
+def generateJson(fileYear, conn):
+    
+    filename = str(fileYear-1)+"-"+str((fileYear)%100)+".FIBA.json"
+    
+    teamMap = {};
+    confMap = {0:0, 1:1, 2:1, 3:0};
+    divMap = {0:0, 1:3, 2:4, 3:1, 4:2, 5:5, 6:5, 7:2, 8:1, 9:4, 10:3, 11:0}    
+        
+    crsr = conn.cursor();                        
+    crsr.execute("drop view if exists Adjusted_Ratings");                        
+    
+    crsr.execute("""
+        create view Adjusted_Ratings as
+        select 
+        PlayerId, 
+        Team, 
+        AVG(Hgt) as Hgt,
+        AVG(Str) as Str,
+        AVG(Spd) as Spd,
+        AVG(Jmp) as Jmp,
+        AVG(End) as End,
+        AVG(Ins) as Ins,
+        AVG(Dnk) as Dnk,
+        AVG(FT) as FT,
+        AVG("2Pt") as "2Pt",
+        AVG("3Pt") as "3Pt",
+        AVG(oIQ) as oIQ,
+        AVG(dIQ) as dIQ,
+        AVG(Drb) as Drb,
+        AVG(Pss) as Pss,
+        AVG(Reb) as Reb
+        from
+        (
+        	select 
+        	raw.PlayerId, 
+        	raw.Team, 
+        	adj.subCompetitionId, 
+        	adj.subYR,
+        	adj.mainCompetitionId, 
+        	adj.mainYR,
+        	raw.Hgt, 
+        	raw.Str*adj.slope+adj.intercept as Str,
+        	raw.Spd*adj.slope+adj.intercept as Spd,
+        	raw.Jmp*adj.slope+adj.intercept as Jmp,
+        	raw.End*adj.slope+adj.intercept as End,
+        	raw.Ins*adj.slope+adj.intercept as Ins,
+        	raw.Dnk*adj.slope+adj.intercept as Dnk,
+        	raw.FT*adj.slope+adj.intercept as FT,
+        	raw."2Pt"*adj.slope+adj.intercept as "2Pt",
+        	raw."3Pt"*adj.slope+adj.intercept as "3Pt",
+        	raw.oIQ*adj.slope+adj.intercept as oIQ,
+        	raw.dIQ*adj.slope+adj.intercept as dIQ,
+        	raw.Drb*adj.slope+adj.intercept as Drb,
+        	raw.Pss*adj.slope+adj.intercept as Pss,
+        	raw.Reb*adj.slope+adj.intercept as Reb
+        	from Raw_Ratings raw, Adjustment adj, 
+        	(
+        		select CompetitionId, YR from Per_36
+        		where YR between {fromYR} and {thruYR}
+        		and CompetitionId in (1,2)
+        		order by YR desc
+        		limit 1
+        	) x
+        	where raw.CompetitionId = adj.subCompetitionId
+        	and raw.YR = adj.subYR
+        	and adj.mainCompetitionId = x.CompetitionId
+        	and adj.mainYR = x.YR
+        	and raw.YR between {fromYR} and {thruYR}
+        )
+        group by PlayerId,Team""".format(fromYR=fileYear-3, thruYR=fileYear-1))  
+    
     teamsSql = pandas.read_sql(sql="""
         select * from Team 
         where Name in
         (
         select Team from Adjusted_Ratings
-        where CompetitionId = {competitionId}
-        and YR = {year}
         group by Team
         having count(1) >= 10
         )
-        order by Rank""".format(competitionId=competitionId, year=competitionYear), con=conn);
+        order by Rank""", con=conn);
     
     teamsJson = [];
     
@@ -67,17 +123,13 @@ try:
     playersSql = pandas.read_sql(sql="""
         select * from Player p, Adjusted_Ratings a
         where p.Id = a.PlayerId
-        and a.CompetitionId = {competitionId}
-        and a.YR = {year}
         and a.Team in
         (
         select Team from Adjusted_Ratings
-        where CompetitionId = {competitionId}
-        and YR = {year}
         group by Team
         having count(1) >= 10
         )
-        order by a.Team""".format(competitionId=competitionId, year=competitionYear), con=conn);
+        order by a.Team""", con=conn);
    
     playersJson = [];
     
@@ -109,13 +161,21 @@ try:
 
         
     output = {"version":36, "startingSeason":fileYear, "players":playersJson, "teams":teamsJson, 
-              "gameAttributes": [{"key": "aiTradesFactor", "value": 0}, {"key": "challengeNoTrades", "value": True}, {"key": "draftType", "value": "random"}, {"key": "foulsNeededToFoulOut", "value": 5}, {"key": "maxRosterSize", "value": 19}, {"key": "numSeasonsFutureDraftPicks", "value": 0}, {"key": "quarterLength", "value": 10}]}
+              "gameAttributes": [{"key": "aiTradesFactor", "value": 0}, {"key": "challengeNoTrades", "value": True}, {"key": "draftType", "value": "random"}, {"key": "foulsNeededToFoulOut", "value": 5}, {"key": "maxRosterSize", "value": 20}, {"key": "numSeasonsFutureDraftPicks", "value": 0}, {"key": "quarterLength", "value": 10}]}
         
     outJson = json.dumps(output, indent=4)
         
     with open(filename, "w") as fw:
         fw.write(outJson);
 			
-    print("OUTPUT: "+filename);
+    print("OUTPUT: "+filename);    
+
+    
+#%%   
+conn = sqlite3.connect('bbgm.db');
+
+try:  
+    for year in range(2013,2021): 
+        generateJson(year, conn);    
 finally:    
     conn.close();
