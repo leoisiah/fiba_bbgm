@@ -1544,41 +1544,6 @@
         },
         {
             "tid": 2,
-            "name": "Brad Newley",
-            "ratings": [
-                {
-                    "diq": 55,
-                    "dnk": 40,
-                    "drb": 49,
-                    "endu": 51,
-                    "fg": 45,
-                    "ft": 49,
-                    "hgt": 44,
-                    "ins": 45,
-                    "jmp": 33,
-                    "oiq": 47,
-                    "pss": 52,
-                    "reb": 43,
-                    "spd": 37,
-                    "stre": 43,
-                    "tp": 45
-                }
-            ],
-            "pos": "F",
-            "hgt": 78,
-            "weight": 205,
-            "born": {
-                "year": 1985,
-                "loc": "Lower Mitcham, Australia"
-            },
-            "college": "",
-            "contract": {
-                "amount": 30000,
-                "exp": 2048
-            }
-        },
-        {
-            "tid": 2,
             "name": "Andrew Bogut",
             "ratings": [
                 {
@@ -1754,76 +1719,6 @@
         },
         {
             "tid": 2,
-            "name": "Daniel Kickert",
-            "ratings": [
-                {
-                    "diq": 52,
-                    "dnk": 45,
-                    "drb": 46,
-                    "endu": 54,
-                    "fg": 46,
-                    "ft": 53,
-                    "hgt": 59,
-                    "ins": 55,
-                    "jmp": 32,
-                    "oiq": 53,
-                    "pss": 49,
-                    "reb": 52,
-                    "spd": 35,
-                    "stre": 48,
-                    "tp": 50
-                }
-            ],
-            "pos": "C",
-            "hgt": 82,
-            "weight": 250,
-            "born": {
-                "year": 1983,
-                "loc": "Melbourne, Australia"
-            },
-            "college": "Saint Mary's",
-            "contract": {
-                "amount": 30000,
-                "exp": 2048
-            }
-        },
-        {
-            "tid": 2,
-            "name": "Angus Brandt",
-            "ratings": [
-                {
-                    "diq": 51,
-                    "dnk": 43,
-                    "drb": 39,
-                    "endu": 53,
-                    "fg": 35,
-                    "ft": 36,
-                    "hgt": 59,
-                    "ins": 57,
-                    "jmp": 29,
-                    "oiq": 46,
-                    "pss": 46,
-                    "reb": 58,
-                    "spd": 30,
-                    "stre": 49,
-                    "tp": 35
-                }
-            ],
-            "pos": "FC",
-            "hgt": 82,
-            "weight": 246,
-            "born": {
-                "year": 1989,
-                "loc": "Sydney, Australia"
-            },
-            "college": "Oregon State",
-            "contract": {
-                "amount": 30000,
-                "exp": 2048
-            }
-        },
-        {
-            "tid": 2,
             "name": "Brock Motum",
             "ratings": [
                 {
@@ -1929,41 +1824,6 @@
         },
         {
             "tid": 2,
-            "name": "Jason Cadee",
-            "ratings": [
-                {
-                    "diq": 46,
-                    "dnk": 39,
-                    "drb": 49,
-                    "endu": 53,
-                    "fg": 45,
-                    "ft": 46,
-                    "hgt": 30,
-                    "ins": 46,
-                    "jmp": 39,
-                    "oiq": 49,
-                    "pss": 52,
-                    "reb": 44,
-                    "spd": 41,
-                    "stre": 42,
-                    "tp": 52
-                }
-            ],
-            "pos": "G",
-            "hgt": 74,
-            "weight": 161,
-            "born": {
-                "year": 1991,
-                "loc": "Greenacre, Australia"
-            },
-            "college": "",
-            "contract": {
-                "amount": 30000,
-                "exp": 2048
-            }
-        },
-        {
-            "tid": 2,
             "name": "Kevin Lisch",
             "ratings": [
                 {
@@ -1992,41 +1852,6 @@
                 "loc": "Belleville, IL, United States"
             },
             "college": "Saint Louis",
-            "contract": {
-                "amount": 30000,
-                "exp": 2048
-            }
-        },
-        {
-            "tid": 2,
-            "name": "Matt Hodgson",
-            "ratings": [
-                {
-                    "diq": 51,
-                    "dnk": 48,
-                    "drb": 30,
-                    "endu": 44,
-                    "fg": 14,
-                    "ft": 7,
-                    "hgt": 63,
-                    "ins": 61,
-                    "jmp": 24,
-                    "oiq": 42,
-                    "pss": 36,
-                    "reb": 62,
-                    "spd": 24,
-                    "stre": 51,
-                    "tp": 25
-                }
-            ],
-            "pos": "C",
-            "hgt": 83,
-            "weight": 255,
-            "born": {
-                "year": 1990,
-                "loc": "Ipswich, Australia"
-            },
-            "college": "Saint Mary's",
             "contract": {
                 "amount": 30000,
                 "exp": 2048
@@ -2104,76 +1929,6 @@
         },
         {
             "tid": 2,
-            "name": "Mitchell Creek",
-            "ratings": [
-                {
-                    "diq": 61,
-                    "dnk": 48,
-                    "drb": 40,
-                    "endu": 69,
-                    "fg": 38,
-                    "ft": 39,
-                    "hgt": 44,
-                    "ins": 58,
-                    "jmp": 41,
-                    "oiq": 54,
-                    "pss": 44,
-                    "reb": 56,
-                    "spd": 44,
-                    "stre": 55,
-                    "tp": 37
-                }
-            ],
-            "pos": "G",
-            "hgt": 78,
-            "weight": 225,
-            "born": {
-                "year": 1992,
-                "loc": "Horsham, Australia"
-            },
-            "college": "",
-            "contract": {
-                "amount": 30000,
-                "exp": 2048
-            }
-        },
-        {
-            "tid": 2,
-            "name": "Mitchell McCarron",
-            "ratings": [
-                {
-                    "diq": 54,
-                    "dnk": 42,
-                    "drb": 38,
-                    "endu": 59,
-                    "fg": 36,
-                    "ft": 43,
-                    "hgt": 30,
-                    "ins": 49,
-                    "jmp": 36,
-                    "oiq": 50,
-                    "pss": 40,
-                    "reb": 53,
-                    "spd": 38,
-                    "stre": 47,
-                    "tp": 44
-                }
-            ],
-            "pos": "G",
-            "hgt": 74,
-            "weight": 215,
-            "born": {
-                "year": 1992,
-                "loc": "Alice Springs, Australia"
-            },
-            "college": "Metro State",
-            "contract": {
-                "amount": 30000,
-                "exp": 2048
-            }
-        },
-        {
-            "tid": 2,
             "name": "Chris Goulding",
             "ratings": [
                 {
@@ -2202,146 +1957,6 @@
                 "loc": "Launceston, Australia"
             },
             "college": "",
-            "contract": {
-                "amount": 30000,
-                "exp": 2048
-            }
-        },
-        {
-            "tid": 2,
-            "name": "Cameron Gliddon",
-            "ratings": [
-                {
-                    "diq": 47,
-                    "dnk": 38,
-                    "drb": 44,
-                    "endu": 49,
-                    "fg": 42,
-                    "ft": 52,
-                    "hgt": 41,
-                    "ins": 40,
-                    "jmp": 39,
-                    "oiq": 47,
-                    "pss": 44,
-                    "reb": 47,
-                    "spd": 42,
-                    "stre": 41,
-                    "tp": 56
-                }
-            ],
-            "pos": "G",
-            "hgt": 77,
-            "weight": 190,
-            "born": {
-                "year": 1989,
-                "loc": "Bunbury, Australia"
-            },
-            "college": "Concordia (CA)",
-            "contract": {
-                "amount": 30000,
-                "exp": 2048
-            }
-        },
-        {
-            "tid": 2,
-            "name": "Mitchell Norton",
-            "ratings": [
-                {
-                    "diq": 49,
-                    "dnk": 47,
-                    "drb": 47,
-                    "endu": 51,
-                    "fg": 31,
-                    "ft": 43,
-                    "hgt": 26,
-                    "ins": 42,
-                    "jmp": 45,
-                    "oiq": 47,
-                    "pss": 45,
-                    "reb": 41,
-                    "spd": 50,
-                    "stre": 44,
-                    "tp": 36
-                }
-            ],
-            "pos": "G",
-            "hgt": 73,
-            "weight": 188,
-            "born": {
-                "year": 1993,
-                "loc": "Thuringowa, Australia"
-            },
-            "college": "",
-            "contract": {
-                "amount": 30000,
-                "exp": 2048
-            }
-        },
-        {
-            "tid": 2,
-            "name": "Todd Blanchfield",
-            "ratings": [
-                {
-                    "diq": 50,
-                    "dnk": 44,
-                    "drb": 42,
-                    "endu": 54,
-                    "fg": 47,
-                    "ft": 49,
-                    "hgt": 44,
-                    "ins": 42,
-                    "jmp": 41,
-                    "oiq": 50,
-                    "pss": 41,
-                    "reb": 44,
-                    "spd": 44,
-                    "stre": 45,
-                    "tp": 57
-                }
-            ],
-            "pos": "F",
-            "hgt": 78,
-            "weight": 207,
-            "born": {
-                "year": 1991,
-                "loc": "Mackay, Australia"
-            },
-            "college": "",
-            "contract": {
-                "amount": 30000,
-                "exp": 2048
-            }
-        },
-        {
-            "tid": 2,
-            "name": "Nicholas Kay",
-            "ratings": [
-                {
-                    "diq": 52,
-                    "dnk": 47,
-                    "drb": 45,
-                    "endu": 53,
-                    "fg": 31,
-                    "ft": 44,
-                    "hgt": 56,
-                    "ins": 46,
-                    "jmp": 36,
-                    "oiq": 52,
-                    "pss": 44,
-                    "reb": 54,
-                    "spd": 39,
-                    "stre": 46,
-                    "tp": 35
-                }
-            ],
-            "pos": "F",
-            "hgt": 81,
-            "weight": 230,
-            "born": {
-                "year": 1992,
-                "loc": "Tamworth, Australia"
-            },
-            "college": "Metro State",
             "contract": {
                 "amount": 30000,
                 "exp": 2048
@@ -3402,21 +3017,21 @@
             "name": "J.P. Batista",
             "ratings": [
                 {
-                    "diq": 49,
-                    "dnk": 38,
-                    "drb": 38,
-                    "endu": 35,
-                    "fg": 34,
-                    "ft": 38,
+                    "diq": 47,
+                    "dnk": 44,
+                    "drb": 30,
+                    "endu": 31,
+                    "fg": 24,
+                    "ft": 26,
                     "hgt": 56,
-                    "ins": 59,
-                    "jmp": 5,
-                    "oiq": 47,
-                    "pss": 42,
-                    "reb": 61,
-                    "spd": 11,
-                    "stre": 44,
-                    "tp": 29
+                    "ins": 76,
+                    "jmp": 0,
+                    "oiq": 45,
+                    "pss": 37,
+                    "reb": 63,
+                    "spd": 0,
+                    "stre": 46,
+                    "tp": 23
                 }
             ],
             "pos": "PF",
@@ -3507,21 +3122,21 @@
             "name": "Leonardo Meindl",
             "ratings": [
                 {
-                    "diq": 37,
-                    "dnk": 45,
-                    "drb": 40,
-                    "endu": 48,
-                    "fg": 28,
-                    "ft": 31,
+                    "diq": 28,
+                    "dnk": 37,
+                    "drb": 38,
+                    "endu": 34,
+                    "fg": 17,
+                    "ft": 11,
                     "hgt": 48,
-                    "ins": 54,
-                    "jmp": 42,
-                    "oiq": 38,
+                    "ins": 47,
+                    "jmp": 36,
+                    "oiq": 23,
                     "pss": 41,
-                    "reb": 36,
-                    "spd": 44,
-                    "stre": 45,
-                    "tp": 31
+                    "reb": 24,
+                    "spd": 37,
+                    "stre": 36,
+                    "tp": 25
                 }
             ],
             "pos": "SF",
@@ -3577,21 +3192,21 @@
             "name": "Rafael Mineiro",
             "ratings": [
                 {
-                    "diq": 37,
-                    "dnk": 47,
-                    "drb": 37,
-                    "endu": 35,
-                    "fg": 27,
-                    "ft": 27,
+                    "diq": 28,
+                    "dnk": 43,
+                    "drb": 28,
+                    "endu": 19,
+                    "fg": 17,
+                    "ft": 14,
                     "hgt": 56,
-                    "ins": 44,
-                    "jmp": 32,
-                    "oiq": 37,
-                    "pss": 35,
-                    "reb": 40,
-                    "spd": 36,
-                    "stre": 44,
-                    "tp": 35
+                    "ins": 43,
+                    "jmp": 19,
+                    "oiq": 32,
+                    "pss": 26,
+                    "reb": 43,
+                    "spd": 20,
+                    "stre": 37,
+                    "tp": 32
                 }
             ],
             "pos": "C",
@@ -3600,41 +3215,6 @@
             "born": {
                 "year": 1988,
                 "loc": "Uberaba, Brazil"
-            },
-            "college": "",
-            "contract": {
-                "amount": 30000,
-                "exp": 2048
-            }
-        },
-        {
-            "tid": 9,
-            "name": "Lucas Mariano",
-            "ratings": [
-                {
-                    "diq": 36,
-                    "dnk": 45,
-                    "drb": 40,
-                    "endu": 43,
-                    "fg": 31,
-                    "ft": 22,
-                    "hgt": 59,
-                    "ins": 54,
-                    "jmp": 43,
-                    "oiq": 43,
-                    "pss": 42,
-                    "reb": 49,
-                    "spd": 40,
-                    "stre": 47,
-                    "tp": 40
-                }
-            ],
-            "pos": "C",
-            "hgt": 82,
-            "weight": 270,
-            "born": {
-                "year": 1993,
-                "loc": "Planaltina, Brazil"
             },
             "college": "",
             "contract": {
@@ -3749,41 +3329,6 @@
         },
         {
             "tid": 9,
-            "name": "Fulvio de Assis",
-            "ratings": [
-                {
-                    "diq": 39,
-                    "dnk": 40,
-                    "drb": 62,
-                    "endu": 43,
-                    "fg": 32,
-                    "ft": 39,
-                    "hgt": 30,
-                    "ins": 44,
-                    "jmp": 35,
-                    "oiq": 44,
-                    "pss": 69,
-                    "reb": 47,
-                    "spd": 45,
-                    "stre": 40,
-                    "tp": 35
-                }
-            ],
-            "pos": "SG",
-            "hgt": 74,
-            "weight": 179,
-            "born": {
-                "year": 1981,
-                "loc": "Sao Paulo, Brazil"
-            },
-            "college": "",
-            "contract": {
-                "amount": 30000,
-                "exp": 2048
-            }
-        },
-        {
-            "tid": 9,
             "name": "Ricardo Fischer",
             "ratings": [
                 {
@@ -3810,146 +3355,6 @@
             "born": {
                 "year": 1991,
                 "loc": "Sao Paulo, Brazil"
-            },
-            "college": "",
-            "contract": {
-                "amount": 30000,
-                "exp": 2048
-            }
-        },
-        {
-            "tid": 9,
-            "name": "Jimmy de Oliveira",
-            "ratings": [
-                {
-                    "diq": 40,
-                    "dnk": 41,
-                    "drb": 40,
-                    "endu": 38,
-                    "fg": 30,
-                    "ft": 24,
-                    "hgt": 33,
-                    "ins": 32,
-                    "jmp": 44,
-                    "oiq": 32,
-                    "pss": 38,
-                    "reb": 36,
-                    "spd": 51,
-                    "stre": 42,
-                    "tp": 39
-                }
-            ],
-            "pos": "SG",
-            "hgt": 75,
-            "weight": 185,
-            "born": {
-                "year": 1990,
-                "loc": "Florianopolis, Brazil"
-            },
-            "college": "",
-            "contract": {
-                "amount": 30000,
-                "exp": 2048
-            }
-        },
-        {
-            "tid": 9,
-            "name": "Renan Lenz",
-            "ratings": [
-                {
-                    "diq": 35,
-                    "dnk": 38,
-                    "drb": 39,
-                    "endu": 44,
-                    "fg": 38,
-                    "ft": 39,
-                    "hgt": 56,
-                    "ins": 53,
-                    "jmp": 43,
-                    "oiq": 36,
-                    "pss": 43,
-                    "reb": 37,
-                    "spd": 42,
-                    "stre": 42,
-                    "tp": 51
-                }
-            ],
-            "pos": "F",
-            "hgt": 81,
-            "weight": 221,
-            "born": {
-                "year": 1990,
-                "loc": "Santo Angelo, Brazil"
-            },
-            "college": "Utah",
-            "contract": {
-                "amount": 30000,
-                "exp": 2048
-            }
-        },
-        {
-            "tid": 9,
-            "name": "Bruno Caboclo",
-            "ratings": [
-                {
-                    "diq": 37,
-                    "dnk": 31,
-                    "drb": 43,
-                    "endu": 49,
-                    "fg": 34,
-                    "ft": 35,
-                    "hgt": 56,
-                    "ins": 37,
-                    "jmp": 57,
-                    "oiq": 34,
-                    "pss": 47,
-                    "reb": 50,
-                    "spd": 56,
-                    "stre": 42,
-                    "tp": 58
-                }
-            ],
-            "pos": "PF",
-            "hgt": 81,
-            "weight": 218,
-            "born": {
-                "year": 1995,
-                "loc": "Sao Paulo, Brazil"
-            },
-            "college": "",
-            "contract": {
-                "amount": 30000,
-                "exp": 2048
-            }
-        },
-        {
-            "tid": 9,
-            "name": "George de Paula",
-            "ratings": [
-                {
-                    "diq": 26,
-                    "dnk": 41,
-                    "drb": 47,
-                    "endu": 43,
-                    "fg": 31,
-                    "ft": 46,
-                    "hgt": 44,
-                    "ins": 60,
-                    "jmp": 49,
-                    "oiq": 37,
-                    "pss": 52,
-                    "reb": 48,
-                    "spd": 52,
-                    "stre": 45,
-                    "tp": 44
-                }
-            ],
-            "pos": "G",
-            "hgt": 78,
-            "weight": 194,
-            "born": {
-                "year": 1996,
-                "loc": "Diadema, Brazil"
             },
             "college": "",
             "contract": {
@@ -34584,76 +33989,6 @@
         },
         {
             "tid": 0,
-            "name": "Reggie Williams",
-            "ratings": [
-                {
-                    "diq": 48,
-                    "dnk": 48,
-                    "drb": 47,
-                    "endu": 49,
-                    "fg": 48,
-                    "ft": 46,
-                    "hgt": 44,
-                    "ins": 44,
-                    "jmp": 41,
-                    "oiq": 55,
-                    "pss": 43,
-                    "reb": 48,
-                    "spd": 45,
-                    "stre": 47,
-                    "tp": 54
-                }
-            ],
-            "pos": "F",
-            "hgt": 78,
-            "weight": 205,
-            "born": {
-                "year": 1986,
-                "loc": "Prince George, VA, United States"
-            },
-            "college": "Virginia Military",
-            "contract": {
-                "amount": 30000,
-                "exp": 2048
-            }
-        },
-        {
-            "tid": 0,
-            "name": "Larry Drew",
-            "ratings": [
-                {
-                    "diq": 50,
-                    "dnk": 30,
-                    "drb": 57,
-                    "endu": 54,
-                    "fg": 36,
-                    "ft": 40,
-                    "hgt": 30,
-                    "ins": 34,
-                    "jmp": 45,
-                    "oiq": 46,
-                    "pss": 63,
-                    "reb": 44,
-                    "spd": 48,
-                    "stre": 38,
-                    "tp": 41
-                }
-            ],
-            "pos": "G",
-            "hgt": 74,
-            "weight": 180,
-            "born": {
-                "year": 1990,
-                "loc": "Encino, CA, United States"
-            },
-            "college": "UCLA",
-            "contract": {
-                "amount": 30000,
-                "exp": 2048
-            }
-        },
-        {
-            "tid": 0,
             "name": "DeMarcus Cousins",
             "ratings": [
                 {
@@ -34794,41 +34129,6 @@
         },
         {
             "tid": 0,
-            "name": "Reggie Hearn",
-            "ratings": [
-                {
-                    "diq": 43,
-                    "dnk": 44,
-                    "drb": 43,
-                    "endu": 58,
-                    "fg": 45,
-                    "ft": 51,
-                    "hgt": 41,
-                    "ins": 48,
-                    "jmp": 47,
-                    "oiq": 49,
-                    "pss": 43,
-                    "reb": 44,
-                    "spd": 50,
-                    "stre": 48,
-                    "tp": 64
-                }
-            ],
-            "pos": "G",
-            "hgt": 77,
-            "weight": 210,
-            "born": {
-                "year": 1991,
-                "loc": "Fort Wayne, IN, United States"
-            },
-            "college": "Northwestern",
-            "contract": {
-                "amount": 30000,
-                "exp": 2048
-            }
-        },
-        {
-            "tid": 0,
             "name": "Jimmy Butler",
             "ratings": [
                 {
@@ -34864,41 +34164,6 @@
         },
         {
             "tid": 0,
-            "name": "Kendall Marshall",
-            "ratings": [
-                {
-                    "diq": 44,
-                    "dnk": 38,
-                    "drb": 57,
-                    "endu": 51,
-                    "fg": 35,
-                    "ft": 39,
-                    "hgt": 37,
-                    "ins": 35,
-                    "jmp": 46,
-                    "oiq": 49,
-                    "pss": 61,
-                    "reb": 49,
-                    "spd": 48,
-                    "stre": 40,
-                    "tp": 35
-                }
-            ],
-            "pos": "PG",
-            "hgt": 76,
-            "weight": 195,
-            "born": {
-                "year": 1991,
-                "loc": "Dumfries, VA, United States"
-            },
-            "college": "North Carolina",
-            "contract": {
-                "amount": 30000,
-                "exp": 2048
-            }
-        },
-        {
-            "tid": 0,
             "name": "Kyrie Irving",
             "ratings": [
                 {
@@ -34927,216 +34192,6 @@
                 "loc": "Melbourne, United States"
             },
             "college": "Duke",
-            "contract": {
-                "amount": 30000,
-                "exp": 2048
-            }
-        },
-        {
-            "tid": 0,
-            "name": "Marshall Plumlee",
-            "ratings": [
-                {
-                    "diq": 45,
-                    "dnk": 49,
-                    "drb": 37,
-                    "endu": 46,
-                    "fg": 27,
-                    "ft": 38,
-                    "hgt": 70,
-                    "ins": 40,
-                    "jmp": 45,
-                    "oiq": 42,
-                    "pss": 35,
-                    "reb": 51,
-                    "spd": 45,
-                    "stre": 49,
-                    "tp": 34
-                }
-            ],
-            "pos": "PF",
-            "hgt": 85,
-            "weight": 250,
-            "born": {
-                "year": 1992,
-                "loc": "Warsaw, IN, United States"
-            },
-            "college": "Duke",
-            "contract": {
-                "amount": 30000,
-                "exp": 2048
-            }
-        },
-        {
-            "tid": 0,
-            "name": "Jonathan Holmes",
-            "ratings": [
-                {
-                    "diq": 55,
-                    "dnk": 43,
-                    "drb": 41,
-                    "endu": 55,
-                    "fg": 30,
-                    "ft": 46,
-                    "hgt": 56,
-                    "ins": 57,
-                    "jmp": 34,
-                    "oiq": 49,
-                    "pss": 43,
-                    "reb": 57,
-                    "spd": 37,
-                    "stre": 46,
-                    "tp": 51
-                }
-            ],
-            "pos": "F",
-            "hgt": 81,
-            "weight": 242,
-            "born": {
-                "year": 1992,
-                "loc": "San Antonio, TX, United States"
-            },
-            "college": "Texas",
-            "contract": {
-                "amount": 30000,
-                "exp": 2048
-            }
-        },
-        {
-            "tid": 0,
-            "name": "Jameel Warney",
-            "ratings": [
-                {
-                    "diq": 49,
-                    "dnk": 51,
-                    "drb": 39,
-                    "endu": 68,
-                    "fg": 31,
-                    "ft": 33,
-                    "hgt": 52,
-                    "ins": 68,
-                    "jmp": 45,
-                    "oiq": 65,
-                    "pss": 44,
-                    "reb": 72,
-                    "spd": 45,
-                    "stre": 61,
-                    "tp": 34
-                }
-            ],
-            "pos": "PF",
-            "hgt": 80,
-            "weight": 260,
-            "born": {
-                "year": 1994,
-                "loc": "Roselle, NJ, United States"
-            },
-            "college": "Stony Brook",
-            "contract": {
-                "amount": 30000,
-                "exp": 2048
-            }
-        },
-        {
-            "tid": 0,
-            "name": "Darrun Hilliard",
-            "ratings": [
-                {
-                    "diq": 45,
-                    "dnk": 55,
-                    "drb": 47,
-                    "endu": 57,
-                    "fg": 47,
-                    "ft": 45,
-                    "hgt": 44,
-                    "ins": 67,
-                    "jmp": 48,
-                    "oiq": 51,
-                    "pss": 48,
-                    "reb": 46,
-                    "spd": 50,
-                    "stre": 55,
-                    "tp": 44
-                }
-            ],
-            "pos": "SG",
-            "hgt": 78,
-            "weight": 220,
-            "born": {
-                "year": 1993,
-                "loc": "Bethlehem, PA, United States"
-            },
-            "college": "Villanova",
-            "contract": {
-                "amount": 30000,
-                "exp": 2048
-            }
-        },
-        {
-            "tid": 0,
-            "name": "Wendell Williams",
-            "ratings": [
-                {
-                    "diq": 56,
-                    "dnk": 45,
-                    "drb": 39,
-                    "endu": 56,
-                    "fg": 49,
-                    "ft": 51,
-                    "hgt": 26,
-                    "ins": 41,
-                    "jmp": 41,
-                    "oiq": 46,
-                    "pss": 38,
-                    "reb": 43,
-                    "spd": 47,
-                    "stre": 47,
-                    "tp": 51
-                }
-            ],
-            "pos": "G",
-            "hgt": 73,
-            "weight": 160,
-            "born": {
-                "year": 1990,
-                "loc": "Baxley, GA, United States"
-            },
-            "college": "",
-            "contract": {
-                "amount": 30000,
-                "exp": 2048
-            }
-        },
-        {
-            "tid": 0,
-            "name": "Xavier Munford",
-            "ratings": [
-                {
-                    "diq": 57,
-                    "dnk": 41,
-                    "drb": 49,
-                    "endu": 62,
-                    "fg": 44,
-                    "ft": 52,
-                    "hgt": 33,
-                    "ins": 59,
-                    "jmp": 47,
-                    "oiq": 49,
-                    "pss": 55,
-                    "reb": 48,
-                    "spd": 49,
-                    "stre": 49,
-                    "tp": 50
-                }
-            ],
-            "pos": "G",
-            "hgt": 75,
-            "weight": 180,
-            "born": {
-                "year": 1992,
-                "loc": "Hillside, NJ, United States"
-            },
-            "college": "Rhode Island",
             "contract": {
                 "amount": 30000,
                 "exp": 2048
