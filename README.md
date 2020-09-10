@@ -1,4 +1,4 @@
-# fiba_bbgm
+# README
 
 Basketball GM rosters for FIBA national teams.
 
