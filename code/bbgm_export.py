@@ -99,7 +99,18 @@ def generateJson(fileYear, conn):
         	and raw.YR = adj.subYR
         	and adj.mainCompetitionId = x.CompetitionId
         	and adj.mainYR = x.YR
-        	and raw.YR between {fromYR} and {thruYR}
+        	and raw.YR between {fromYR} and {thruYR}            
+        	and 
+        	(
+        	       (select count(1) from Raw_Ratings where Team=raw.Team and CompetitionId=adj.mainCompetitionId and YR = adj.mainYR) = 0
+        	       OR
+        	       (select count(1) from Raw_Ratings where Team=raw.Team and CompetitionId=adj.subCompetitionId and YR = adj.subYR) = 0
+        	       OR
+                        (select count(1) from Raw_Ratings r1, Raw_Ratings r2
+                        where r1.Team=raw.Team and r1.CompetitionId=adj.mainCompetitionId and r1.YR = adj.mainYR
+                        and r2.Team=raw.Team and r2.CompetitionId=adj.subCompetitionId and r2.YR = adj.subYR
+                        and r1.PlayerId = r2.PlayerId) > 0
+        	)                        
         )
         group by PlayerId,Team""".format(fromYR=fileYear-3, thruYR=fileYear-1))  
     
@@ -161,7 +172,7 @@ def generateJson(fileYear, conn):
 
         
     output = {"version":36, "startingSeason":fileYear, "players":playersJson, "teams":teamsJson, 
-              "gameAttributes": [{"key": "aiTradesFactor", "value": 0}, {"key": "challengeNoTrades", "value": True}, {"key": "draftType", "value": "random"}, {"key": "foulsNeededToFoulOut", "value": 5}, {"key": "maxRosterSize", "value": 20}, {"key": "numSeasonsFutureDraftPicks", "value": 0}, {"key": "quarterLength", "value": 10}]}
+              "gameAttributes": [{"key": "aiTradesFactor", "value": 0}, {"key": "challengeNoTrades", "value": True}, {"key": "draftType", "value": "random"}, {"key": "foulsNeededToFoulOut", "value": 5}, {"key": "maxRosterSize", "value": 23}, {"key": "numSeasonsFutureDraftPicks", "value": 0}, {"key": "quarterLength", "value": 10}]}
         
     outJson = json.dumps(output, indent=4)
         
