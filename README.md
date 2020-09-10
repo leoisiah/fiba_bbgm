@@ -2,7 +2,7 @@
 
 Basketball GM rosters for FIBA national teams.
 
-Go to the releases section (https://github.com/leoisiah/fiba_bbgm/releases/) to download.
+Go to the Releases section (https://github.com/leoisiah/fiba_bbgm/releases/) to download.
 
 Open the "rosters" directory to view the list of JSON files for BBGM (http://play.basketball-gm.com/).
 
