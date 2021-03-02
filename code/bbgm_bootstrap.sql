@@ -14,9 +14,9 @@ CREATE TABLE "Player" (
 	"WT" REAL, 
 	"Birth City" TEXT, 
 	"Birth Date" TIMESTAMP, 
-	"Pre-NBA Draft Team" TEXT, 
 	"Nationality" TEXT, 
-	"Nationality2" TEXT, 
+	"Nationality2" TEXT,
+	"NationalTeam" TEXT,
 	"College" TEXT, 
 	PRIMARY KEY ("Id"),
 	FOREIGN KEY ("Pos") REFERENCES "Position"("Pos")
@@ -24,23 +24,17 @@ CREATE TABLE "Player" (
 
 CREATE TABLE "Team" (
 	"Name" TEXT, 
-	"IOC3" TEXT, 
-	"IOC2" TEXT, 
+	"ISO3" TEXT, 
+	"ISO2" TEXT, 
 	"Rank" INTEGER,
 	PRIMARY KEY ("Name")
 );
 
-CREATE TABLE "Competition" (
-	"Id" INTEGER, 
-	"Name" TEXT,
-	PRIMARY KEY ("Id")
-);
-
 CREATE TABLE "Advanced_Stats" (
-	"PlayerId" INTEGER, 
-	"Player" TEXT, 
-	"Team" TEXT, 
-	"Pos" TEXT, 
+	"StatId" INTEGER, 
+	"Competition" TEXT, 
+	"YR" INTEGER, 
+	"PlayerId" INTEGER,  
 	"TS%" REAL, 
 	"eFG%" REAL, 
 	"Total S %" REAL, 
@@ -58,19 +52,15 @@ CREATE TABLE "Advanced_Stats" (
 	"DRtg" REAL, 
 	"FIC" REAL, 
 	"PER" REAL, 
-	"CompetitionId" INTEGER, 
-	"YR" INTEGER,
-	PRIMARY KEY ("PlayerId", "Team", "CompetitionId", "YR"), 
-	FOREIGN KEY ("PlayerId") REFERENCES "Player"("Id"),
-	FOREIGN KEY ("Team") REFERENCES "Team"("Name"),
-	FOREIGN KEY ("CompetitionId") REFERENCES "Competition"("Id")
+	PRIMARY KEY ("StatId", "Competition", "YR"), 
+	FOREIGN KEY ("PlayerId") REFERENCES "Player"("Id")
 );
 
 CREATE TABLE "Misc_Stats" (
-	"PlayerId" INTEGER, 
-	"Player" TEXT, 
-	"Team" TEXT, 
-	"Pos" TEXT, 
+	"StatId" INTEGER, 
+	"Competition" TEXT, 
+	"YR" INTEGER, 
+	"PlayerId" INTEGER,  
 	"Dbl Dbl" INTEGER, 
 	"Tpl Dbl" INTEGER, 
 	"40 Pts" INTEGER, 
@@ -90,19 +80,15 @@ CREATE TABLE "Misc_Stats" (
 	"OWS" REAL, 
 	"DWS" REAL, 
 	"WS" REAL, 
-	"CompetitionId" INTEGER, 
-	"YR" INTEGER,
-	PRIMARY KEY ("PlayerId", "Team", "CompetitionId", "YR"), 
-	FOREIGN KEY ("PlayerId") REFERENCES "Player"("Id"),
-	FOREIGN KEY ("Team") REFERENCES "Team"("Name"),
-	FOREIGN KEY ("CompetitionId") REFERENCES "Competition"("Id")
+	PRIMARY KEY ("StatId", "Competition", "YR"), 
+	FOREIGN KEY ("PlayerId") REFERENCES "Player"("Id")
 );
 
 CREATE TABLE "Per_36" (
-	"PlayerId" INTEGER, 
-	"Player" TEXT, 
-	"Team" TEXT, 
-	"Pos" TEXT, 
+	"StatId" INTEGER, 
+	"Competition" TEXT, 
+	"YR" INTEGER, 
+	"PlayerId" INTEGER,  
 	"GP" INTEGER, 
 	"MIN" REAL, 
 	"FGM" REAL, 
@@ -123,19 +109,15 @@ CREATE TABLE "Per_36" (
 	"STL" REAL, 
 	"BLK" REAL, 
 	"PTS" REAL, 
-	"CompetitionId" INTEGER, 
-	"YR" INTEGER,
-	PRIMARY KEY ("PlayerId", "Team", "CompetitionId", "YR"), 
-	FOREIGN KEY ("PlayerId") REFERENCES "Player"("Id"),
-	FOREIGN KEY ("Team") REFERENCES "Team"("Name"),
-	FOREIGN KEY ("CompetitionId") REFERENCES "Competition"("Id")
+	PRIMARY KEY ("StatId", "Competition", "YR"), 
+	FOREIGN KEY ("PlayerId") REFERENCES "Player"("Id")
 );
 
 CREATE TABLE "Raw_Ratings" (
-	"PlayerId" INTEGER, 
-	"Team" TEXT, 
-	"CompetitionId" INTEGER, 
+	"StatId" INTEGER, 
+	"Competition" TEXT, 
 	"YR" INTEGER, 
+	"PlayerId" INTEGER, 	
 	"Hgt" REAL, 
 	"Str" REAL, 
 	"Spd" REAL, 
@@ -151,10 +133,8 @@ CREATE TABLE "Raw_Ratings" (
 	"Drb" REAL, 
 	"Pss" REAL, 
 	"Reb" REAL,
-	PRIMARY KEY ("PlayerId", "Team", "CompetitionId", "YR"), 
-	FOREIGN KEY ("PlayerId") REFERENCES "Player"("Id"),
-	FOREIGN KEY ("Team") REFERENCES "Team"("Name"),
-	FOREIGN KEY ("CompetitionId") REFERENCES "Competition"("Id")
+	PRIMARY KEY ("StatId", "Competition", "YR"), 
+	FOREIGN KEY ("PlayerId") REFERENCES "Player"("Id")
 );
 
 create view Consolidated_Stats as
@@ -200,15 +180,13 @@ pos.PosValue,
 p.HT,
 COALESCE(p.WT, 2.7*p.HT) as WT,
 p36.YR-1-strftime('%Y', p."Birth Date") as Age,
-p36.PlayerId, p36.Team, p36.CompetitionId, p36.YR,
+p36.StatId, p36.Competition, p36.YR, p36.PlayerId,  
 p36.GP*p36.MIN as TOTMIN
 from Per_36 p36, Misc_Stats misc, Advanced_Stats adv, Player p, Position pos
-where p36.PlayerId = misc.PlayerId
-and p36.PlayerId = adv.PlayerId
-and p36.Team = misc.Team
-and p36.Team = adv.Team 
-and p36.CompetitionId = misc.CompetitionId
-and p36.CompetitionId = adv.CompetitionId 
+where p36.StatId = misc.StatId
+and p36.StatId = adv.StatId
+and p36.Competition = misc.Competition
+and p36.Competition = adv.Competition 
 and p36.YR = misc.YR
 and p36.YR = adv.YR
 and p36.PlayerId = p.Id
@@ -216,31 +194,50 @@ and p.Pos = pos.Pos;
 
 create view Overall as
 select 
-PlayerId, 
-Team,
-CompetitionId, 
-YR, 
-(Str+Spd+Jmp+End+Ins+Dnk+FT+"2Pt"+"3Pt"+oIQ+dIQ+Drb+Pss+Reb)/14 as OVR 
+StatId, Competition, YR, PlayerId,
+(2*Str+3*Spd+Jmp+2*End+Ins+Dnk+FT+"2Pt"+2*"3Pt"+3*oIQ+4*dIQ+2*Drb+2*Pss+Reb)/26 as OVR 
 from Raw_Ratings;
 
-create view Adjustment as
+create view Adjustment_NBA as
 select 
-sub.CompetitionId as subCompetitionId, 
+sub.Competition as subCompetition, 
 sub.YR as subYR, 
-main.CompetitionId as mainCompetitionId, 
+main.Competition as mainCompetition, 
 main.YR as mainYR,
-COALESCE((AVG(main.OVR)-MIN(main.OVR))/(AVG(sub.OVR)-MIN(sub.OVR)),1) as slope, 
--MIN(sub.OVR)*COALESCE((AVG(main.OVR)-MIN(main.OVR))/(AVG(sub.OVR)-MIN(sub.OVR)),1)+MIN(main.OVR) as intercept
+(AVG(main.OVR)-MIN(main.OVR))/(AVG(sub.OVR)-MIN(sub.OVR)) as slope, 
+-MIN(sub.OVR)*(AVG(main.OVR)-MIN(main.OVR))/(AVG(sub.OVR)-MIN(sub.OVR))+MIN(main.OVR) as intercept
 from Overall sub, Overall main
 where sub.PlayerId = main.PlayerId
-group by sub.CompetitionId, sub.YR, main.CompetitionId, main.YR;
+and main.Competition = 'NBA' and main.YR = (select min(YR) from Per_36 where Competition = 'NBA')
+group by sub.Competition, sub.YR, main.Competition, main.YR
+having count(1) > 3;
+
+create view Adjustment_DLeague as
+select 
+sub.Competition as subCompetition, 
+sub.YR as subYR, 
+main.Competition as mainCompetition, 
+main.YR as mainYR,
+(AVG(main.OVR)-MIN(main.OVR))/(AVG(sub.OVR)-MIN(sub.OVR)) as slope, 
+-MIN(sub.OVR)*(AVG(main.OVR)-MIN(main.OVR))/(AVG(sub.OVR)-MIN(sub.OVR))+MIN(main.OVR) as intercept
+from Overall sub, Overall main
+where sub.PlayerId = main.PlayerId
+and main.Competition = 'DLeague' and main.YR = (select min(YR) from Per_36 where Competition = 'DLeague')
+group by sub.Competition, sub.YR, main.Competition, main.YR
+having count(1) > 3;
+
+create view Adjustment as
+select * from Adjustment_NBA
+UNION
+select dl.subCompetition, dl.subYR, nb.mainCompetition, nb.mainYR,
+nb.slope*dl.slope, nb.slope*dl.intercept+nb.intercept
+from Adjustment_DLeague dl, Adjustment_NBA nb
+where dl.mainCompetition = nb.subCompetition and dl.mainYR = nb.subYR
+and (dl.subCompetition, dl.subYR) not in (select subCompetition, subYR from Adjustment_NBA);
 
 create view Adjusted_Ratings as
 select 
 PlayerId, 
-Team, 
-CompetitionId, 
-YR,
 AVG(Hgt) as Hgt,
 AVG(Str) as Str,
 AVG(Spd) as Spd,
@@ -258,28 +255,47 @@ AVG(Pss) as Pss,
 AVG(Reb) as Reb
 from
 (
-	select 
-	raw.PlayerId, 
-	raw.Team, 
-	adj.mainCompetitionId as CompetitionId, 
-	adj.mainYR as YR,
-	raw.Hgt, 
-	raw.Str*adj.slope+adj.intercept as Str,
-	raw.Spd*adj.slope+adj.intercept as Spd,
-	raw.Jmp*adj.slope+adj.intercept as Jmp,
-	raw.End*adj.slope+adj.intercept as End,
-	raw.Ins*adj.slope+adj.intercept as Ins,
-	raw.Dnk*adj.slope+adj.intercept as Dnk,
-	raw.FT*adj.slope+adj.intercept as FT,
-	raw."2Pt"*adj.slope+adj.intercept as "2Pt",
-	raw."3Pt"*adj.slope+adj.intercept as "3Pt",
-	raw.oIQ*adj.slope+adj.intercept as oIQ,
-	raw.dIQ*adj.slope+adj.intercept as dIQ,
-	raw.Drb*adj.slope+adj.intercept as Drb,
-	raw.Pss*adj.slope+adj.intercept as Pss,
-	raw.Reb*adj.slope+adj.intercept as Reb
-	from Raw_Ratings raw, Adjustment adj
-	where raw.CompetitionId = adj.subCompetitionId
-	and raw.YR = adj.subYR
-) x
-group by PlayerId,Team,CompetitionId,YR;
+        select 
+        raw.PlayerId, 
+        adj.subCompetition, 
+        adj.subYR,
+        adj.mainCompetition, 
+        adj.mainYR,
+        raw.Hgt, 
+        raw.Str*adj.slope+adj.intercept as Str,
+        raw.Spd*adj.slope+adj.intercept as Spd,
+        raw.Jmp*adj.slope+adj.intercept as Jmp,
+        raw.End*adj.slope+adj.intercept as End,
+        raw.Ins*adj.slope+adj.intercept as Ins,
+        raw.Dnk*adj.slope+adj.intercept as Dnk,
+        raw.FT*adj.slope+adj.intercept as FT,
+        raw."2Pt"*adj.slope+adj.intercept as "2Pt",
+        raw."3Pt"*adj.slope+adj.intercept as "3Pt",
+        raw.oIQ*adj.slope+adj.intercept as oIQ,
+        raw.dIQ*adj.slope+adj.intercept as dIQ,
+        raw.Drb*adj.slope+adj.intercept as Drb,
+        raw.Pss*adj.slope+adj.intercept as Pss,
+        raw.Reb*adj.slope+adj.intercept as Reb
+        from Raw_Ratings raw, Adjustment adj
+        where raw.Competition = adj.subCompetition
+        and raw.YR = adj.subYR
+)
+group by PlayerId;
+
+create view Output as
+select * from
+(
+select * , IFNULL(NationalTeam, Nationality) as NationalTeam2,
+ROW_NUMBER () OVER ( 
+        PARTITION BY IFNULL(NationalTeam, Nationality)
+        ORDER BY NationalTeam desc, (4*Hgt+2*Str+3*Spd+Jmp+2*End+Ins+Dnk+FT+"2Pt"+2*"3Pt"+3*oIQ+4*dIQ+2*Drb+2*Pss+Reb)/30  desc
+) RowNum,
+ROW_NUMBER () OVER ( 
+        PARTITION BY IFNULL(NationalTeam, Nationality)
+        ORDER BY NationalTeam asc,  (4*Hgt+2*Str+3*Spd+Jmp+2*End+Ins+Dnk+FT+"2Pt"+2*"3Pt"+3*oIQ+4*dIQ+2*Drb+2*Pss+Reb)/30  asc
+) RowNumDesc
+from Adjusted_Ratings a, Player p
+where p.Id = a.PlayerId
+and (p.NationalTeam is not null or p.Nationality2 is NULL)
+) where RowNum <= 12
+and RowNum+RowNumDesc >= 9;
