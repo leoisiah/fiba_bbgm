@@ -51,7 +51,7 @@ req = requests.get(tempUrl2)
 soup = BeautifulSoup(req.content, 'html.parser')
 
 rosterUrls.extend([baseUrl + m['value'] + "/" + str(year-1) for m in soup.find("label", string="League:").find_next("select").select("option")])
-rosterUrls = ["https://basketball.realgm.com/international/league/85/Premier-Basketball-League/players/78/2012"]
+
 #%%
 def getBirthDate(df):
     try:
