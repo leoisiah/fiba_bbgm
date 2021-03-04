@@ -14586,8 +14586,8 @@
         },
         {
             "tid": 1,
-            "cid": 1,
-            "did": 3,
+            "cid": 0,
+            "did": 0,
             "region": "ESP",
             "name": "Spain",
             "abbrev": "ESP",
@@ -14596,8 +14596,8 @@
         },
         {
             "tid": 2,
-            "cid": 1,
-            "did": 4,
+            "cid": 0,
+            "did": 0,
             "region": "AUS",
             "name": "Australia",
             "abbrev": "AUS",
@@ -14607,7 +14607,7 @@
         {
             "tid": 3,
             "cid": 0,
-            "did": 1,
+            "did": 0,
             "region": "ARG",
             "name": "Argentina",
             "abbrev": "ARG",
@@ -14617,7 +14617,7 @@
         {
             "tid": 4,
             "cid": 0,
-            "did": 2,
+            "did": 0,
             "region": "SRB",
             "name": "Serbia",
             "abbrev": "SRB",
@@ -14626,8 +14626,8 @@
         },
         {
             "tid": 5,
-            "cid": 1,
-            "did": 5,
+            "cid": 0,
+            "did": 0,
             "region": "FRA",
             "name": "France",
             "abbrev": "FRA",
@@ -14636,8 +14636,8 @@
         },
         {
             "tid": 6,
-            "cid": 1,
-            "did": 5,
+            "cid": 0,
+            "did": 0,
             "region": "GRE",
             "name": "Greece",
             "abbrev": "GRE",
@@ -14647,7 +14647,7 @@
         {
             "tid": 7,
             "cid": 0,
-            "did": 2,
+            "did": 0,
             "region": "LTU",
             "name": "Lithuania",
             "abbrev": "LTU",
@@ -14657,7 +14657,7 @@
         {
             "tid": 8,
             "cid": 0,
-            "did": 1,
+            "did": 0,
             "region": "CZE",
             "name": "Czech Republic",
             "abbrev": "CZE",
@@ -14666,8 +14666,8 @@
         },
         {
             "tid": 9,
-            "cid": 1,
-            "did": 4,
+            "cid": 0,
+            "did": 0,
             "region": "BRA",
             "name": "Brazil",
             "abbrev": "BRA",
@@ -14676,8 +14676,8 @@
         },
         {
             "tid": 10,
-            "cid": 1,
-            "did": 3,
+            "cid": 0,
+            "did": 0,
             "region": "RUS",
             "name": "Russia",
             "abbrev": "RUS",
@@ -14706,8 +14706,8 @@
         },
         {
             "tid": 13,
-            "cid": 1,
-            "did": 3,
+            "cid": 0,
+            "did": 0,
             "region": "CRO",
             "name": "Croatia",
             "abbrev": "CRO",
@@ -14716,8 +14716,8 @@
         },
         {
             "tid": 14,
-            "cid": 1,
-            "did": 4,
+            "cid": 0,
+            "did": 0,
             "region": "TUR",
             "name": "Turkey",
             "abbrev": "TUR",
@@ -14727,7 +14727,7 @@
         {
             "tid": 15,
             "cid": 0,
-            "did": 1,
+            "did": 0,
             "region": "PUR",
             "name": "Puerto Rico",
             "abbrev": "PUR",
@@ -14737,7 +14737,7 @@
         {
             "tid": 16,
             "cid": 0,
-            "did": 2,
+            "did": 0,
             "region": "SLO",
             "name": "Slovenia",
             "abbrev": "SLO",
@@ -14746,8 +14746,8 @@
         },
         {
             "tid": 17,
-            "cid": 1,
-            "did": 5,
+            "cid": 0,
+            "did": 0,
             "region": "GER",
             "name": "Germany",
             "abbrev": "GER",
@@ -14756,8 +14756,8 @@
         },
         {
             "tid": 18,
-            "cid": 1,
-            "did": 5,
+            "cid": 0,
+            "did": 0,
             "region": "DOM",
             "name": "Dominican Republic",
             "abbrev": "DOM",
@@ -14767,7 +14767,7 @@
         {
             "tid": 19,
             "cid": 0,
-            "did": 2,
+            "did": 0,
             "region": "VEN",
             "name": "Venezuela",
             "abbrev": "VEN",
@@ -14777,7 +14777,7 @@
         {
             "tid": 20,
             "cid": 0,
-            "did": 1,
+            "did": 0,
             "region": "CAN",
             "name": "Canada",
             "abbrev": "CAN",
@@ -14786,8 +14786,8 @@
         },
         {
             "tid": 21,
-            "cid": 1,
-            "did": 4,
+            "cid": 0,
+            "did": 0,
             "region": "NGR",
             "name": "Nigeria",
             "abbrev": "NGR",
@@ -14796,8 +14796,8 @@
         },
         {
             "tid": 22,
-            "cid": 1,
-            "did": 3,
+            "cid": 0,
+            "did": 0,
             "region": "MNE",
             "name": "Montenegro",
             "abbrev": "MNE",
@@ -14826,8 +14826,8 @@
         },
         {
             "tid": 25,
-            "cid": 1,
-            "did": 3,
+            "cid": 0,
+            "did": 0,
             "region": "UKR",
             "name": "Ukraine",
             "abbrev": "UKR",
@@ -14836,8 +14836,8 @@
         },
         {
             "tid": 26,
-            "cid": 1,
-            "did": 4,
+            "cid": 0,
+            "did": 0,
             "region": "PHI",
             "name": "Philippines",
             "abbrev": "PHI",
@@ -14847,7 +14847,7 @@
         {
             "tid": 27,
             "cid": 0,
-            "did": 1,
+            "did": 0,
             "region": "TUN",
             "name": "Tunisia",
             "abbrev": "TUN",
@@ -14857,7 +14857,7 @@
         {
             "tid": 28,
             "cid": 0,
-            "did": 2,
+            "did": 0,
             "region": "FIN",
             "name": "Finland",
             "abbrev": "FIN",
@@ -14866,8 +14866,8 @@
         },
         {
             "tid": 29,
-            "cid": 1,
-            "did": 5,
+            "cid": 0,
+            "did": 0,
             "region": "SEN",
             "name": "Senegal",
             "abbrev": "SEN",
@@ -14876,8 +14876,8 @@
         },
         {
             "tid": 30,
-            "cid": 1,
-            "did": 5,
+            "cid": 0,
+            "did": 0,
             "region": "GEO",
             "name": "Georgia",
             "abbrev": "GEO",
@@ -14887,7 +14887,7 @@
         {
             "tid": 31,
             "cid": 0,
-            "did": 2,
+            "did": 0,
             "region": "BEL",
             "name": "Belgium",
             "abbrev": "BEL",
@@ -14897,7 +14897,7 @@
         {
             "tid": 32,
             "cid": 0,
-            "did": 1,
+            "did": 0,
             "region": "HUN",
             "name": "Hungary",
             "abbrev": "HUN",
@@ -14906,8 +14906,8 @@
         },
         {
             "tid": 33,
-            "cid": 1,
-            "did": 4,
+            "cid": 0,
+            "did": 0,
             "region": "ISR",
             "name": "Israel",
             "abbrev": "ISR",
@@ -14916,8 +14916,8 @@
         },
         {
             "tid": 34,
-            "cid": 1,
-            "did": 3,
+            "cid": 0,
+            "did": 0,
             "region": "GBR",
             "name": "England",
             "abbrev": "GBR",
@@ -14946,8 +14946,8 @@
         },
         {
             "tid": 37,
-            "cid": 1,
-            "did": 3,
+            "cid": 0,
+            "did": 0,
             "region": "BGR",
             "name": "Bulgaria",
             "abbrev": "BGR",
@@ -14956,8 +14956,8 @@
         },
         {
             "tid": 38,
-            "cid": 1,
-            "did": 4,
+            "cid": 0,
+            "did": 0,
             "region": "EST",
             "name": "Estonia",
             "abbrev": "EST",
@@ -14967,7 +14967,7 @@
         {
             "tid": 39,
             "cid": 0,
-            "did": 1,
+            "did": 0,
             "region": "BLR",
             "name": "Belarus",
             "abbrev": "BLR",
@@ -14977,7 +14977,7 @@
         {
             "tid": 40,
             "cid": 0,
-            "did": 2,
+            "did": 0,
             "region": "SWE",
             "name": "Sweden",
             "abbrev": "SWE",
@@ -15051,6 +15051,25 @@
                 1,
                 1
             ]
-        }
+        },
+        {
+            "key": "confs",
+            "value": [
+                {
+                    "cid": 0,
+                    "name": "Conference"
+                }
+            ]            
+        },
+        {
+            "key": "divs",
+            "value": [
+                {
+                    "did": 0,
+                    "cid": 0,
+                    "name": "Division"
+                }
+            ]            
+        }            
     ]
 }
