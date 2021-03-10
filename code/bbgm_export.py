@@ -11,7 +11,7 @@ import math;
 import json;
 
 # edit this
-year = 2013
+year = 2021
 
 #%%
 def adjustRating(x):
@@ -41,8 +41,6 @@ def generateJson(conn):
     filename = str(year-1)+"-"+str((year)%100)+".FIBA.json"
     
     teamMap = {};
-    confMap = {0:0, 1:1, 2:1, 3:0};
-    divMap = {0:0, 1:3, 2:4, 3:1, 4:2, 5:5, 6:5, 7:2, 8:1, 9:4, 10:3, 11:0}    
 	
     teamsSql = pandas.read_sql(sql="""
         select * from Team where Name in (select NationalTeam2 from Output)
@@ -54,7 +52,7 @@ def generateJson(conn):
 		
     for i, row in teamsSql.iterrows():           
         teamMap[row["Name"]] = i;
-        teamJson = {"tid": i, "cid": confMap[i%4], "did": divMap[i%12], "region": row["ISO3"], "name": row["Name"], "abbrev": row["ISO3"], "imgURL": "https://www.countryflags.io/"+row["ISO2"]+"/shiny/64.png", "pop": 10, }
+        teamJson = {"tid": i, "cid": 0, "did": 0, "region": row["ISO3"], "name": row["Name"], "abbrev": row["ISO3"], "imgURL": "https://www.countryflags.io/"+row["ISO2"]+"/shiny/64.png", "pop": 10, }
         teamsJson.append(teamJson);
         numTeams = numTeams + 1;
 		
@@ -91,8 +89,11 @@ def generateJson(conn):
         playersJson.append(playerJson);		            
 		
     output = {"version":36, "startingSeason":year, "players":playersJson, "teams":teamsJson, 
-              "gameAttributes": [{"key": "numDraftRounds", "value": 1}, {"key": "homeCourtAdvantage", "value": 0}, {"key": "numGames", "value": numTeams-1}, {"key": "aiTradesFactor", "value": 0}, {"key": "challengeNoTrades", "value": True}, {"key": "draftType", "value": "noLotteryReverse"}, {"key": "foulsNeededToFoulOut", "value": 5}, {"key": "minRosterSize", "value": 8}, {"key": "maxRosterSize", "value": 12}, {"key": "numSeasonsFutureDraftPicks", "value": 0}, {"key": "quarterLength", "value": 10}, {"key": "maxContract", "value": 6000}, {"key": "minPayroll", "value": 0}, {"key": "defaultStadiumCapacity", "value": 50000}, {"key": "numGamesPlayoffSeries", "value": [1,1,1,1,1]}, ]}
+              "gameAttributes": [{"key": "numDraftRounds", "value": 1}, {"key": "homeCourtAdvantage", "value": 0}, {"key": "numGames", "value": numTeams-1}, {"key": "aiTradesFactor", "value": 0}, {"key": "challengeNoTrades", "value": True}, {"key": "draftType", "value": "noLotteryReverse"}, {"key": "foulsNeededToFoulOut", "value": 5}, {"key": "minRosterSize", "value": 8}, {"key": "maxRosterSize", "value": 12}, {"key": "numSeasonsFutureDraftPicks", "value": 0}, {"key": "quarterLength", "value": 10}, {"key": "maxContract", "value": 6000}, {"key": "minPayroll", "value": 0}, {"key": "defaultStadiumCapacity", "value": 50000}, {"key": "numGamesPlayoffSeries", "value": [1,1,1,1,1]}, {"key": "confs", "value": [{"cid": 0, "name": "Conference"}]}, {"key": "divs", "value": [{"did": 0, "cid": 0, "name": "Division"}]}, ]}
+
+
         
+			  
     outJson = json.dumps(output, indent=4)
         
     with open(filename, "w") as fw:
