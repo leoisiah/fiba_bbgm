@@ -1,14 +1,6 @@
 # README
 
-Basketball GM rosters for FIBA national teams.
-
-Go to the Releases section (https://github.com/leoisiah/fiba_bbgm/releases/) to download.
-
-Open the "rosters" directory to view the list of JSON files for BBGM (http://play.basketball-gm.com/).
-
-The "code" directory contains a rough code I used to generate these.
-
-Credits to RealGM (https://basketball.realgm.com/), the source of stats used for this project.
+See https://leoisiah.github.io/fiba_bbgm/ for step-by-step instructions on how to use the rosters.
 
 # Donate
 
