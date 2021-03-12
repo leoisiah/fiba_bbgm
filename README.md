@@ -1,4 +1,5 @@
 # README
+Basketball GM rosters for FIBA national teams.
 
 See https://leoisiah.github.io/fiba_bbgm/ for step-by-step instructions on how to use the rosters.
 
