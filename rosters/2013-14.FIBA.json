@@ -2106,7 +2106,7 @@
             "weight": 194,
             "born": {
                 "year": 1980,
-                "loc": "Chicago, IL, United States"
+                "loc": "Chicago, Illinois"
             },
             "college": "Missouri Western"
         },
@@ -4648,7 +4648,7 @@
             "weight": 200,
             "born": {
                 "year": 1973,
-                "loc": "Upper Sandusky, OH, United States"
+                "loc": "Upper Sandusky, Ohio"
             },
             "college": "Kent State"
         },
@@ -9918,7 +9918,7 @@
             "weight": 220,
             "born": {
                 "year": 1990,
-                "loc": "Atlanta, GA, United States"
+                "loc": "Atlanta, Georgia"
             },
             "college": "Wake Forest"
         },
@@ -9949,7 +9949,7 @@
             "weight": 255,
             "born": {
                 "year": 1983,
-                "loc": "Buffalo, NY, United States"
+                "loc": "Buffalo, New York"
             },
             "college": "Arizona State"
         },
@@ -9980,7 +9980,7 @@
             "weight": 200,
             "born": {
                 "year": 1986,
-                "loc": "Houston, TX, United States"
+                "loc": "Houston, Texas"
             },
             "college": "Illinois State"
         },
@@ -10011,7 +10011,7 @@
             "weight": 215,
             "born": {
                 "year": 1981,
-                "loc": "Houston, TX, United States"
+                "loc": "Houston, Texas"
             },
             "college": "Texas-Arlington"
         },
@@ -10073,7 +10073,7 @@
             "weight": 225,
             "born": {
                 "year": 1987,
-                "loc": "Stone Mountain, GA, United States"
+                "loc": "Stone Mountain, Georgia"
             },
             "college": "Georgia Tech"
         },
@@ -10135,7 +10135,7 @@
             "weight": 175,
             "born": {
                 "year": 1983,
-                "loc": "Takoma Park, MD, United States"
+                "loc": "Takoma Park, Maryland"
             },
             "college": "George Mason"
         },
@@ -10166,7 +10166,7 @@
             "weight": 220,
             "born": {
                 "year": 1985,
-                "loc": "Los Angeles, CA, United States"
+                "loc": "Los Angeles, California"
             },
             "college": "Maryland"
         },
@@ -10197,7 +10197,7 @@
             "weight": 215,
             "born": {
                 "year": 1981,
-                "loc": "Pasadena, CA, United States"
+                "loc": "Pasadena, California"
             },
             "college": "Pennsylvania"
         },
@@ -10228,7 +10228,7 @@
             "weight": 217,
             "born": {
                 "year": 1987,
-                "loc": "Bensenville, IL, United States"
+                "loc": "Bensenville, Illinois"
             },
             "college": "Northern Illinois"
         },
@@ -15405,7 +15405,7 @@
             "weight": 240,
             "born": {
                 "year": 1988,
-                "loc": "Washington, DC, United States"
+                "loc": "Washington, District of Columbia"
             },
             "college": "Texas"
         },
@@ -15436,7 +15436,7 @@
             "weight": 250,
             "born": {
                 "year": 1984,
-                "loc": "Akron, OH, United States"
+                "loc": "Akron, Ohio"
             },
             "college": ""
         },
@@ -15467,7 +15467,7 @@
             "weight": 240,
             "born": {
                 "year": 1984,
-                "loc": "New York, NY, United States"
+                "loc": "New York, New York"
             },
             "college": "Syracuse"
         },
@@ -15498,7 +15498,7 @@
             "weight": 212,
             "born": {
                 "year": 1978,
-                "loc": "Philadelphia, PA, United States"
+                "loc": "Philadelphia, Pennsylvania"
             },
             "college": ""
         },
@@ -15529,7 +15529,7 @@
             "weight": 220,
             "born": {
                 "year": 1989,
-                "loc": "Los Angeles, CA, United States"
+                "loc": "Los Angeles, California"
             },
             "college": "Arizona State"
         },
@@ -15560,7 +15560,7 @@
             "weight": 247,
             "born": {
                 "year": 1988,
-                "loc": "Santa Monica, CA, United States"
+                "loc": "Santa Monica, California"
             },
             "college": "UCLA"
         },
@@ -15591,7 +15591,7 @@
             "weight": 200,
             "born": {
                 "year": 1988,
-                "loc": "Long Beach, CA, United States"
+                "loc": "Long Beach, California"
             },
             "college": "UCLA"
         },
@@ -15622,7 +15622,7 @@
             "weight": 175,
             "born": {
                 "year": 1985,
-                "loc": "Winston-Salem, NC, United States"
+                "loc": "Winston-Salem, North Carolina"
             },
             "college": "Wake Forest"
         },
@@ -15653,7 +15653,7 @@
             "weight": 200,
             "born": {
                 "year": 1984,
-                "loc": "Parkersburg, WV, United States"
+                "loc": "Parkersburg, West Virginia"
             },
             "college": "Illinois"
         },
@@ -15684,7 +15684,7 @@
             "weight": 215,
             "born": {
                 "year": 1984,
-                "loc": "Springfield, IL, United States"
+                "loc": "Springfield, Illinois"
             },
             "college": "Arizona"
         },
@@ -15715,7 +15715,7 @@
             "weight": 240,
             "born": {
                 "year": 1982,
-                "loc": "Hanford, CA, United States"
+                "loc": "Hanford, California"
             },
             "college": ""
         },
@@ -15746,7 +15746,7 @@
             "weight": 253,
             "born": {
                 "year": 1993,
-                "loc": "Chicago, IL, United States"
+                "loc": "Chicago, Illinois"
             },
             "college": "Kentucky"
         },
@@ -16131,7 +16131,7 @@
             "region": "USA",
             "name": "United States",
             "abbrev": "USA",
-            "imgURL": "https://www.countryflags.io/US/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/us.svg",
             "pop": 10
         },
         {
@@ -16141,7 +16141,7 @@
             "region": "ESP",
             "name": "Spain",
             "abbrev": "ESP",
-            "imgURL": "https://www.countryflags.io/ES/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/es.svg",
             "pop": 10
         },
         {
@@ -16151,7 +16151,7 @@
             "region": "AUS",
             "name": "Australia",
             "abbrev": "AUS",
-            "imgURL": "https://www.countryflags.io/AU/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/au.svg",
             "pop": 10
         },
         {
@@ -16161,7 +16161,7 @@
             "region": "ARG",
             "name": "Argentina",
             "abbrev": "ARG",
-            "imgURL": "https://www.countryflags.io/AR/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/ar.svg",
             "pop": 10
         },
         {
@@ -16171,7 +16171,7 @@
             "region": "SRB",
             "name": "Serbia",
             "abbrev": "SRB",
-            "imgURL": "https://www.countryflags.io/RS/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/rs.svg",
             "pop": 10
         },
         {
@@ -16181,7 +16181,7 @@
             "region": "FRA",
             "name": "France",
             "abbrev": "FRA",
-            "imgURL": "https://www.countryflags.io/FR/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/fr.svg",
             "pop": 10
         },
         {
@@ -16191,7 +16191,7 @@
             "region": "GRE",
             "name": "Greece",
             "abbrev": "GRE",
-            "imgURL": "https://www.countryflags.io/GR/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/gr.svg",
             "pop": 10
         },
         {
@@ -16201,7 +16201,7 @@
             "region": "LTU",
             "name": "Lithuania",
             "abbrev": "LTU",
-            "imgURL": "https://www.countryflags.io/LT/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/lt.svg",
             "pop": 10
         },
         {
@@ -16211,7 +16211,7 @@
             "region": "CZE",
             "name": "Czech Republic",
             "abbrev": "CZE",
-            "imgURL": "https://www.countryflags.io/CZ/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/cz.svg",
             "pop": 10
         },
         {
@@ -16221,7 +16221,7 @@
             "region": "BRA",
             "name": "Brazil",
             "abbrev": "BRA",
-            "imgURL": "https://www.countryflags.io/BR/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/br.svg",
             "pop": 10
         },
         {
@@ -16231,7 +16231,7 @@
             "region": "RUS",
             "name": "Russia",
             "abbrev": "RUS",
-            "imgURL": "https://www.countryflags.io/RU/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/ru.svg",
             "pop": 10
         },
         {
@@ -16241,7 +16241,7 @@
             "region": "ITA",
             "name": "Italy",
             "abbrev": "ITA",
-            "imgURL": "https://www.countryflags.io/IT/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/it.svg",
             "pop": 10
         },
         {
@@ -16251,7 +16251,7 @@
             "region": "POL",
             "name": "Poland",
             "abbrev": "POL",
-            "imgURL": "https://www.countryflags.io/PL/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/pl.svg",
             "pop": 10
         },
         {
@@ -16261,7 +16261,7 @@
             "region": "CRO",
             "name": "Croatia",
             "abbrev": "CRO",
-            "imgURL": "https://www.countryflags.io/HR/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/hr.svg",
             "pop": 10
         },
         {
@@ -16271,7 +16271,7 @@
             "region": "TUR",
             "name": "Turkey",
             "abbrev": "TUR",
-            "imgURL": "https://www.countryflags.io/TR/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/tr.svg",
             "pop": 10
         },
         {
@@ -16281,7 +16281,7 @@
             "region": "PUR",
             "name": "Puerto Rico",
             "abbrev": "PUR",
-            "imgURL": "https://www.countryflags.io/PR/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/pr.svg",
             "pop": 10
         },
         {
@@ -16291,7 +16291,7 @@
             "region": "SLO",
             "name": "Slovenia",
             "abbrev": "SLO",
-            "imgURL": "https://www.countryflags.io/SI/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/si.svg",
             "pop": 10
         },
         {
@@ -16301,7 +16301,7 @@
             "region": "GER",
             "name": "Germany",
             "abbrev": "GER",
-            "imgURL": "https://www.countryflags.io/DE/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/de.svg",
             "pop": 10
         },
         {
@@ -16311,7 +16311,7 @@
             "region": "DOM",
             "name": "Dominican Republic",
             "abbrev": "DOM",
-            "imgURL": "https://www.countryflags.io/DO/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/do.svg",
             "pop": 10
         },
         {
@@ -16321,7 +16321,7 @@
             "region": "VEN",
             "name": "Venezuela",
             "abbrev": "VEN",
-            "imgURL": "https://www.countryflags.io/VE/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/ve.svg",
             "pop": 10
         },
         {
@@ -16331,7 +16331,7 @@
             "region": "CAN",
             "name": "Canada",
             "abbrev": "CAN",
-            "imgURL": "https://www.countryflags.io/CA/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/ca.svg",
             "pop": 10
         },
         {
@@ -16341,7 +16341,7 @@
             "region": "NGR",
             "name": "Nigeria",
             "abbrev": "NGR",
-            "imgURL": "https://www.countryflags.io/NG/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/ng.svg",
             "pop": 10
         },
         {
@@ -16351,7 +16351,7 @@
             "region": "MEX",
             "name": "Mexico",
             "abbrev": "MEX",
-            "imgURL": "https://www.countryflags.io/MX/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/mx.svg",
             "pop": 10
         },
         {
@@ -16361,7 +16361,7 @@
             "region": "MNE",
             "name": "Montenegro",
             "abbrev": "MNE",
-            "imgURL": "https://www.countryflags.io/ME/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/me.svg",
             "pop": 10
         },
         {
@@ -16371,7 +16371,7 @@
             "region": "LAT",
             "name": "Latvia",
             "abbrev": "LAT",
-            "imgURL": "https://www.countryflags.io/LV/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/lv.svg",
             "pop": 10
         },
         {
@@ -16381,7 +16381,7 @@
             "region": "CHN",
             "name": "China",
             "abbrev": "CHN",
-            "imgURL": "https://www.countryflags.io/CN/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/cn.svg",
             "pop": 10
         },
         {
@@ -16391,7 +16391,7 @@
             "region": "UKR",
             "name": "Ukraine",
             "abbrev": "UKR",
-            "imgURL": "https://www.countryflags.io/UA/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/ua.svg",
             "pop": 10
         },
         {
@@ -16401,7 +16401,7 @@
             "region": "KOR",
             "name": "South Korea",
             "abbrev": "KOR",
-            "imgURL": "https://www.countryflags.io/KR/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/kr.svg",
             "pop": 10
         },
         {
@@ -16411,7 +16411,7 @@
             "region": "PHI",
             "name": "Philippines",
             "abbrev": "PHI",
-            "imgURL": "https://www.countryflags.io/PH/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/ph.svg",
             "pop": 10
         },
         {
@@ -16421,7 +16421,7 @@
             "region": "TUN",
             "name": "Tunisia",
             "abbrev": "TUN",
-            "imgURL": "https://www.countryflags.io/TN/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/tn.svg",
             "pop": 10
         },
         {
@@ -16431,7 +16431,7 @@
             "region": "FIN",
             "name": "Finland",
             "abbrev": "FIN",
-            "imgURL": "https://www.countryflags.io/FI/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/fi.svg",
             "pop": 10
         },
         {
@@ -16441,7 +16441,7 @@
             "region": "SEN",
             "name": "Senegal",
             "abbrev": "SEN",
-            "imgURL": "https://www.countryflags.io/SN/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/sn.svg",
             "pop": 10
         },
         {
@@ -16451,7 +16451,7 @@
             "region": "GEO",
             "name": "Georgia",
             "abbrev": "GEO",
-            "imgURL": "https://www.countryflags.io/GE/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/ge.svg",
             "pop": 10
         },
         {
@@ -16461,7 +16461,7 @@
             "region": "BEL",
             "name": "Belgium",
             "abbrev": "BEL",
-            "imgURL": "https://www.countryflags.io/BE/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/be.svg",
             "pop": 10
         },
         {
@@ -16471,7 +16471,7 @@
             "region": "HUN",
             "name": "Hungary",
             "abbrev": "HUN",
-            "imgURL": "https://www.countryflags.io/HU/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/hu.svg",
             "pop": 10
         },
         {
@@ -16481,7 +16481,7 @@
             "region": "ISR",
             "name": "Israel",
             "abbrev": "ISR",
-            "imgURL": "https://www.countryflags.io/IL/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/il.svg",
             "pop": 10
         },
         {
@@ -16491,7 +16491,7 @@
             "region": "GBR",
             "name": "England",
             "abbrev": "GBR",
-            "imgURL": "https://www.countryflags.io/GB/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/gb.svg",
             "pop": 10
         },
         {
@@ -16501,7 +16501,7 @@
             "region": "BIH",
             "name": "Bosnia and Herzegovina",
             "abbrev": "BIH",
-            "imgURL": "https://www.countryflags.io/BA/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/ba.svg",
             "pop": 10
         },
         {
@@ -16511,7 +16511,7 @@
             "region": "BGR",
             "name": "Bulgaria",
             "abbrev": "BGR",
-            "imgURL": "https://www.countryflags.io/BG/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/bg.svg",
             "pop": 10
         },
         {
@@ -16521,7 +16521,7 @@
             "region": "EST",
             "name": "Estonia",
             "abbrev": "EST",
-            "imgURL": "https://www.countryflags.io/EE/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/ee.svg",
             "pop": 10
         },
         {
@@ -16531,7 +16531,7 @@
             "region": "BLR",
             "name": "Belarus",
             "abbrev": "BLR",
-            "imgURL": "https://www.countryflags.io/BY/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/by.svg",
             "pop": 10
         },
         {
@@ -16541,7 +16541,7 @@
             "region": "ROU",
             "name": "Romania",
             "abbrev": "ROU",
-            "imgURL": "https://www.countryflags.io/RO/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/ro.svg",
             "pop": 10
         },
         {
@@ -16551,7 +16551,7 @@
             "region": "SWE",
             "name": "Sweden",
             "abbrev": "SWE",
-            "imgURL": "https://www.countryflags.io/SE/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/se.svg",
             "pop": 10
         },
         {
@@ -16561,7 +16561,7 @@
             "region": "KAZ",
             "name": "Kazakhstan",
             "abbrev": "KAZ",
-            "imgURL": "https://www.countryflags.io/KZ/shiny/64.png",
+            "imgURL": "https://play.basketball-gm.com/img/flags/kz.svg",
             "pop": 10
         }
     ],
