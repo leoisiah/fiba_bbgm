@@ -4,99 +4,6 @@
     "players": [
         {
             "tid": 31,
-            "name": "Edson Ndoniema",
-            "ratings": [
-                {
-                    "diq": 18,
-                    "dnk": 27,
-                    "drb": 37,
-                    "endu": 19,
-                    "fg": 25,
-                    "ft": 51,
-                    "hgt": 37,
-                    "ins": 24,
-                    "jmp": 23,
-                    "oiq": 8,
-                    "pss": 38,
-                    "reb": 23,
-                    "spd": 36,
-                    "stre": 27,
-                    "tp": 68
-                }
-            ],
-            "pos": "SG",
-            "hgt": 76,
-            "weight": 194,
-            "born": {
-                "year": 1991,
-                "loc": "Luanda, Angola"
-            },
-            "college": ""
-        },
-        {
-            "tid": 31,
-            "name": "Silvio De Sousa",
-            "ratings": [
-                {
-                    "diq": 54,
-                    "dnk": 51,
-                    "drb": 33,
-                    "endu": 66,
-                    "fg": 27,
-                    "ft": 28,
-                    "hgt": 56,
-                    "ins": 66,
-                    "jmp": 49,
-                    "oiq": 46,
-                    "pss": 40,
-                    "reb": 62,
-                    "spd": 48,
-                    "stre": 61,
-                    "tp": 32
-                }
-            ],
-            "pos": "FC",
-            "hgt": 81,
-            "weight": 245,
-            "born": {
-                "year": 1998,
-                "loc": "Luanda, Angola"
-            },
-            "college": "Kansas"
-        },
-        {
-            "tid": 31,
-            "name": "Eric Amandio",
-            "ratings": [
-                {
-                    "diq": 48,
-                    "dnk": 54,
-                    "drb": 37,
-                    "endu": 59,
-                    "fg": 35,
-                    "ft": 27,
-                    "hgt": 33,
-                    "ins": 71,
-                    "jmp": 47,
-                    "oiq": 46,
-                    "pss": 41,
-                    "reb": 50,
-                    "spd": 45,
-                    "stre": 57,
-                    "tp": 51
-                }
-            ],
-            "pos": "G",
-            "hgt": 75,
-            "weight": 170,
-            "born": {
-                "year": 1998,
-                "loc": "Luanda, Angola"
-            },
-            "college": ""
-        },
-        {
-            "tid": 31,
             "name": "Alexandre Jungo",
             "ratings": [
                 {
@@ -125,37 +32,6 @@
                 "loc": "Angola"
             },
             "college": ""
-        },
-        {
-            "tid": 31,
-            "name": "Valdir Manuel",
-            "ratings": [
-                {
-                    "diq": 36,
-                    "dnk": 41,
-                    "drb": 33,
-                    "endu": 51,
-                    "fg": 23,
-                    "ft": 29,
-                    "hgt": 59,
-                    "ins": 49,
-                    "jmp": 54,
-                    "oiq": 38,
-                    "pss": 38,
-                    "reb": 58,
-                    "spd": 52,
-                    "stre": 51,
-                    "tp": 36
-                }
-            ],
-            "pos": "F",
-            "hgt": 82,
-            "weight": 225,
-            "born": {
-                "year": 1999,
-                "loc": "Luanda, Angola"
-            },
-            "college": "New Mexico"
         },
         {
             "tid": 31,
@@ -221,122 +97,122 @@
         },
         {
             "tid": 31,
-            "name": "Avelino Do",
+            "name": "Vander Joaquim",
             "ratings": [
                 {
-                    "diq": 37,
-                    "dnk": 39,
-                    "drb": 37,
-                    "endu": 51,
-                    "fg": 28,
-                    "ft": 18,
-                    "hgt": 37,
-                    "ins": 52,
-                    "jmp": 45,
-                    "oiq": 33,
-                    "pss": 44,
-                    "reb": 45,
-                    "spd": 42,
-                    "stre": 46,
-                    "tp": 36
-                }
-            ],
-            "pos": "SG",
-            "hgt": 76,
-            "weight": 205,
-            "born": {
-                "year": 1997,
-                "loc": "Angola"
-            },
-            "college": ""
-        },
-        {
-            "tid": 31,
-            "name": "Edmilson Miranda",
-            "ratings": [
-                {
-                    "diq": 34,
-                    "dnk": 39,
-                    "drb": 38,
-                    "endu": 51,
-                    "fg": 27,
-                    "ft": 29,
-                    "hgt": 22,
-                    "ins": 50,
-                    "jmp": 50,
-                    "oiq": 35,
-                    "pss": 44,
-                    "reb": 48,
-                    "spd": 49,
-                    "stre": 44,
-                    "tp": 42
-                }
-            ],
-            "pos": "G",
-            "hgt": 72,
-            "weight": 194,
-            "born": {
-                "year": 1997,
-                "loc": "Angola"
-            },
-            "college": ""
-        },
-        {
-            "tid": 31,
-            "name": "Olimpio Cipriano",
-            "ratings": [
-                {
-                    "diq": 49,
-                    "dnk": 42,
-                    "drb": 33,
-                    "endu": 40,
-                    "fg": 41,
-                    "ft": 35,
-                    "hgt": 37,
-                    "ins": 48,
-                    "jmp": 12,
-                    "oiq": 41,
-                    "pss": 32,
-                    "reb": 37,
+                    "diq": 39,
+                    "dnk": 38,
+                    "drb": 28,
+                    "endu": 35,
+                    "fg": 31,
+                    "ft": 41,
+                    "hgt": 59,
+                    "ins": 45,
+                    "jmp": 17,
+                    "oiq": 34,
+                    "pss": 27,
+                    "reb": 35,
                     "spd": 20,
-                    "stre": 39,
-                    "tp": 44
+                    "stre": 35,
+                    "tp": 30
                 }
             ],
-            "pos": "SF",
-            "hgt": 76,
-            "weight": 203,
+            "pos": "C",
+            "hgt": 82,
+            "weight": 245,
             "born": {
-                "year": 1982,
+                "year": 1991,
                 "loc": "Luanda, Angola"
             },
             "college": ""
         },
         {
             "tid": 31,
-            "name": "Daniel Manuel",
+            "name": "Pedro Quinha Bastos",
             "ratings": [
                 {
-                    "diq": 35,
-                    "dnk": 39,
-                    "drb": 37,
-                    "endu": 51,
+                    "diq": 38,
+                    "dnk": 37,
+                    "drb": 35,
+                    "endu": 34,
                     "fg": 31,
-                    "ft": 27,
-                    "hgt": 19,
-                    "ins": 49,
-                    "jmp": 44,
-                    "oiq": 37,
-                    "pss": 39,
-                    "reb": 35,
-                    "spd": 42,
-                    "stre": 41,
-                    "tp": 44
+                    "ft": 26,
+                    "hgt": 37,
+                    "ins": 51,
+                    "jmp": 21,
+                    "oiq": 25,
+                    "pss": 38,
+                    "reb": 32,
+                    "spd": 25,
+                    "stre": 40,
+                    "tp": 51
                 }
             ],
-            "pos": "G",
-            "hgt": 71,
-            "weight": 192,
+            "pos": "F",
+            "hgt": 76,
+            "weight": 205,
+            "born": {
+                "year": 1993,
+                "loc": "Angola"
+            },
+            "college": ""
+        },
+        {
+            "tid": 31,
+            "name": "Leonel Paulo",
+            "ratings": [
+                {
+                    "diq": 45,
+                    "dnk": 33,
+                    "drb": 30,
+                    "endu": 33,
+                    "fg": 20,
+                    "ft": 25,
+                    "hgt": 44,
+                    "ins": 41,
+                    "jmp": 13,
+                    "oiq": 36,
+                    "pss": 32,
+                    "reb": 43,
+                    "spd": 19,
+                    "stre": 34,
+                    "tp": 22
+                }
+            ],
+            "pos": "F",
+            "hgt": 78,
+            "weight": 251,
+            "born": {
+                "year": 1986,
+                "loc": "Luanda, Angola"
+            },
+            "college": ""
+        },
+        {
+            "tid": 31,
+            "name": "Abou Bakar Gakou",
+            "ratings": [
+                {
+                    "diq": 43,
+                    "dnk": 27,
+                    "drb": 27,
+                    "endu": 36,
+                    "fg": 17,
+                    "ft": 18,
+                    "hgt": 48,
+                    "ins": 33,
+                    "jmp": 15,
+                    "oiq": 33,
+                    "pss": 29,
+                    "reb": 59,
+                    "spd": 17,
+                    "stre": 37,
+                    "tp": 29
+                }
+            ],
+            "pos": "F",
+            "hgt": 79,
+            "weight": 213,
             "born": {
                 "year": 1997,
                 "loc": "Angola"
@@ -345,32 +221,156 @@
         },
         {
             "tid": 31,
-            "name": "Jose Antonio",
+            "name": "Jone Lopes Pedro",
             "ratings": [
                 {
-                    "diq": 39,
-                    "dnk": 36,
-                    "drb": 29,
-                    "endu": 41,
-                    "fg": 28,
-                    "ft": 36,
-                    "hgt": 44,
-                    "ins": 41,
-                    "jmp": 21,
-                    "oiq": 36,
-                    "pss": 28,
+                    "diq": 32,
+                    "dnk": 37,
+                    "drb": 22,
+                    "endu": 34,
+                    "fg": 16,
+                    "ft": 31,
+                    "hgt": 59,
+                    "ins": 35,
+                    "jmp": 18,
+                    "oiq": 32,
+                    "pss": 22,
                     "reb": 30,
-                    "spd": 27,
-                    "stre": 33,
-                    "tp": 53
+                    "spd": 23,
+                    "stre": 34,
+                    "tp": 21
                 }
             ],
-            "pos": "SF",
-            "hgt": 78,
-            "weight": 211,
+            "pos": "C",
+            "hgt": 82,
+            "weight": 205,
             "born": {
                 "year": 1990,
-                "loc": "Angola"
+                "loc": "Alges, Portugal"
+            },
+            "college": ""
+        },
+        {
+            "tid": 31,
+            "name": "Edson Ndoniema",
+            "ratings": [
+                {
+                    "diq": 18,
+                    "dnk": 27,
+                    "drb": 37,
+                    "endu": 19,
+                    "fg": 25,
+                    "ft": 51,
+                    "hgt": 37,
+                    "ins": 24,
+                    "jmp": 23,
+                    "oiq": 8,
+                    "pss": 38,
+                    "reb": 23,
+                    "spd": 36,
+                    "stre": 27,
+                    "tp": 68
+                }
+            ],
+            "pos": "SG",
+            "hgt": 76,
+            "weight": 194,
+            "born": {
+                "year": 1991,
+                "loc": "Luanda, Angola"
+            },
+            "college": ""
+        },
+        {
+            "tid": 31,
+            "name": "Gildo Santos",
+            "ratings": [
+                {
+                    "diq": 14,
+                    "dnk": 27,
+                    "drb": 35,
+                    "endu": 11,
+                    "fg": 21,
+                    "ft": 2,
+                    "hgt": 33,
+                    "ins": 65,
+                    "jmp": 11,
+                    "oiq": 0,
+                    "pss": 55,
+                    "reb": 31,
+                    "spd": 18,
+                    "stre": 41,
+                    "tp": 25
+                }
+            ],
+            "pos": "G",
+            "hgt": 75,
+            "weight": 192,
+            "born": {
+                "year": 1990,
+                "loc": "Kilamba Kiaxi, Angola"
+            },
+            "college": ""
+        },
+        {
+            "tid": 31,
+            "name": "Silvio De Sousa",
+            "ratings": [
+                {
+                    "diq": 54,
+                    "dnk": 51,
+                    "drb": 33,
+                    "endu": 66,
+                    "fg": 27,
+                    "ft": 28,
+                    "hgt": 56,
+                    "ins": 66,
+                    "jmp": 49,
+                    "oiq": 46,
+                    "pss": 40,
+                    "reb": 62,
+                    "spd": 48,
+                    "stre": 61,
+                    "tp": 32
+                }
+            ],
+            "pos": "FC",
+            "hgt": 81,
+            "weight": 245,
+            "born": {
+                "year": 1998,
+                "loc": "Luanda, Angola"
+            },
+            "college": "Kansas"
+        },
+        {
+            "tid": 31,
+            "name": "Eric Amandio",
+            "ratings": [
+                {
+                    "diq": 48,
+                    "dnk": 54,
+                    "drb": 37,
+                    "endu": 59,
+                    "fg": 35,
+                    "ft": 27,
+                    "hgt": 33,
+                    "ins": 71,
+                    "jmp": 47,
+                    "oiq": 46,
+                    "pss": 41,
+                    "reb": 50,
+                    "spd": 45,
+                    "stre": 57,
+                    "tp": 51
+                }
+            ],
+            "pos": "G",
+            "hgt": 75,
+            "weight": 170,
+            "born": {
+                "year": 1998,
+                "loc": "Luanda, Angola"
             },
             "college": ""
         },
@@ -2484,37 +2484,6 @@
         },
         {
             "tid": 9,
-            "name": "Anderson Varejao",
-            "ratings": [
-                {
-                    "diq": 47,
-                    "dnk": 50,
-                    "drb": 46,
-                    "endu": 21,
-                    "fg": 32,
-                    "ft": 30,
-                    "hgt": 59,
-                    "ins": 57,
-                    "jmp": 15,
-                    "oiq": 52,
-                    "pss": 45,
-                    "reb": 72,
-                    "spd": 21,
-                    "stre": 49,
-                    "tp": 29
-                }
-            ],
-            "pos": "C",
-            "hgt": 82,
-            "weight": 273,
-            "born": {
-                "year": 1982,
-                "loc": "Santa Teresa, Brazil"
-            },
-            "college": ""
-        },
-        {
-            "tid": 9,
             "name": "Georginho de Paula",
             "ratings": [
                 {
@@ -2577,68 +2546,6 @@
         },
         {
             "tid": 9,
-            "name": "Leonardo Demetrio",
-            "ratings": [
-                {
-                    "diq": 44,
-                    "dnk": 44,
-                    "drb": 39,
-                    "endu": 51,
-                    "fg": 44,
-                    "ft": 42,
-                    "hgt": 52,
-                    "ins": 46,
-                    "jmp": 46,
-                    "oiq": 46,
-                    "pss": 40,
-                    "reb": 51,
-                    "spd": 47,
-                    "stre": 49,
-                    "tp": 63
-                }
-            ],
-            "pos": "PF",
-            "hgt": 80,
-            "weight": 198,
-            "born": {
-                "year": 1994,
-                "loc": "Curitiba, Brazil"
-            },
-            "college": ""
-        },
-        {
-            "tid": 9,
-            "name": "Raulzinho Neto",
-            "ratings": [
-                {
-                    "diq": 47,
-                    "dnk": 45,
-                    "drb": 60,
-                    "endu": 44,
-                    "fg": 51,
-                    "ft": 53,
-                    "hgt": 26,
-                    "ins": 37,
-                    "jmp": 54,
-                    "oiq": 45,
-                    "pss": 56,
-                    "reb": 45,
-                    "spd": 59,
-                    "stre": 47,
-                    "tp": 50
-                }
-            ],
-            "pos": "PG",
-            "hgt": 73,
-            "weight": 180,
-            "born": {
-                "year": 1994,
-                "loc": "Brazil"
-            },
-            "college": ""
-        },
-        {
-            "tid": 9,
             "name": "Leonardo Meindl",
             "ratings": [
                 {
@@ -2665,37 +2572,6 @@
             "born": {
                 "year": 1993,
                 "loc": "Sao Paulo, Brazil"
-            },
-            "college": ""
-        },
-        {
-            "tid": 9,
-            "name": "Jhonatan dos Santos",
-            "ratings": [
-                {
-                    "diq": 44,
-                    "dnk": 48,
-                    "drb": 48,
-                    "endu": 47,
-                    "fg": 42,
-                    "ft": 51,
-                    "hgt": 41,
-                    "ins": 42,
-                    "jmp": 40,
-                    "oiq": 51,
-                    "pss": 47,
-                    "reb": 55,
-                    "spd": 46,
-                    "stre": 49,
-                    "tp": 54
-                }
-            ],
-            "pos": "F",
-            "hgt": 77,
-            "weight": 198,
-            "born": {
-                "year": 1987,
-                "loc": "Osasco, Brazil"
             },
             "college": ""
         },
@@ -2794,37 +2670,6 @@
         },
         {
             "tid": 9,
-            "name": "Rafael Mineiro",
-            "ratings": [
-                {
-                    "diq": 52,
-                    "dnk": 45,
-                    "drb": 38,
-                    "endu": 44,
-                    "fg": 41,
-                    "ft": 38,
-                    "hgt": 56,
-                    "ins": 36,
-                    "jmp": 36,
-                    "oiq": 42,
-                    "pss": 37,
-                    "reb": 47,
-                    "spd": 39,
-                    "stre": 46,
-                    "tp": 48
-                }
-            ],
-            "pos": "C",
-            "hgt": 81,
-            "weight": 225,
-            "born": {
-                "year": 1988,
-                "loc": "Uberaba, Brazil"
-            },
-            "college": ""
-        },
-        {
-            "tid": 9,
             "name": "Marcelinho Huertas",
             "ratings": [
                 {
@@ -2851,6 +2696,161 @@
             "born": {
                 "year": 1983,
                 "loc": "Santa Catarina, Brazil"
+            },
+            "college": ""
+        },
+        {
+            "tid": 9,
+            "name": "Cristiano Felicio",
+            "ratings": [
+                {
+                    "diq": 48,
+                    "dnk": 51,
+                    "drb": 48,
+                    "endu": 34,
+                    "fg": 17,
+                    "ft": 25,
+                    "hgt": 59,
+                    "ins": 41,
+                    "jmp": 31,
+                    "oiq": 44,
+                    "pss": 47,
+                    "reb": 70,
+                    "spd": 38,
+                    "stre": 53,
+                    "tp": 24
+                }
+            ],
+            "pos": "C",
+            "hgt": 82,
+            "weight": 275,
+            "born": {
+                "year": 1994,
+                "loc": "Brazil"
+            },
+            "college": ""
+        },
+        {
+            "tid": 9,
+            "name": "Rafa Luz",
+            "ratings": [
+                {
+                    "diq": 64,
+                    "dnk": 46,
+                    "drb": 51,
+                    "endu": 38,
+                    "fg": 28,
+                    "ft": 23,
+                    "hgt": 33,
+                    "ins": 40,
+                    "jmp": 36,
+                    "oiq": 40,
+                    "pss": 51,
+                    "reb": 45,
+                    "spd": 46,
+                    "stre": 46,
+                    "tp": 36
+                }
+            ],
+            "pos": "PG",
+            "hgt": 75,
+            "weight": 202,
+            "born": {
+                "year": 1992,
+                "loc": "Sao Paulo, Brazil"
+            },
+            "college": ""
+        },
+        {
+            "tid": 9,
+            "name": "Yago Dos Santos",
+            "ratings": [
+                {
+                    "diq": 41,
+                    "dnk": 39,
+                    "drb": 54,
+                    "endu": 51,
+                    "fg": 47,
+                    "ft": 48,
+                    "hgt": 15,
+                    "ins": 51,
+                    "jmp": 47,
+                    "oiq": 48,
+                    "pss": 60,
+                    "reb": 53,
+                    "spd": 47,
+                    "stre": 45,
+                    "tp": 48
+                }
+            ],
+            "pos": "PG",
+            "hgt": 70,
+            "weight": 188,
+            "born": {
+                "year": 1997,
+                "loc": "Sao Paulo, Brazil"
+            },
+            "college": ""
+        },
+        {
+            "tid": 9,
+            "name": "Bruno Caboclo",
+            "ratings": [
+                {
+                    "diq": 43,
+                    "dnk": 42,
+                    "drb": 39,
+                    "endu": 35,
+                    "fg": 41,
+                    "ft": 39,
+                    "hgt": 56,
+                    "ins": 45,
+                    "jmp": 42,
+                    "oiq": 35,
+                    "pss": 40,
+                    "reb": 50,
+                    "spd": 38,
+                    "stre": 46,
+                    "tp": 45
+                }
+            ],
+            "pos": "PF",
+            "hgt": 81,
+            "weight": 218,
+            "born": {
+                "year": 1997,
+                "loc": "Brazil"
+            },
+            "college": ""
+        },
+        {
+            "tid": 9,
+            "name": "Anderson Varejao",
+            "ratings": [
+                {
+                    "diq": 47,
+                    "dnk": 50,
+                    "drb": 46,
+                    "endu": 21,
+                    "fg": 32,
+                    "ft": 30,
+                    "hgt": 59,
+                    "ins": 57,
+                    "jmp": 15,
+                    "oiq": 52,
+                    "pss": 45,
+                    "reb": 72,
+                    "spd": 21,
+                    "stre": 49,
+                    "tp": 29
+                }
+            ],
+            "pos": "C",
+            "hgt": 82,
+            "weight": 273,
+            "born": {
+                "year": 1982,
+                "loc": "Santa Teresa, Brazil"
             },
             "college": ""
         },
@@ -3600,68 +3600,6 @@
         },
         {
             "tid": 20,
-            "name": "Shai Gilgeous-Alexander",
-            "ratings": [
-                {
-                    "diq": 42,
-                    "dnk": 60,
-                    "drb": 65,
-                    "endu": 62,
-                    "fg": 55,
-                    "ft": 52,
-                    "hgt": 44,
-                    "ins": 59,
-                    "jmp": 74,
-                    "oiq": 56,
-                    "pss": 64,
-                    "reb": 57,
-                    "spd": 74,
-                    "stre": 65,
-                    "tp": 40
-                }
-            ],
-            "pos": "PG",
-            "hgt": 78,
-            "weight": 181,
-            "born": {
-                "year": 2000,
-                "loc": "Canada"
-            },
-            "college": "Kentucky"
-        },
-        {
-            "tid": 20,
-            "name": "Jamal Murray",
-            "ratings": [
-                {
-                    "diq": 47,
-                    "dnk": 54,
-                    "drb": 60,
-                    "endu": 67,
-                    "fg": 59,
-                    "ft": 58,
-                    "hgt": 37,
-                    "ins": 53,
-                    "jmp": 69,
-                    "oiq": 59,
-                    "pss": 58,
-                    "reb": 53,
-                    "spd": 68,
-                    "stre": 60,
-                    "tp": 51
-                }
-            ],
-            "pos": "SG",
-            "hgt": 76,
-            "weight": 215,
-            "born": {
-                "year": 1998,
-                "loc": "Canada"
-            },
-            "college": "Kentucky"
-        },
-        {
-            "tid": 20,
             "name": "Andrew Wiggins",
             "ratings": [
                 {
@@ -3786,34 +3724,34 @@
         },
         {
             "tid": 20,
-            "name": "Nik Stauskas",
+            "name": "Trey Lyles",
             "ratings": [
                 {
-                    "diq": 44,
+                    "diq": 45,
                     "dnk": 48,
-                    "drb": 55,
-                    "endu": 46,
-                    "fg": 52,
-                    "ft": 55,
-                    "hgt": 44,
-                    "ins": 33,
-                    "jmp": 56,
-                    "oiq": 45,
-                    "pss": 51,
-                    "reb": 45,
-                    "spd": 60,
-                    "stre": 50,
-                    "tp": 68
+                    "drb": 50,
+                    "endu": 40,
+                    "fg": 44,
+                    "ft": 47,
+                    "hgt": 59,
+                    "ins": 39,
+                    "jmp": 48,
+                    "oiq": 48,
+                    "pss": 46,
+                    "reb": 61,
+                    "spd": 49,
+                    "stre": 51,
+                    "tp": 47
                 }
             ],
-            "pos": "SG",
-            "hgt": 78,
-            "weight": 205,
+            "pos": "SF",
+            "hgt": 82,
+            "weight": 235,
             "born": {
-                "year": 1994,
+                "year": 1997,
                 "loc": "Canada"
             },
-            "college": "Michigan"
+            "college": "Kentucky"
         },
         {
             "tid": 20,
@@ -3848,99 +3786,6 @@
         },
         {
             "tid": 20,
-            "name": "Brandon Clarke",
-            "ratings": [
-                {
-                    "diq": 46,
-                    "dnk": 54,
-                    "drb": 48,
-                    "endu": 47,
-                    "fg": 46,
-                    "ft": 40,
-                    "hgt": 52,
-                    "ins": 44,
-                    "jmp": 54,
-                    "oiq": 47,
-                    "pss": 44,
-                    "reb": 59,
-                    "spd": 55,
-                    "stre": 59,
-                    "tp": 33
-                }
-            ],
-            "pos": "PF",
-            "hgt": 80,
-            "weight": 210,
-            "born": {
-                "year": 1998,
-                "loc": "Canada"
-            },
-            "college": "Gonzaga"
-        },
-        {
-            "tid": 20,
-            "name": "Mfiondu Kabengele",
-            "ratings": [
-                {
-                    "diq": 41,
-                    "dnk": 46,
-                    "drb": 42,
-                    "endu": 46,
-                    "fg": 51,
-                    "ft": 54,
-                    "hgt": 59,
-                    "ins": 45,
-                    "jmp": 56,
-                    "oiq": 42,
-                    "pss": 39,
-                    "reb": 48,
-                    "spd": 50,
-                    "stre": 49,
-                    "tp": 58
-                }
-            ],
-            "pos": "SF",
-            "hgt": 82,
-            "weight": 250,
-            "born": {
-                "year": 1999,
-                "loc": "Canada"
-            },
-            "college": "Florida State"
-        },
-        {
-            "tid": 20,
-            "name": "Marial Shayok",
-            "ratings": [
-                {
-                    "diq": 40,
-                    "dnk": 50,
-                    "drb": 54,
-                    "endu": 52,
-                    "fg": 52,
-                    "ft": 50,
-                    "hgt": 41,
-                    "ins": 62,
-                    "jmp": 44,
-                    "oiq": 51,
-                    "pss": 55,
-                    "reb": 58,
-                    "spd": 46,
-                    "stre": 56,
-                    "tp": 43
-                }
-            ],
-            "pos": "G",
-            "hgt": 77,
-            "weight": 196,
-            "born": {
-                "year": 1997,
-                "loc": "Canada"
-            },
-            "college": "Iowa State"
-        },
-        {
-            "tid": 20,
             "name": "Luguentz Dort",
             "ratings": [
                 {
@@ -3969,6 +3814,161 @@
                 "loc": "Canada"
             },
             "college": "Arizona State"
+        },
+        {
+            "tid": 20,
+            "name": "Nickeil Alexander-Walker",
+            "ratings": [
+                {
+                    "diq": 41,
+                    "dnk": 44,
+                    "drb": 53,
+                    "endu": 45,
+                    "fg": 50,
+                    "ft": 44,
+                    "hgt": 41,
+                    "ins": 50,
+                    "jmp": 58,
+                    "oiq": 41,
+                    "pss": 54,
+                    "reb": 49,
+                    "spd": 54,
+                    "stre": 50,
+                    "tp": 52
+                }
+            ],
+            "pos": "SG",
+            "hgt": 77,
+            "weight": 205,
+            "born": {
+                "year": 2000,
+                "loc": "Canada"
+            },
+            "college": "Virginia Tech"
+        },
+        {
+            "tid": 20,
+            "name": "Cory Joseph",
+            "ratings": [
+                {
+                    "diq": 48,
+                    "dnk": 41,
+                    "drb": 62,
+                    "endu": 43,
+                    "fg": 47,
+                    "ft": 46,
+                    "hgt": 33,
+                    "ins": 32,
+                    "jmp": 52,
+                    "oiq": 45,
+                    "pss": 62,
+                    "reb": 46,
+                    "spd": 56,
+                    "stre": 45,
+                    "tp": 45
+                }
+            ],
+            "pos": "PG",
+            "hgt": 75,
+            "weight": 200,
+            "born": {
+                "year": 1993,
+                "loc": "Canada"
+            },
+            "college": "Texas"
+        },
+        {
+            "tid": 20,
+            "name": "Tristan Thompson",
+            "ratings": [
+                {
+                    "diq": 52,
+                    "dnk": 52,
+                    "drb": 47,
+                    "endu": 41,
+                    "fg": 31,
+                    "ft": 28,
+                    "hgt": 56,
+                    "ins": 50,
+                    "jmp": 35,
+                    "oiq": 47,
+                    "pss": 49,
+                    "reb": 75,
+                    "spd": 38,
+                    "stre": 60,
+                    "tp": 27
+                }
+            ],
+            "pos": "F",
+            "hgt": 81,
+            "weight": 254,
+            "born": {
+                "year": 1993,
+                "loc": "Canada"
+            },
+            "college": "Texas"
+        },
+        {
+            "tid": 20,
+            "name": "Mychal Mulder",
+            "ratings": [
+                {
+                    "diq": 35,
+                    "dnk": 47,
+                    "drb": 50,
+                    "endu": 44,
+                    "fg": 58,
+                    "ft": 55,
+                    "hgt": 33,
+                    "ins": 29,
+                    "jmp": 59,
+                    "oiq": 44,
+                    "pss": 41,
+                    "reb": 38,
+                    "spd": 61,
+                    "stre": 46,
+                    "tp": 75
+                }
+            ],
+            "pos": "GF",
+            "hgt": 75,
+            "weight": 184,
+            "born": {
+                "year": 1996,
+                "loc": "Canada"
+            },
+            "college": "Kentucky"
+        },
+        {
+            "tid": 20,
+            "name": "OShae Brissett",
+            "ratings": [
+                {
+                    "diq": 43,
+                    "dnk": 51,
+                    "drb": 43,
+                    "endu": 46,
+                    "fg": 38,
+                    "ft": 40,
+                    "hgt": 48,
+                    "ins": 42,
+                    "jmp": 52,
+                    "oiq": 43,
+                    "pss": 40,
+                    "reb": 57,
+                    "spd": 52,
+                    "stre": 53,
+                    "tp": 44
+                }
+            ],
+            "pos": "PF",
+            "hgt": 79,
+            "weight": 210,
+            "born": {
+                "year": 2000,
+                "loc": "Canada"
+            },
+            "college": "Syracuse"
         },
         {
             "tid": 55,
@@ -4220,37 +4220,6 @@
         },
         {
             "tid": 27,
-            "name": "Jinqiu Hu",
-            "ratings": [
-                {
-                    "diq": 52,
-                    "dnk": 52,
-                    "drb": 33,
-                    "endu": 64,
-                    "fg": 26,
-                    "ft": 35,
-                    "hgt": 63,
-                    "ins": 65,
-                    "jmp": 46,
-                    "oiq": 49,
-                    "pss": 37,
-                    "reb": 68,
-                    "spd": 44,
-                    "stre": 62,
-                    "tp": 29
-                }
-            ],
-            "pos": "C",
-            "hgt": 83,
-            "weight": 230,
-            "born": {
-                "year": 1997,
-                "loc": "Xinjiang, China"
-            },
-            "college": ""
-        },
-        {
-            "tid": 27,
             "name": "Zhou Qi",
             "ratings": [
                 {
@@ -4308,68 +4277,6 @@
             "born": {
                 "year": 1997,
                 "loc": "Hebei, China"
-            },
-            "college": ""
-        },
-        {
-            "tid": 27,
-            "name": "Hao Fu",
-            "ratings": [
-                {
-                    "diq": 42,
-                    "dnk": 53,
-                    "drb": 38,
-                    "endu": 59,
-                    "fg": 25,
-                    "ft": 29,
-                    "hgt": 56,
-                    "ins": 72,
-                    "jmp": 48,
-                    "oiq": 46,
-                    "pss": 44,
-                    "reb": 63,
-                    "spd": 45,
-                    "stre": 60,
-                    "tp": 18
-                }
-            ],
-            "pos": "PF",
-            "hgt": 81,
-            "weight": 220,
-            "born": {
-                "year": 1997,
-                "loc": "Liaoning, China"
-            },
-            "college": ""
-        },
-        {
-            "tid": 27,
-            "name": "Xining He",
-            "ratings": [
-                {
-                    "diq": 56,
-                    "dnk": 41,
-                    "drb": 45,
-                    "endu": 57,
-                    "fg": 29,
-                    "ft": 37,
-                    "hgt": 41,
-                    "ins": 51,
-                    "jmp": 51,
-                    "oiq": 40,
-                    "pss": 49,
-                    "reb": 51,
-                    "spd": 50,
-                    "stre": 49,
-                    "tp": 34
-                }
-            ],
-            "pos": "F",
-            "hgt": 77,
-            "weight": 208,
-            "born": {
-                "year": 1997,
-                "loc": "China"
             },
             "college": ""
         },
@@ -4499,68 +4406,6 @@
         },
         {
             "tid": 27,
-            "name": "Chunqing Liu",
-            "ratings": [
-                {
-                    "diq": 42,
-                    "dnk": 38,
-                    "drb": 47,
-                    "endu": 51,
-                    "fg": 27,
-                    "ft": 27,
-                    "hgt": 33,
-                    "ins": 29,
-                    "jmp": 59,
-                    "oiq": 39,
-                    "pss": 47,
-                    "reb": 41,
-                    "spd": 59,
-                    "stre": 42,
-                    "tp": 25
-                }
-            ],
-            "pos": "G",
-            "hgt": 75,
-            "weight": 172,
-            "born": {
-                "year": 1997,
-                "loc": "China"
-            },
-            "college": ""
-        },
-        {
-            "tid": 27,
-            "name": "Zixu Wang",
-            "ratings": [
-                {
-                    "diq": 31,
-                    "dnk": 42,
-                    "drb": 38,
-                    "endu": 48,
-                    "fg": 29,
-                    "ft": 32,
-                    "hgt": 48,
-                    "ins": 43,
-                    "jmp": 57,
-                    "oiq": 33,
-                    "pss": 39,
-                    "reb": 40,
-                    "spd": 55,
-                    "stre": 45,
-                    "tp": 39
-                }
-            ],
-            "pos": "F",
-            "hgt": 79,
-            "weight": 213,
-            "born": {
-                "year": 1998,
-                "loc": "China"
-            },
-            "college": ""
-        },
-        {
-            "tid": 27,
             "name": "Mingxuan Hu",
             "ratings": [
                 {
@@ -4587,6 +4432,161 @@
             "born": {
                 "year": 1998,
                 "loc": "China"
+            },
+            "college": ""
+        },
+        {
+            "tid": 27,
+            "name": "Zhao Jiwei",
+            "ratings": [
+                {
+                    "diq": 43,
+                    "dnk": 38,
+                    "drb": 48,
+                    "endu": 40,
+                    "fg": 35,
+                    "ft": 39,
+                    "hgt": 26,
+                    "ins": 46,
+                    "jmp": 41,
+                    "oiq": 37,
+                    "pss": 52,
+                    "reb": 44,
+                    "spd": 43,
+                    "stre": 42,
+                    "tp": 40
+                }
+            ],
+            "pos": "G",
+            "hgt": 73,
+            "weight": 176,
+            "born": {
+                "year": 1995,
+                "loc": "Liaoning, China"
+            },
+            "college": ""
+        },
+        {
+            "tid": 27,
+            "name": "Qian Wu",
+            "ratings": [
+                {
+                    "diq": 43,
+                    "dnk": 39,
+                    "drb": 43,
+                    "endu": 40,
+                    "fg": 34,
+                    "ft": 38,
+                    "hgt": 33,
+                    "ins": 43,
+                    "jmp": 34,
+                    "oiq": 39,
+                    "pss": 44,
+                    "reb": 40,
+                    "spd": 36,
+                    "stre": 39,
+                    "tp": 37
+                }
+            ],
+            "pos": "G",
+            "hgt": 75,
+            "weight": 190,
+            "born": {
+                "year": 1994,
+                "loc": "Zhejiang, China"
+            },
+            "college": ""
+        },
+        {
+            "tid": 27,
+            "name": "Lu Wenbo",
+            "ratings": [
+                {
+                    "diq": 37,
+                    "dnk": 46,
+                    "drb": 35,
+                    "endu": 38,
+                    "fg": 25,
+                    "ft": 25,
+                    "hgt": 37,
+                    "ins": 36,
+                    "jmp": 37,
+                    "oiq": 35,
+                    "pss": 32,
+                    "reb": 36,
+                    "spd": 42,
+                    "stre": 43,
+                    "tp": 29
+                }
+            ],
+            "pos": "GF",
+            "hgt": 76,
+            "weight": 198,
+            "born": {
+                "year": 1997,
+                "loc": "China"
+            },
+            "college": ""
+        },
+        {
+            "tid": 27,
+            "name": "Xu Jie",
+            "ratings": [
+                {
+                    "diq": 38,
+                    "dnk": 32,
+                    "drb": 41,
+                    "endu": 41,
+                    "fg": 33,
+                    "ft": 33,
+                    "hgt": 22,
+                    "ins": 33,
+                    "jmp": 42,
+                    "oiq": 37,
+                    "pss": 42,
+                    "reb": 36,
+                    "spd": 42,
+                    "stre": 36,
+                    "tp": 32
+                }
+            ],
+            "pos": "PG",
+            "hgt": 72,
+            "weight": 172,
+            "born": {
+                "year": 2000,
+                "loc": "China"
+            },
+            "college": ""
+        },
+        {
+            "tid": 27,
+            "name": "Jinqiu Hu",
+            "ratings": [
+                {
+                    "diq": 52,
+                    "dnk": 52,
+                    "drb": 33,
+                    "endu": 64,
+                    "fg": 26,
+                    "ft": 35,
+                    "hgt": 63,
+                    "ins": 65,
+                    "jmp": 46,
+                    "oiq": 49,
+                    "pss": 37,
+                    "reb": 68,
+                    "spd": 44,
+                    "stre": 62,
+                    "tp": 29
+                }
+            ],
+            "pos": "C",
+            "hgt": 83,
+            "weight": 230,
+            "born": {
+                "year": 1997,
+                "loc": "Xinjiang, China"
             },
             "college": ""
         },
@@ -4840,6 +4840,37 @@
         },
         {
             "tid": 13,
+            "name": "Bojan Bogdanovic",
+            "ratings": [
+                {
+                    "diq": 45,
+                    "dnk": 62,
+                    "drb": 58,
+                    "endu": 50,
+                    "fg": 55,
+                    "ft": 59,
+                    "hgt": 52,
+                    "ins": 52,
+                    "jmp": 52,
+                    "oiq": 53,
+                    "pss": 53,
+                    "reb": 49,
+                    "spd": 59,
+                    "stre": 59,
+                    "tp": 58
+                }
+            ],
+            "pos": "F",
+            "hgt": 80,
+            "weight": 216,
+            "born": {
+                "year": 1991,
+                "loc": "Bosnia and Herzegovina"
+            },
+            "college": ""
+        },
+        {
+            "tid": 13,
             "name": "Dario Saric",
             "ratings": [
                 {
@@ -4902,125 +4933,32 @@
         },
         {
             "tid": 13,
-            "name": "Krunoslav Simon",
+            "name": "Ivica Zubac",
             "ratings": [
                 {
                     "diq": 47,
-                    "dnk": 42,
-                    "drb": 65,
-                    "endu": 36,
-                    "fg": 55,
-                    "ft": 51,
-                    "hgt": 44,
-                    "ins": 34,
-                    "jmp": 34,
-                    "oiq": 52,
-                    "pss": 64,
-                    "reb": 48,
-                    "spd": 43,
-                    "stre": 45,
-                    "tp": 53
-                }
-            ],
-            "pos": "F",
-            "hgt": 78,
-            "weight": 220,
-            "born": {
-                "year": 1985,
-                "loc": "Zagreb, Croatia"
-            },
-            "college": ""
-        },
-        {
-            "tid": 13,
-            "name": "Luka Samanic",
-            "ratings": [
-                {
-                    "diq": 38,
-                    "dnk": 47,
-                    "drb": 43,
+                    "dnk": 53,
+                    "drb": 45,
                     "endu": 44,
-                    "fg": 42,
-                    "ft": 40,
-                    "hgt": 63,
-                    "ins": 55,
-                    "jmp": 53,
-                    "oiq": 40,
-                    "pss": 44,
-                    "reb": 59,
-                    "spd": 47,
-                    "stre": 54,
-                    "tp": 46
-                }
-            ],
-            "pos": "PF",
-            "hgt": 83,
-            "weight": 235,
-            "born": {
-                "year": 2001,
-                "loc": "Croatia"
-            },
-            "college": ""
-        },
-        {
-            "tid": 13,
-            "name": "Ante Tomic",
-            "ratings": [
-                {
-                    "diq": 52,
-                    "dnk": 60,
-                    "drb": 54,
-                    "endu": 32,
-                    "fg": 34,
-                    "ft": 26,
+                    "fg": 28,
+                    "ft": 33,
                     "hgt": 70,
-                    "ins": 69,
-                    "jmp": 15,
-                    "oiq": 48,
-                    "pss": 55,
-                    "reb": 73,
-                    "spd": 24,
-                    "stre": 61,
-                    "tp": 15
+                    "ins": 52,
+                    "jmp": 41,
+                    "oiq": 47,
+                    "pss": 47,
+                    "reb": 74,
+                    "spd": 40,
+                    "stre": 60,
+                    "tp": 24
                 }
             ],
             "pos": "C",
             "hgt": 85,
-            "weight": 225,
+            "weight": 240,
             "born": {
-                "year": 1988,
-                "loc": "Dubrovnik, Croatia"
-            },
-            "college": ""
-        },
-        {
-            "tid": 13,
-            "name": "Tomislav Zubcic",
-            "ratings": [
-                {
-                    "diq": 43,
-                    "dnk": 48,
-                    "drb": 50,
-                    "endu": 40,
-                    "fg": 44,
-                    "ft": 47,
-                    "hgt": 59,
-                    "ins": 42,
-                    "jmp": 38,
-                    "oiq": 46,
-                    "pss": 46,
-                    "reb": 46,
-                    "spd": 42,
-                    "stre": 47,
-                    "tp": 46
-                }
-            ],
-            "pos": "C",
-            "hgt": 82,
-            "weight": 230,
-            "born": {
-                "year": 1992,
-                "loc": "Zadar, Croatia"
+                "year": 1999,
+                "loc": "Bosnia and Herzegovina"
             },
             "college": ""
         },
@@ -5119,6 +5057,37 @@
         },
         {
             "tid": 13,
+            "name": "Mateo Dreznjak",
+            "ratings": [
+                {
+                    "diq": 44,
+                    "dnk": 45,
+                    "drb": 45,
+                    "endu": 47,
+                    "fg": 41,
+                    "ft": 35,
+                    "hgt": 41,
+                    "ins": 40,
+                    "jmp": 49,
+                    "oiq": 41,
+                    "pss": 44,
+                    "reb": 39,
+                    "spd": 51,
+                    "stre": 47,
+                    "tp": 38
+                }
+            ],
+            "pos": "SF",
+            "hgt": 77,
+            "weight": 196,
+            "born": {
+                "year": 1999,
+                "loc": "Mostar, Bosnia and Herzegovina"
+            },
+            "college": ""
+        },
+        {
+            "tid": 13,
             "name": "Roko Ukic",
             "ratings": [
                 {
@@ -5150,63 +5119,94 @@
         },
         {
             "tid": 13,
-            "name": "Hrvoje Peric",
+            "name": "Filip Kruslin",
             "ratings": [
                 {
-                    "diq": 53,
-                    "dnk": 65,
-                    "drb": 53,
-                    "endu": 19,
-                    "fg": 27,
-                    "ft": 50,
-                    "hgt": 52,
-                    "ins": 33,
-                    "jmp": 7,
-                    "oiq": 58,
-                    "pss": 39,
-                    "reb": 60,
-                    "spd": 24,
-                    "stre": 48,
-                    "tp": 20
+                    "diq": 41,
+                    "dnk": 42,
+                    "drb": 47,
+                    "endu": 34,
+                    "fg": 46,
+                    "ft": 48,
+                    "hgt": 37,
+                    "ins": 39,
+                    "jmp": 34,
+                    "oiq": 40,
+                    "pss": 44,
+                    "reb": 37,
+                    "spd": 41,
+                    "stre": 41,
+                    "tp": 61
                 }
             ],
-            "pos": "F",
-            "hgt": 80,
+            "pos": "G",
+            "hgt": 76,
             "weight": 200,
             "born": {
-                "year": 1985,
-                "loc": "Dubrovnik, Croatia"
+                "year": 1989,
+                "loc": "Zagreb, Croatia"
             },
             "college": ""
         },
         {
             "tid": 13,
-            "name": "Roko Prkacin",
+            "name": "Pavle Marcinkovic",
             "ratings": [
                 {
-                    "diq": 40,
+                    "diq": 47,
                     "dnk": 42,
-                    "drb": 39,
-                    "endu": 42,
-                    "fg": 33,
-                    "ft": 29,
-                    "hgt": 56,
-                    "ins": 51,
-                    "jmp": 38,
-                    "oiq": 38,
-                    "pss": 41,
-                    "reb": 53,
-                    "spd": 36,
-                    "stre": 49,
-                    "tp": 35
+                    "drb": 44,
+                    "endu": 36,
+                    "fg": 37,
+                    "ft": 37,
+                    "hgt": 41,
+                    "ins": 31,
+                    "jmp": 37,
+                    "oiq": 39,
+                    "pss": 42,
+                    "reb": 42,
+                    "spd": 42,
+                    "stre": 42,
+                    "tp": 42
                 }
             ],
-            "pos": "C",
-            "hgt": 81,
-            "weight": 234,
+            "pos": "SF",
+            "hgt": 77,
+            "weight": 196,
             "born": {
-                "year": 1999,
-                "loc": "Zagreb, Croatia"
+                "year": 1989,
+                "loc": "Zadar, Croatia"
+            },
+            "college": ""
+        },
+        {
+            "tid": 13,
+            "name": "Luka Babic",
+            "ratings": [
+                {
+                    "diq": 38,
+                    "dnk": 33,
+                    "drb": 48,
+                    "endu": 35,
+                    "fg": 40,
+                    "ft": 43,
+                    "hgt": 44,
+                    "ins": 35,
+                    "jmp": 32,
+                    "oiq": 38,
+                    "pss": 51,
+                    "reb": 48,
+                    "spd": 35,
+                    "stre": 39,
+                    "tp": 43
+                }
+            ],
+            "pos": "PF",
+            "hgt": 78,
+            "weight": 190,
+            "born": {
+                "year": 1991,
+                "loc": "Split, Croatia"
             },
             "college": ""
         },
@@ -6545,32 +6545,32 @@
         },
         {
             "tid": 18,
-            "name": "Juan Guerrero",
+            "name": "Gelvis Solano",
             "ratings": [
                 {
-                    "diq": 47,
-                    "dnk": 71,
-                    "drb": 40,
-                    "endu": 39,
-                    "fg": 23,
-                    "ft": 24,
-                    "hgt": 48,
-                    "ins": 100,
-                    "jmp": 0,
-                    "oiq": 36,
-                    "pss": 52,
-                    "reb": 87,
-                    "spd": 6,
-                    "stre": 91,
-                    "tp": 13
+                    "diq": 60,
+                    "dnk": 47,
+                    "drb": 74,
+                    "endu": 38,
+                    "fg": 16,
+                    "ft": 9,
+                    "hgt": 26,
+                    "ins": 61,
+                    "jmp": 35,
+                    "oiq": 42,
+                    "pss": 83,
+                    "reb": 52,
+                    "spd": 46,
+                    "stre": 49,
+                    "tp": 14
                 }
             ],
-            "pos": "F",
-            "hgt": 79,
-            "weight": 210,
+            "pos": "G",
+            "hgt": 73,
+            "weight": 180,
             "born": {
-                "year": 1993,
-                "loc": "Santo Domingo, Dominican Republic"
+                "year": 1994,
+                "loc": "New York (NY), USA"
             },
             "college": ""
         },
@@ -6638,37 +6638,6 @@
         },
         {
             "tid": 18,
-            "name": "Luis Montero",
-            "ratings": [
-                {
-                    "diq": 36,
-                    "dnk": 36,
-                    "drb": 41,
-                    "endu": 40,
-                    "fg": 41,
-                    "ft": 46,
-                    "hgt": 48,
-                    "ins": 34,
-                    "jmp": 41,
-                    "oiq": 35,
-                    "pss": 42,
-                    "reb": 41,
-                    "spd": 42,
-                    "stre": 39,
-                    "tp": 48
-                }
-            ],
-            "pos": "SF",
-            "hgt": 79,
-            "weight": 185,
-            "born": {
-                "year": 1993,
-                "loc": "Santo Domingo, Dominican Republic"
-            },
-            "college": ""
-        },
-        {
-            "tid": 18,
             "name": "Rigoberto Mendoza",
             "ratings": [
                 {
@@ -6700,32 +6669,63 @@
         },
         {
             "tid": 18,
-            "name": "Eulis Baez",
+            "name": "Mike Torres",
             "ratings": [
                 {
-                    "diq": 57,
-                    "dnk": 56,
-                    "drb": 60,
-                    "endu": 3,
-                    "fg": 20,
-                    "ft": 32,
-                    "hgt": 48,
-                    "ins": 22,
-                    "jmp": 0,
-                    "oiq": 40,
-                    "pss": 49,
-                    "reb": 49,
-                    "spd": 24,
-                    "stre": 44,
-                    "tp": 38
+                    "diq": 36,
+                    "dnk": 42,
+                    "drb": 55,
+                    "endu": 32,
+                    "fg": 37,
+                    "ft": 45,
+                    "hgt": 30,
+                    "ins": 52,
+                    "jmp": 27,
+                    "oiq": 43,
+                    "pss": 53,
+                    "reb": 38,
+                    "spd": 36,
+                    "stre": 39,
+                    "tp": 34
                 }
             ],
-            "pos": "PF",
-            "hgt": 79,
-            "weight": 225,
+            "pos": "PG",
+            "hgt": 74,
+            "weight": 176,
             "born": {
-                "year": 1983,
-                "loc": "Santo Domingo, Dominican Republic"
+                "year": 1994,
+                "loc": "Barcelona, Spain"
+            },
+            "college": ""
+        },
+        {
+            "tid": 18,
+            "name": "Adonys Henriquez",
+            "ratings": [
+                {
+                    "diq": 29,
+                    "dnk": 47,
+                    "drb": 40,
+                    "endu": 31,
+                    "fg": 37,
+                    "ft": 41,
+                    "hgt": 44,
+                    "ins": 27,
+                    "jmp": 36,
+                    "oiq": 45,
+                    "pss": 28,
+                    "reb": 46,
+                    "spd": 39,
+                    "stre": 39,
+                    "tp": 53
+                }
+            ],
+            "pos": "SG",
+            "hgt": 78,
+            "weight": 215,
+            "born": {
+                "year": 1997,
+                "loc": "Orlando (FL), USA"
             },
             "college": ""
         },
@@ -6793,6 +6793,37 @@
         },
         {
             "tid": 18,
+            "name": "Sadiel Rojas",
+            "ratings": [
+                {
+                    "diq": 56,
+                    "dnk": 43,
+                    "drb": 42,
+                    "endu": 26,
+                    "fg": 26,
+                    "ft": 36,
+                    "hgt": 37,
+                    "ins": 21,
+                    "jmp": 13,
+                    "oiq": 35,
+                    "pss": 36,
+                    "reb": 46,
+                    "spd": 28,
+                    "stre": 41,
+                    "tp": 39
+                }
+            ],
+            "pos": "GF",
+            "hgt": 76,
+            "weight": 190,
+            "born": {
+                "year": 1989,
+                "loc": "Arlington (TX), USA"
+            },
+            "college": ""
+        },
+        {
+            "tid": 18,
             "name": "Luis Santos",
             "ratings": [
                 {
@@ -6821,6 +6852,37 @@
                 "loc": "Santiago, Dominican Republic"
             },
             "college": ""
+        },
+        {
+            "tid": 18,
+            "name": "Angel Nunez",
+            "ratings": [
+                {
+                    "diq": 23,
+                    "dnk": 40,
+                    "drb": 35,
+                    "endu": 18,
+                    "fg": 37,
+                    "ft": 30,
+                    "hgt": 52,
+                    "ins": 28,
+                    "jmp": 52,
+                    "oiq": 26,
+                    "pss": 29,
+                    "reb": 30,
+                    "spd": 50,
+                    "stre": 44,
+                    "tp": 45
+                }
+            ],
+            "pos": "SF",
+            "hgt": 80,
+            "weight": 210,
+            "born": {
+                "year": 1994,
+                "loc": "United States"
+            },
+            "college": "South Florida"
         },
         {
             "tid": 49,
@@ -8808,94 +8870,32 @@
         },
         {
             "tid": 6,
-            "name": "Giannis Antetokounmpo",
+            "name": "Nick Calathes",
             "ratings": [
                 {
-                    "diq": 56,
-                    "dnk": 70,
-                    "drb": 62,
-                    "endu": 69,
-                    "fg": 50,
+                    "diq": 57,
+                    "dnk": 36,
+                    "drb": 72,
+                    "endu": 42,
+                    "fg": 47,
                     "ft": 34,
-                    "hgt": 63,
-                    "ins": 95,
-                    "jmp": 58,
-                    "oiq": 61,
-                    "pss": 73,
-                    "reb": 81,
-                    "spd": 58,
-                    "stre": 82,
-                    "tp": 30
+                    "hgt": 44,
+                    "ins": 45,
+                    "jmp": 37,
+                    "oiq": 46,
+                    "pss": 81,
+                    "reb": 51,
+                    "spd": 42,
+                    "stre": 45,
+                    "tp": 38
                 }
             ],
-            "pos": "F",
-            "hgt": 83,
-            "weight": 242,
+            "pos": "PG",
+            "hgt": 78,
+            "weight": 213,
             "born": {
-                "year": 1996,
-                "loc": "Greece"
-            },
-            "college": ""
-        },
-        {
-            "tid": 6,
-            "name": "Nikos Pappas",
-            "ratings": [
-                {
-                    "diq": 54,
-                    "dnk": 58,
-                    "drb": 71,
-                    "endu": 55,
-                    "fg": 29,
-                    "ft": 58,
-                    "hgt": 37,
-                    "ins": 49,
-                    "jmp": 46,
-                    "oiq": 57,
-                    "pss": 66,
-                    "reb": 33,
-                    "spd": 63,
-                    "stre": 49,
-                    "tp": 28
-                }
-            ],
-            "pos": "SG",
-            "hgt": 76,
-            "weight": 200,
-            "born": {
-                "year": 1990,
-                "loc": "Amarousio, Greece"
-            },
-            "college": ""
-        },
-        {
-            "tid": 6,
-            "name": "Ioannis Papapetrou",
-            "ratings": [
-                {
-                    "diq": 43,
-                    "dnk": 47,
-                    "drb": 55,
-                    "endu": 43,
-                    "fg": 48,
-                    "ft": 47,
-                    "hgt": 52,
-                    "ins": 43,
-                    "jmp": 41,
-                    "oiq": 48,
-                    "pss": 53,
-                    "reb": 48,
-                    "spd": 46,
-                    "stre": 50,
-                    "tp": 48
-                }
-            ],
-            "pos": "SF",
-            "hgt": 80,
-            "weight": 225,
-            "born": {
-                "year": 1992,
-                "loc": "Patras, Greece"
+                "year": 1989,
+                "loc": "Casselberry (FL), USA"
             },
             "college": ""
         },
@@ -8963,37 +8963,6 @@
         },
         {
             "tid": 6,
-            "name": "Antonis Pefanis",
-            "ratings": [
-                {
-                    "diq": 46,
-                    "dnk": 44,
-                    "drb": 39,
-                    "endu": 62,
-                    "fg": 45,
-                    "ft": 46,
-                    "hgt": 44,
-                    "ins": 49,
-                    "jmp": 53,
-                    "oiq": 42,
-                    "pss": 39,
-                    "reb": 40,
-                    "spd": 51,
-                    "stre": 47,
-                    "tp": 57
-                }
-            ],
-            "pos": "F",
-            "hgt": 78,
-            "weight": 210,
-            "born": {
-                "year": 1998,
-                "loc": "Athens, Greece"
-            },
-            "college": ""
-        },
-        {
-            "tid": 6,
             "name": "Kostas Sloukas",
             "ratings": [
                 {
@@ -9025,130 +8994,6 @@
         },
         {
             "tid": 6,
-            "name": "Dimitrios Agravanis",
-            "ratings": [
-                {
-                    "diq": 44,
-                    "dnk": 46,
-                    "drb": 43,
-                    "endu": 43,
-                    "fg": 40,
-                    "ft": 40,
-                    "hgt": 59,
-                    "ins": 47,
-                    "jmp": 41,
-                    "oiq": 44,
-                    "pss": 42,
-                    "reb": 47,
-                    "spd": 42,
-                    "stre": 47,
-                    "tp": 45
-                }
-            ],
-            "pos": "F",
-            "hgt": 82,
-            "weight": 210,
-            "born": {
-                "year": 1995,
-                "loc": "Athens, Greece"
-            },
-            "college": ""
-        },
-        {
-            "tid": 6,
-            "name": "Georgios Printezis",
-            "ratings": [
-                {
-                    "diq": 44,
-                    "dnk": 52,
-                    "drb": 50,
-                    "endu": 33,
-                    "fg": 44,
-                    "ft": 37,
-                    "hgt": 56,
-                    "ins": 47,
-                    "jmp": 30,
-                    "oiq": 45,
-                    "pss": 47,
-                    "reb": 50,
-                    "spd": 38,
-                    "stre": 50,
-                    "tp": 43
-                }
-            ],
-            "pos": "F",
-            "hgt": 81,
-            "weight": 235,
-            "born": {
-                "year": 1987,
-                "loc": "Athens, Greece"
-            },
-            "college": ""
-        },
-        {
-            "tid": 6,
-            "name": "Kostas Papanikolaou",
-            "ratings": [
-                {
-                    "diq": 40,
-                    "dnk": 41,
-                    "drb": 51,
-                    "endu": 36,
-                    "fg": 46,
-                    "ft": 49,
-                    "hgt": 52,
-                    "ins": 29,
-                    "jmp": 47,
-                    "oiq": 38,
-                    "pss": 48,
-                    "reb": 39,
-                    "spd": 50,
-                    "stre": 42,
-                    "tp": 56
-                }
-            ],
-            "pos": "PF",
-            "hgt": 80,
-            "weight": 225,
-            "born": {
-                "year": 1992,
-                "loc": "Trikala, Greece"
-            },
-            "college": ""
-        },
-        {
-            "tid": 6,
-            "name": "Vasilis Charalambopoulos",
-            "ratings": [
-                {
-                    "diq": 40,
-                    "dnk": 50,
-                    "drb": 42,
-                    "endu": 43,
-                    "fg": 38,
-                    "ft": 38,
-                    "hgt": 56,
-                    "ins": 52,
-                    "jmp": 41,
-                    "oiq": 45,
-                    "pss": 39,
-                    "reb": 47,
-                    "spd": 41,
-                    "stre": 46,
-                    "tp": 43
-                }
-            ],
-            "pos": "SF",
-            "hgt": 81,
-            "weight": 236,
-            "born": {
-                "year": 1997,
-                "loc": "Amarousio, Greece"
-            },
-            "college": ""
-        },
-        {
-            "tid": 6,
             "name": "Charis Giannopoulos",
             "ratings": [
                 {
@@ -9175,6 +9020,223 @@
             "born": {
                 "year": 1989,
                 "loc": "Veria, Greece"
+            },
+            "college": ""
+        },
+        {
+            "tid": 6,
+            "name": "George Papagiannis",
+            "ratings": [
+                {
+                    "diq": 38,
+                    "dnk": 44,
+                    "drb": 33,
+                    "endu": 43,
+                    "fg": 37,
+                    "ft": 30,
+                    "hgt": 74,
+                    "ins": 44,
+                    "jmp": 42,
+                    "oiq": 39,
+                    "pss": 35,
+                    "reb": 54,
+                    "spd": 37,
+                    "stre": 51,
+                    "tp": 32
+                }
+            ],
+            "pos": "C",
+            "hgt": 86,
+            "weight": 275,
+            "born": {
+                "year": 1996,
+                "loc": "Amarousio, Greece"
+            },
+            "college": ""
+        },
+        {
+            "tid": 6,
+            "name": "Dimitrios Katsivelis",
+            "ratings": [
+                {
+                    "diq": 42,
+                    "dnk": 45,
+                    "drb": 51,
+                    "endu": 33,
+                    "fg": 32,
+                    "ft": 44,
+                    "hgt": 41,
+                    "ins": 38,
+                    "jmp": 38,
+                    "oiq": 39,
+                    "pss": 49,
+                    "reb": 41,
+                    "spd": 46,
+                    "stre": 42,
+                    "tp": 41
+                }
+            ],
+            "pos": "SF",
+            "hgt": 77,
+            "weight": 210,
+            "born": {
+                "year": 1991,
+                "loc": "Thessaloniki, Greece"
+            },
+            "college": ""
+        },
+        {
+            "tid": 6,
+            "name": "Leonidas Kaselakis",
+            "ratings": [
+                {
+                    "diq": 41,
+                    "dnk": 44,
+                    "drb": 48,
+                    "endu": 29,
+                    "fg": 38,
+                    "ft": 41,
+                    "hgt": 48,
+                    "ins": 30,
+                    "jmp": 31,
+                    "oiq": 45,
+                    "pss": 41,
+                    "reb": 46,
+                    "spd": 37,
+                    "stre": 41,
+                    "tp": 45
+                }
+            ],
+            "pos": "C",
+            "hgt": 79,
+            "weight": 210,
+            "born": {
+                "year": 1990,
+                "loc": "Cholargos, Greece"
+            },
+            "college": ""
+        },
+        {
+            "tid": 6,
+            "name": "Linos Chrysikopoulos",
+            "ratings": [
+                {
+                    "diq": 35,
+                    "dnk": 41,
+                    "drb": 39,
+                    "endu": 31,
+                    "fg": 41,
+                    "ft": 35,
+                    "hgt": 56,
+                    "ins": 37,
+                    "jmp": 33,
+                    "oiq": 36,
+                    "pss": 37,
+                    "reb": 36,
+                    "spd": 35,
+                    "stre": 40,
+                    "tp": 43
+                }
+            ],
+            "pos": "SF",
+            "hgt": 81,
+            "weight": 209,
+            "born": {
+                "year": 1992,
+                "loc": "Corfu, Greece"
+            },
+            "college": ""
+        },
+        {
+            "tid": 6,
+            "name": "Kostas Antetokounmpo",
+            "ratings": [
+                {
+                    "diq": 39,
+                    "dnk": 49,
+                    "drb": 33,
+                    "endu": 26,
+                    "fg": 11,
+                    "ft": 8,
+                    "hgt": 59,
+                    "ins": 65,
+                    "jmp": 40,
+                    "oiq": 26,
+                    "pss": 40,
+                    "reb": 63,
+                    "spd": 39,
+                    "stre": 56,
+                    "tp": 23
+                }
+            ],
+            "pos": "PF",
+            "hgt": 82,
+            "weight": 200,
+            "born": {
+                "year": 1999,
+                "loc": "Greece"
+            },
+            "college": "Dayton"
+        },
+        {
+            "tid": 6,
+            "name": "Nikos Rogkavopoulos",
+            "ratings": [
+                {
+                    "diq": 34,
+                    "dnk": 38,
+                    "drb": 37,
+                    "endu": 36,
+                    "fg": 34,
+                    "ft": 35,
+                    "hgt": 52,
+                    "ins": 34,
+                    "jmp": 41,
+                    "oiq": 36,
+                    "pss": 36,
+                    "reb": 39,
+                    "spd": 41,
+                    "stre": 39,
+                    "tp": 43
+                }
+            ],
+            "pos": "SF",
+            "hgt": 80,
+            "weight": 197,
+            "born": {
+                "year": 1999,
+                "loc": "Maroussi, Greece"
+            },
+            "college": ""
+        },
+        {
+            "tid": 6,
+            "name": "Vassilis Kavvadas",
+            "ratings": [
+                {
+                    "diq": 38,
+                    "dnk": 45,
+                    "drb": 37,
+                    "endu": 33,
+                    "fg": 26,
+                    "ft": 25,
+                    "hgt": 52,
+                    "ins": 49,
+                    "jmp": 28,
+                    "oiq": 38,
+                    "pss": 39,
+                    "reb": 51,
+                    "spd": 31,
+                    "stre": 47,
+                    "tp": 30
+                }
+            ],
+            "pos": "PF",
+            "hgt": 80,
+            "weight": 255,
+            "born": {
+                "year": 1991,
+                "loc": "Athens, Greece"
             },
             "college": ""
         },
@@ -11939,6 +12001,37 @@
         },
         {
             "tid": 7,
+            "name": "Domantas Sabonis",
+            "ratings": [
+                {
+                    "diq": 50,
+                    "dnk": 50,
+                    "drb": 56,
+                    "endu": 57,
+                    "fg": 36,
+                    "ft": 31,
+                    "hgt": 63,
+                    "ins": 63,
+                    "jmp": 50,
+                    "oiq": 47,
+                    "pss": 65,
+                    "reb": 81,
+                    "spd": 49,
+                    "stre": 67,
+                    "tp": 27
+                }
+            ],
+            "pos": "PF",
+            "hgt": 83,
+            "weight": 240,
+            "born": {
+                "year": 1998,
+                "loc": "United States"
+            },
+            "college": "Gonzaga"
+        },
+        {
+            "tid": 7,
             "name": "Jonas Valanciunas",
             "ratings": [
                 {
@@ -12027,37 +12120,6 @@
             "born": {
                 "year": 1989,
                 "loc": "Vilnius, Lithuania"
-            },
-            "college": ""
-        },
-        {
-            "tid": 7,
-            "name": "Arnas Velicka",
-            "ratings": [
-                {
-                    "diq": 37,
-                    "dnk": 42,
-                    "drb": 64,
-                    "endu": 45,
-                    "fg": 29,
-                    "ft": 29,
-                    "hgt": 37,
-                    "ins": 46,
-                    "jmp": 55,
-                    "oiq": 44,
-                    "pss": 68,
-                    "reb": 52,
-                    "spd": 60,
-                    "stre": 46,
-                    "tp": 38
-                }
-            ],
-            "pos": "PG",
-            "hgt": 76,
-            "weight": 192,
-            "born": {
-                "year": 1999,
-                "loc": "Kaunas, Lithuania"
             },
             "college": ""
         },
@@ -12156,130 +12218,6 @@
         },
         {
             "tid": 7,
-            "name": "Deividas Sirvydis",
-            "ratings": [
-                {
-                    "diq": 40,
-                    "dnk": 43,
-                    "drb": 44,
-                    "endu": 37,
-                    "fg": 44,
-                    "ft": 44,
-                    "hgt": 52,
-                    "ins": 41,
-                    "jmp": 46,
-                    "oiq": 43,
-                    "pss": 40,
-                    "reb": 57,
-                    "spd": 46,
-                    "stre": 45,
-                    "tp": 64
-                }
-            ],
-            "pos": "GF",
-            "hgt": 80,
-            "weight": 190,
-            "born": {
-                "year": 2000,
-                "loc": "Lithuania"
-            },
-            "college": ""
-        },
-        {
-            "tid": 7,
-            "name": "Arturas Gudaitis",
-            "ratings": [
-                {
-                    "diq": 40,
-                    "dnk": 66,
-                    "drb": 47,
-                    "endu": 40,
-                    "fg": 17,
-                    "ft": 31,
-                    "hgt": 59,
-                    "ins": 55,
-                    "jmp": 40,
-                    "oiq": 50,
-                    "pss": 40,
-                    "reb": 57,
-                    "spd": 47,
-                    "stre": 59,
-                    "tp": 20
-                }
-            ],
-            "pos": "C",
-            "hgt": 82,
-            "weight": 254,
-            "born": {
-                "year": 1995,
-                "loc": "Klaipeda, Lithuania"
-            },
-            "college": ""
-        },
-        {
-            "tid": 7,
-            "name": "Arnoldas Kulboka",
-            "ratings": [
-                {
-                    "diq": 41,
-                    "dnk": 44,
-                    "drb": 43,
-                    "endu": 37,
-                    "fg": 44,
-                    "ft": 46,
-                    "hgt": 59,
-                    "ins": 32,
-                    "jmp": 45,
-                    "oiq": 41,
-                    "pss": 36,
-                    "reb": 52,
-                    "spd": 45,
-                    "stre": 46,
-                    "tp": 60
-                }
-            ],
-            "pos": "SF",
-            "hgt": 82,
-            "weight": 215,
-            "born": {
-                "year": 1998,
-                "loc": "Marijampole, Lithuania"
-            },
-            "college": ""
-        },
-        {
-            "tid": 7,
-            "name": "Paulius Jankunas",
-            "ratings": [
-                {
-                    "diq": 58,
-                    "dnk": 48,
-                    "drb": 52,
-                    "endu": 31,
-                    "fg": 33,
-                    "ft": 45,
-                    "hgt": 56,
-                    "ins": 39,
-                    "jmp": 18,
-                    "oiq": 49,
-                    "pss": 50,
-                    "reb": 64,
-                    "spd": 27,
-                    "stre": 46,
-                    "tp": 38
-                }
-            ],
-            "pos": "SF",
-            "hgt": 81,
-            "weight": 236,
-            "born": {
-                "year": 1984,
-                "loc": "Kaunas, Lithuania"
-            },
-            "college": ""
-        },
-        {
-            "tid": 7,
             "name": "Mantas Kalnietis",
             "ratings": [
                 {
@@ -12306,6 +12244,130 @@
             "born": {
                 "year": 1986,
                 "loc": "Kaunas, Lithuania"
+            },
+            "college": ""
+        },
+        {
+            "tid": 7,
+            "name": "Tadas Sedekerskis",
+            "ratings": [
+                {
+                    "diq": 48,
+                    "dnk": 46,
+                    "drb": 46,
+                    "endu": 34,
+                    "fg": 26,
+                    "ft": 33,
+                    "hgt": 52,
+                    "ins": 20,
+                    "jmp": 45,
+                    "oiq": 44,
+                    "pss": 38,
+                    "reb": 61,
+                    "spd": 48,
+                    "stre": 48,
+                    "tp": 29
+                }
+            ],
+            "pos": "SF",
+            "hgt": 80,
+            "weight": 205,
+            "born": {
+                "year": 1998,
+                "loc": "Klaipeda, Lithuania"
+            },
+            "college": ""
+        },
+        {
+            "tid": 7,
+            "name": "Edgaras Ulanovas",
+            "ratings": [
+                {
+                    "diq": 42,
+                    "dnk": 45,
+                    "drb": 53,
+                    "endu": 33,
+                    "fg": 33,
+                    "ft": 37,
+                    "hgt": 44,
+                    "ins": 30,
+                    "jmp": 41,
+                    "oiq": 41,
+                    "pss": 50,
+                    "reb": 47,
+                    "spd": 48,
+                    "stre": 44,
+                    "tp": 37
+                }
+            ],
+            "pos": "SF",
+            "hgt": 78,
+            "weight": 192,
+            "born": {
+                "year": 1992,
+                "loc": "Kaunas, Lithuania"
+            },
+            "college": ""
+        },
+        {
+            "tid": 7,
+            "name": "Tomas Dimsa",
+            "ratings": [
+                {
+                    "diq": 34,
+                    "dnk": 42,
+                    "drb": 48,
+                    "endu": 34,
+                    "fg": 46,
+                    "ft": 43,
+                    "hgt": 41,
+                    "ins": 36,
+                    "jmp": 44,
+                    "oiq": 37,
+                    "pss": 46,
+                    "reb": 35,
+                    "spd": 48,
+                    "stre": 42,
+                    "tp": 51
+                }
+            ],
+            "pos": "SG",
+            "hgt": 77,
+            "weight": 180,
+            "born": {
+                "year": 1994,
+                "loc": "Kaunas, Lithuania"
+            },
+            "college": ""
+        },
+        {
+            "tid": 7,
+            "name": "Regimantas Miniotas",
+            "ratings": [
+                {
+                    "diq": 43,
+                    "dnk": 45,
+                    "drb": 41,
+                    "endu": 35,
+                    "fg": 31,
+                    "ft": 34,
+                    "hgt": 56,
+                    "ins": 44,
+                    "jmp": 26,
+                    "oiq": 40,
+                    "pss": 40,
+                    "reb": 60,
+                    "spd": 29,
+                    "stre": 48,
+                    "tp": 30
+                }
+            ],
+            "pos": "C",
+            "hgt": 81,
+            "weight": 210,
+            "born": {
+                "year": 1996,
+                "loc": "Kedainiai, Lithuania"
             },
             "college": ""
         },
@@ -13024,6 +13086,37 @@
         },
         {
             "tid": 24,
+            "name": "Paul Stoll",
+            "ratings": [
+                {
+                    "diq": 65,
+                    "dnk": 28,
+                    "drb": 70,
+                    "endu": 39,
+                    "fg": 44,
+                    "ft": 54,
+                    "hgt": 19,
+                    "ins": 31,
+                    "jmp": 24,
+                    "oiq": 38,
+                    "pss": 75,
+                    "reb": 30,
+                    "spd": 40,
+                    "stre": 33,
+                    "tp": 66
+                }
+            ],
+            "pos": "G",
+            "hgt": 71,
+            "weight": 175,
+            "born": {
+                "year": 1986,
+                "loc": "Lansing (MI), USA"
+            },
+            "college": ""
+        },
+        {
+            "tid": 24,
             "name": "Paco Cruz",
             "ratings": [
                 {
@@ -13055,32 +13148,125 @@
         },
         {
             "tid": 24,
-            "name": "Manuel Hernandez",
+            "name": "Juan Toscano-Anderson",
             "ratings": [
                 {
-                    "diq": 54,
-                    "dnk": 79,
+                    "diq": 51,
+                    "dnk": 39,
                     "drb": 50,
-                    "endu": 44,
-                    "fg": 41,
-                    "ft": 54,
-                    "hgt": 37,
-                    "ins": 50,
-                    "jmp": 7,
-                    "oiq": 45,
-                    "pss": 31,
-                    "reb": 17,
-                    "spd": 42,
-                    "stre": 65,
-                    "tp": 16
+                    "endu": 39,
+                    "fg": 38,
+                    "ft": 37,
+                    "hgt": 44,
+                    "ins": 35,
+                    "jmp": 43,
+                    "oiq": 36,
+                    "pss": 52,
+                    "reb": 54,
+                    "spd": 45,
+                    "stre": 47,
+                    "tp": 41
                 }
             ],
-            "pos": "GF",
-            "hgt": 76,
-            "weight": 210,
+            "pos": "F",
+            "hgt": 78,
+            "weight": 209,
             "born": {
-                "year": 1991,
-                "loc": "Mexico"
+                "year": 1995,
+                "loc": "United States"
+            },
+            "college": "Marquette"
+        },
+        {
+            "tid": 24,
+            "name": "Alexander Perez Kaufmann",
+            "ratings": [
+                {
+                    "diq": 43,
+                    "dnk": 36,
+                    "drb": 61,
+                    "endu": 36,
+                    "fg": 38,
+                    "ft": 34,
+                    "hgt": 33,
+                    "ins": 38,
+                    "jmp": 43,
+                    "oiq": 38,
+                    "pss": 64,
+                    "reb": 37,
+                    "spd": 48,
+                    "stre": 40,
+                    "tp": 34
+                }
+            ],
+            "pos": "G",
+            "hgt": 75,
+            "weight": 190,
+            "born": {
+                "year": 1993,
+                "loc": "San Diego (CA), USA"
+            },
+            "college": ""
+        },
+        {
+            "tid": 24,
+            "name": "Orlando Mendez",
+            "ratings": [
+                {
+                    "diq": 36,
+                    "dnk": 37,
+                    "drb": 73,
+                    "endu": 26,
+                    "fg": 41,
+                    "ft": 48,
+                    "hgt": 22,
+                    "ins": 24,
+                    "jmp": 25,
+                    "oiq": 41,
+                    "pss": 70,
+                    "reb": 28,
+                    "spd": 47,
+                    "stre": 35,
+                    "tp": 61
+                }
+            ],
+            "pos": "G",
+            "hgt": 72,
+            "weight": 185,
+            "born": {
+                "year": 1987,
+                "loc": "San Antonio (TX), USA"
+            },
+            "college": ""
+        },
+        {
+            "tid": 24,
+            "name": "Daniel Amigo",
+            "ratings": [
+                {
+                    "diq": 33,
+                    "dnk": 45,
+                    "drb": 40,
+                    "endu": 37,
+                    "fg": 38,
+                    "ft": 30,
+                    "hgt": 59,
+                    "ins": 45,
+                    "jmp": 42,
+                    "oiq": 35,
+                    "pss": 40,
+                    "reb": 35,
+                    "spd": 42,
+                    "stre": 43,
+                    "tp": 36
+                }
+            ],
+            "pos": "C",
+            "hgt": 82,
+            "weight": 245,
+            "born": {
+                "year": 1996,
+                "loc": "El Paso (TX), Mexico"
             },
             "college": ""
         },
@@ -13117,37 +13303,6 @@
         },
         {
             "tid": 24,
-            "name": "Arim Solares",
-            "ratings": [
-                {
-                    "diq": 53,
-                    "dnk": 36,
-                    "drb": 56,
-                    "endu": 14,
-                    "fg": 36,
-                    "ft": 41,
-                    "hgt": 44,
-                    "ins": 13,
-                    "jmp": 0,
-                    "oiq": 31,
-                    "pss": 51,
-                    "reb": 36,
-                    "spd": 22,
-                    "stre": 34,
-                    "tp": 55
-                }
-            ],
-            "pos": "F",
-            "hgt": 78,
-            "weight": 212,
-            "born": {
-                "year": 1983,
-                "loc": "Mexico City, Mexico"
-            },
-            "college": ""
-        },
-        {
-            "tid": 24,
             "name": "Jose Estrada",
             "ratings": [
                 {
@@ -13179,32 +13334,32 @@
         },
         {
             "tid": 24,
-            "name": "Hector Hernandez",
+            "name": "Marco Ramos",
             "ratings": [
                 {
-                    "diq": 49,
-                    "dnk": 16,
-                    "drb": 57,
-                    "endu": 0,
-                    "fg": 44,
-                    "ft": 63,
-                    "hgt": 56,
-                    "ins": 0,
-                    "jmp": 0,
-                    "oiq": 49,
-                    "pss": 46,
-                    "reb": 78,
-                    "spd": 0,
-                    "stre": 28,
-                    "tp": 63
+                    "diq": 36,
+                    "dnk": 40,
+                    "drb": 43,
+                    "endu": 19,
+                    "fg": 37,
+                    "ft": 44,
+                    "hgt": 44,
+                    "ins": 25,
+                    "jmp": 14,
+                    "oiq": 35,
+                    "pss": 35,
+                    "reb": 33,
+                    "spd": 25,
+                    "stre": 35,
+                    "tp": 50
                 }
             ],
             "pos": "F",
-            "hgt": 81,
-            "weight": 225,
+            "hgt": 78,
+            "weight": 214,
             "born": {
-                "year": 1986,
-                "loc": "Chihuahua, Mexico"
+                "year": 1988,
+                "loc": "Salinas (CA), USA"
             },
             "college": ""
         },
@@ -13269,130 +13424,6 @@
                 "loc": "Guadalajara, Mexico"
             },
             "college": ""
-        },
-        {
-            "tid": 24,
-            "name": "James Alvarez",
-            "ratings": [
-                {
-                    "diq": 20,
-                    "dnk": 67,
-                    "drb": 62,
-                    "endu": 11,
-                    "fg": 0,
-                    "ft": 14,
-                    "hgt": 37,
-                    "ins": 46,
-                    "jmp": 33,
-                    "oiq": 11,
-                    "pss": 52,
-                    "reb": 0,
-                    "spd": 62,
-                    "stre": 43,
-                    "tp": 1
-                }
-            ],
-            "pos": "F",
-            "hgt": 76,
-            "weight": 178,
-            "born": {
-                "year": 1994,
-                "loc": "Mexico"
-            },
-            "college": ""
-        },
-        {
-            "tid": 24,
-            "name": "Jonatan Machado",
-            "ratings": [
-                {
-                    "diq": 30,
-                    "dnk": 23,
-                    "drb": 42,
-                    "endu": 0,
-                    "fg": 21,
-                    "ft": 28,
-                    "hgt": 48,
-                    "ins": 0,
-                    "jmp": 14,
-                    "oiq": 15,
-                    "pss": 24,
-                    "reb": 21,
-                    "spd": 37,
-                    "stre": 24,
-                    "tp": 56
-                }
-            ],
-            "pos": "F",
-            "hgt": 79,
-            "weight": 220,
-            "born": {
-                "year": 1993,
-                "loc": "Mexico"
-            },
-            "college": ""
-        },
-        {
-            "tid": 24,
-            "name": "Raul Delgado",
-            "ratings": [
-                {
-                    "diq": 34,
-                    "dnk": 23,
-                    "drb": 44,
-                    "endu": 15,
-                    "fg": 22,
-                    "ft": 39,
-                    "hgt": 30,
-                    "ins": 48,
-                    "jmp": 0,
-                    "oiq": 25,
-                    "pss": 43,
-                    "reb": 17,
-                    "spd": 0,
-                    "stre": 24,
-                    "tp": 46
-                }
-            ],
-            "pos": "PG",
-            "hgt": 74,
-            "weight": 195,
-            "born": {
-                "year": 1992,
-                "loc": "Chihuahua, Mexico"
-            },
-            "college": ""
-        },
-        {
-            "tid": 25,
-            "name": "Nikola Vucevic",
-            "ratings": [
-                {
-                    "diq": 56,
-                    "dnk": 59,
-                    "drb": 56,
-                    "endu": 49,
-                    "fg": 65,
-                    "ft": 54,
-                    "hgt": 67,
-                    "ins": 61,
-                    "jmp": 39,
-                    "oiq": 60,
-                    "pss": 55,
-                    "reb": 76,
-                    "spd": 39,
-                    "stre": 65,
-                    "tp": 46
-                }
-            ],
-            "pos": "PF",
-            "hgt": 84,
-            "weight": 260,
-            "born": {
-                "year": 1992,
-                "loc": "Switzerland"
-            },
-            "college": "USC"
         },
         {
             "tid": 25,
@@ -13732,6 +13763,37 @@
             "born": {
                 "year": 1987,
                 "loc": "Bijeljina, Montenegro"
+            },
+            "college": ""
+        },
+        {
+            "tid": 25,
+            "name": "Fedor Zugic",
+            "ratings": [
+                {
+                    "diq": 35,
+                    "dnk": 39,
+                    "drb": 42,
+                    "endu": 41,
+                    "fg": 40,
+                    "ft": 42,
+                    "hgt": 44,
+                    "ins": 36,
+                    "jmp": 51,
+                    "oiq": 36,
+                    "pss": 40,
+                    "reb": 36,
+                    "spd": 50,
+                    "stre": 40,
+                    "tp": 46
+                }
+            ],
+            "pos": "SG",
+            "hgt": 78,
+            "weight": 188,
+            "born": {
+                "year": 2003,
+                "loc": "Kotor, Montenegro"
             },
             "college": ""
         },
@@ -15039,37 +15101,6 @@
         },
         {
             "tid": 30,
-            "name": "Jordan Heading",
-            "ratings": [
-                {
-                    "diq": 25,
-                    "dnk": 26,
-                    "drb": 45,
-                    "endu": 40,
-                    "fg": 35,
-                    "ft": 30,
-                    "hgt": 30,
-                    "ins": 27,
-                    "jmp": 54,
-                    "oiq": 27,
-                    "pss": 46,
-                    "reb": 33,
-                    "spd": 58,
-                    "stre": 34,
-                    "tp": 64
-                }
-            ],
-            "pos": "G",
-            "hgt": 74,
-            "weight": 190,
-            "born": {
-                "year": 1996,
-                "loc": "Colonel Light Gardens, Australia"
-            },
-            "college": "California Baptist"
-        },
-        {
-            "tid": 30,
             "name": "Kai Sotto",
             "ratings": [
                 {
@@ -15222,6 +15253,37 @@
                 "loc": "Philippines"
             },
             "college": ""
+        },
+        {
+            "tid": 30,
+            "name": "Jordan Heading",
+            "ratings": [
+                {
+                    "diq": 25,
+                    "dnk": 26,
+                    "drb": 45,
+                    "endu": 40,
+                    "fg": 35,
+                    "ft": 30,
+                    "hgt": 30,
+                    "ins": 27,
+                    "jmp": 54,
+                    "oiq": 27,
+                    "pss": 46,
+                    "reb": 33,
+                    "spd": 58,
+                    "stre": 34,
+                    "tp": 64
+                }
+            ],
+            "pos": "G",
+            "hgt": 74,
+            "weight": 190,
+            "born": {
+                "year": 1996,
+                "loc": "Colonel Light Gardens, Australia"
+            },
+            "college": "California Baptist"
         },
         {
             "tid": 30,
@@ -15411,6 +15473,37 @@
         },
         {
             "tid": 12,
+            "name": "A.J. Slaughter",
+            "ratings": [
+                {
+                    "diq": 43,
+                    "dnk": 46,
+                    "drb": 59,
+                    "endu": 36,
+                    "fg": 54,
+                    "ft": 46,
+                    "hgt": 37,
+                    "ins": 39,
+                    "jmp": 39,
+                    "oiq": 47,
+                    "pss": 56,
+                    "reb": 37,
+                    "spd": 48,
+                    "stre": 46,
+                    "tp": 49
+                }
+            ],
+            "pos": "G",
+            "hgt": 76,
+            "weight": 185,
+            "born": {
+                "year": 1988,
+                "loc": "Shelbyville (KY), USA"
+            },
+            "college": ""
+        },
+        {
+            "tid": 12,
             "name": "Tomasz Gielo",
             "ratings": [
                 {
@@ -15473,37 +15566,6 @@
         },
         {
             "tid": 12,
-            "name": "Benjamin Didier-Urbaniak",
-            "ratings": [
-                {
-                    "diq": 42,
-                    "dnk": 34,
-                    "drb": 38,
-                    "endu": 45,
-                    "fg": 44,
-                    "ft": 40,
-                    "hgt": 41,
-                    "ins": 54,
-                    "jmp": 35,
-                    "oiq": 38,
-                    "pss": 37,
-                    "reb": 44,
-                    "spd": 38,
-                    "stre": 40,
-                    "tp": 56
-                }
-            ],
-            "pos": "SF",
-            "hgt": 77,
-            "weight": 185,
-            "born": {
-                "year": 2001,
-                "loc": "Warsaw, Poland"
-            },
-            "college": ""
-        },
-        {
-            "tid": 12,
             "name": "Jaroslaw Zyskowski",
             "ratings": [
                 {
@@ -15535,32 +15597,32 @@
         },
         {
             "tid": 12,
-            "name": "Maciej Lampe",
+            "name": "Mathieu Wojciechowski",
             "ratings": [
                 {
-                    "diq": 42,
-                    "dnk": 48,
+                    "diq": 51,
+                    "dnk": 47,
                     "drb": 46,
-                    "endu": 19,
-                    "fg": 43,
-                    "ft": 35,
-                    "hgt": 63,
-                    "ins": 55,
-                    "jmp": 8,
-                    "oiq": 43,
-                    "pss": 45,
-                    "reb": 56,
-                    "spd": 15,
-                    "stre": 47,
-                    "tp": 27
+                    "endu": 27,
+                    "fg": 32,
+                    "ft": 32,
+                    "hgt": 48,
+                    "ins": 38,
+                    "jmp": 20,
+                    "oiq": 41,
+                    "pss": 40,
+                    "reb": 51,
+                    "spd": 29,
+                    "stre": 44,
+                    "tp": 36
                 }
             ],
-            "pos": "FC",
-            "hgt": 83,
-            "weight": 275,
+            "pos": "F",
+            "hgt": 79,
+            "weight": 199,
             "born": {
-                "year": 1983,
-                "loc": "Lodz, Poland"
+                "year": 1990,
+                "loc": "Calais, France"
             },
             "college": ""
         },
@@ -15659,6 +15721,37 @@
         },
         {
             "tid": 12,
+            "name": "Aaron Cel",
+            "ratings": [
+                {
+                    "diq": 45,
+                    "dnk": 35,
+                    "drb": 48,
+                    "endu": 26,
+                    "fg": 34,
+                    "ft": 31,
+                    "hgt": 52,
+                    "ins": 24,
+                    "jmp": 27,
+                    "oiq": 37,
+                    "pss": 46,
+                    "reb": 43,
+                    "spd": 34,
+                    "stre": 37,
+                    "tp": 37
+                }
+            ],
+            "pos": "SF",
+            "hgt": 80,
+            "weight": 212,
+            "born": {
+                "year": 1987,
+                "loc": "Orleans, France"
+            },
+            "college": ""
+        },
+        {
+            "tid": 12,
             "name": "Lukasz Kolenda",
             "ratings": [
                 {
@@ -15685,37 +15778,6 @@
             "born": {
                 "year": 1999,
                 "loc": "Elk, Poland"
-            },
-            "college": ""
-        },
-        {
-            "tid": 12,
-            "name": "Przemyslaw Zolnierewicz",
-            "ratings": [
-                {
-                    "diq": 37,
-                    "dnk": 44,
-                    "drb": 45,
-                    "endu": 39,
-                    "fg": 30,
-                    "ft": 29,
-                    "hgt": 37,
-                    "ins": 48,
-                    "jmp": 37,
-                    "oiq": 39,
-                    "pss": 45,
-                    "reb": 43,
-                    "spd": 42,
-                    "stre": 46,
-                    "tp": 25
-                }
-            ],
-            "pos": "SG",
-            "hgt": 76,
-            "weight": 200,
-            "born": {
-                "year": 1995,
-                "loc": "Paslek, Poland"
             },
             "college": ""
         },
@@ -15752,37 +15814,6 @@
         },
         {
             "tid": 15,
-            "name": "Shabazz Napier",
-            "ratings": [
-                {
-                    "diq": 52,
-                    "dnk": 45,
-                    "drb": 68,
-                    "endu": 46,
-                    "fg": 44,
-                    "ft": 51,
-                    "hgt": 26,
-                    "ins": 46,
-                    "jmp": 50,
-                    "oiq": 46,
-                    "pss": 70,
-                    "reb": 50,
-                    "spd": 57,
-                    "stre": 48,
-                    "tp": 52
-                }
-            ],
-            "pos": "PG",
-            "hgt": 73,
-            "weight": 180,
-            "born": {
-                "year": 1993,
-                "loc": "Puerto Rico"
-            },
-            "college": "Connecticut"
-        },
-        {
-            "tid": 15,
             "name": "Ivan Gandia-Rosa",
             "ratings": [
                 {
@@ -15811,192 +15842,6 @@
                 "loc": "Caguas (PR), Puerto Rico"
             },
             "college": ""
-        },
-        {
-            "tid": 15,
-            "name": "Jesus Cruz",
-            "ratings": [
-                {
-                    "diq": 55,
-                    "dnk": 51,
-                    "drb": 40,
-                    "endu": 62,
-                    "fg": 33,
-                    "ft": 40,
-                    "hgt": 41,
-                    "ins": 52,
-                    "jmp": 56,
-                    "oiq": 47,
-                    "pss": 39,
-                    "reb": 44,
-                    "spd": 57,
-                    "stre": 53,
-                    "tp": 39
-                }
-            ],
-            "pos": "SG",
-            "hgt": 77,
-            "weight": 210,
-            "born": {
-                "year": 1998,
-                "loc": "San Juan, PR, Puerto Rico"
-            },
-            "college": "Fairfield"
-        },
-        {
-            "tid": 15,
-            "name": "Felix Rivera-Vega",
-            "ratings": [
-                {
-                    "diq": 53,
-                    "dnk": 49,
-                    "drb": 37,
-                    "endu": 60,
-                    "fg": 32,
-                    "ft": 37,
-                    "hgt": 48,
-                    "ins": 58,
-                    "jmp": 39,
-                    "oiq": 53,
-                    "pss": 38,
-                    "reb": 59,
-                    "spd": 41,
-                    "stre": 51,
-                    "tp": 48
-                }
-            ],
-            "pos": "F",
-            "hgt": 79,
-            "weight": 185,
-            "born": {
-                "year": 1997,
-                "loc": "Bayamon (PR), Puerto Rico"
-            },
-            "college": ""
-        },
-        {
-            "tid": 15,
-            "name": "Maurice Harkless",
-            "ratings": [
-                {
-                    "diq": 47,
-                    "dnk": 49,
-                    "drb": 49,
-                    "endu": 40,
-                    "fg": 42,
-                    "ft": 42,
-                    "hgt": 56,
-                    "ins": 27,
-                    "jmp": 55,
-                    "oiq": 38,
-                    "pss": 44,
-                    "reb": 43,
-                    "spd": 58,
-                    "stre": 49,
-                    "tp": 47
-                }
-            ],
-            "pos": "F",
-            "hgt": 81,
-            "weight": 220,
-            "born": {
-                "year": 1995,
-                "loc": "Puerto Rico"
-            },
-            "college": "St. John's"
-        },
-        {
-            "tid": 15,
-            "name": "Leandro Allende",
-            "ratings": [
-                {
-                    "diq": 37,
-                    "dnk": 55,
-                    "drb": 38,
-                    "endu": 58,
-                    "fg": 40,
-                    "ft": 43,
-                    "hgt": 44,
-                    "ins": 52,
-                    "jmp": 54,
-                    "oiq": 48,
-                    "pss": 35,
-                    "reb": 42,
-                    "spd": 52,
-                    "stre": 53,
-                    "tp": 36
-                }
-            ],
-            "pos": "F",
-            "hgt": 78,
-            "weight": 190,
-            "born": {
-                "year": 1998,
-                "loc": "Rio Piedras (PR), Puerto Rico"
-            },
-            "college": ""
-        },
-        {
-            "tid": 15,
-            "name": "John Holland",
-            "ratings": [
-                {
-                    "diq": 50,
-                    "dnk": 44,
-                    "drb": 50,
-                    "endu": 38,
-                    "fg": 45,
-                    "ft": 49,
-                    "hgt": 41,
-                    "ins": 37,
-                    "jmp": 34,
-                    "oiq": 43,
-                    "pss": 47,
-                    "reb": 41,
-                    "spd": 41,
-                    "stre": 43,
-                    "tp": 52
-                }
-            ],
-            "pos": "SF",
-            "hgt": 77,
-            "weight": 205,
-            "born": {
-                "year": 1989,
-                "loc": "Bronx (NY), Puerto Rico"
-            },
-            "college": ""
-        },
-        {
-            "tid": 15,
-            "name": "J.J. Barea",
-            "ratings": [
-                {
-                    "diq": 44,
-                    "dnk": 43,
-                    "drb": 77,
-                    "endu": 25,
-                    "fg": 58,
-                    "ft": 55,
-                    "hgt": 15,
-                    "ins": 55,
-                    "jmp": 20,
-                    "oiq": 47,
-                    "pss": 80,
-                    "reb": 38,
-                    "spd": 35,
-                    "stre": 39,
-                    "tp": 52
-                }
-            ],
-            "pos": "G",
-            "hgt": 70,
-            "weight": 180,
-            "born": {
-                "year": 1986,
-                "loc": "Puerto Rico"
-            },
-            "college": "Northeastern"
         },
         {
             "tid": 15,
@@ -16062,63 +15907,280 @@
         },
         {
             "tid": 15,
-            "name": "Jaysean Paige",
+            "name": "Isaiah Pineiro",
             "ratings": [
                 {
-                    "diq": 52,
-                    "dnk": 36,
-                    "drb": 49,
-                    "endu": 44,
-                    "fg": 47,
-                    "ft": 44,
-                    "hgt": 30,
-                    "ins": 43,
-                    "jmp": 38,
-                    "oiq": 35,
-                    "pss": 52,
-                    "reb": 45,
-                    "spd": 40,
-                    "stre": 44,
-                    "tp": 50
-                }
-            ],
-            "pos": "G",
-            "hgt": 74,
-            "weight": 200,
-            "born": {
-                "year": 1994,
-                "loc": "Puerto Rico"
-            },
-            "college": "West Virginia"
-        },
-        {
-            "tid": 15,
-            "name": "Gerardo Texeira Santos",
-            "ratings": [
-                {
-                    "diq": 45,
-                    "dnk": 39,
-                    "drb": 32,
-                    "endu": 52,
+                    "diq": 41,
+                    "dnk": 44,
+                    "drb": 39,
+                    "endu": 42,
                     "fg": 34,
-                    "ft": 39,
+                    "ft": 36,
                     "hgt": 48,
-                    "ins": 40,
-                    "jmp": 35,
-                    "oiq": 49,
-                    "pss": 33,
-                    "reb": 64,
-                    "spd": 37,
-                    "stre": 48,
-                    "tp": 33
+                    "ins": 42,
+                    "jmp": 42,
+                    "oiq": 38,
+                    "pss": 39,
+                    "reb": 49,
+                    "spd": 43,
+                    "stre": 47,
+                    "tp": 39
                 }
             ],
             "pos": "SF",
             "hgt": 79,
-            "weight": 185,
+            "weight": 215,
             "born": {
-                "year": 1998,
-                "loc": "Ponce, PR, Puerto Rico"
+                "year": 1997,
+                "loc": "Puerto Rico"
+            },
+            "college": "San Diego"
+        },
+        {
+            "tid": 15,
+            "name": "David Huertas",
+            "ratings": [
+                {
+                    "diq": 33,
+                    "dnk": 61,
+                    "drb": 66,
+                    "endu": 4,
+                    "fg": 69,
+                    "ft": 71,
+                    "hgt": 41,
+                    "ins": 33,
+                    "jmp": 0,
+                    "oiq": 40,
+                    "pss": 48,
+                    "reb": 18,
+                    "spd": 27,
+                    "stre": 48,
+                    "tp": 67
+                }
+            ],
+            "pos": "GF",
+            "hgt": 77,
+            "weight": 197,
+            "born": {
+                "year": 1988,
+                "loc": "Humacao (PR), Puerto Rico"
+            },
+            "college": ""
+        },
+        {
+            "tid": 15,
+            "name": "Emmy Andujar",
+            "ratings": [
+                {
+                    "diq": 29,
+                    "dnk": 43,
+                    "drb": 50,
+                    "endu": 30,
+                    "fg": 27,
+                    "ft": 42,
+                    "hgt": 44,
+                    "ins": 25,
+                    "jmp": 43,
+                    "oiq": 40,
+                    "pss": 46,
+                    "reb": 42,
+                    "spd": 54,
+                    "stre": 44,
+                    "tp": 35
+                }
+            ],
+            "pos": "SF",
+            "hgt": 78,
+            "weight": 205,
+            "born": {
+                "year": 1993,
+                "loc": "Bronx (NY), Puerto Rico"
+            },
+            "college": ""
+        },
+        {
+            "tid": 15,
+            "name": "Tyler Davis",
+            "ratings": [
+                {
+                    "diq": 41,
+                    "dnk": 43,
+                    "drb": 32,
+                    "endu": 31,
+                    "fg": 29,
+                    "ft": 23,
+                    "hgt": 59,
+                    "ins": 63,
+                    "jmp": 23,
+                    "oiq": 37,
+                    "pss": 36,
+                    "reb": 69,
+                    "spd": 20,
+                    "stre": 52,
+                    "tp": 19
+                }
+            ],
+            "pos": "C",
+            "hgt": 82,
+            "weight": 266,
+            "born": {
+                "year": 1996,
+                "loc": "Puerto Rico"
+            },
+            "college": "Texas A&M"
+        },
+        {
+            "tid": 15,
+            "name": "Isaac Sosa",
+            "ratings": [
+                {
+                    "diq": 10,
+                    "dnk": 31,
+                    "drb": 53,
+                    "endu": 2,
+                    "fg": 76,
+                    "ft": 71,
+                    "hgt": 33,
+                    "ins": 23,
+                    "jmp": 10,
+                    "oiq": 30,
+                    "pss": 38,
+                    "reb": 14,
+                    "spd": 35,
+                    "stre": 32,
+                    "tp": 100
+                }
+            ],
+            "pos": "G",
+            "hgt": 75,
+            "weight": 180,
+            "born": {
+                "year": 1991,
+                "loc": "Guaynabo (PR), Puerto Rico"
+            },
+            "college": ""
+        },
+        {
+            "tid": 15,
+            "name": "George Conditt IV",
+            "ratings": [
+                {
+                    "diq": 20,
+                    "dnk": 47,
+                    "drb": 26,
+                    "endu": 39,
+                    "fg": 26,
+                    "ft": 0,
+                    "hgt": 59,
+                    "ins": 43,
+                    "jmp": 42,
+                    "oiq": 31,
+                    "pss": 26,
+                    "reb": 40,
+                    "spd": 40,
+                    "stre": 50,
+                    "tp": 24
+                }
+            ],
+            "pos": "PF",
+            "hgt": 82,
+            "weight": 223,
+            "born": {
+                "year": 2000,
+                "loc": "Chicago, IL, Puerto Rico"
+            },
+            "college": "Iowa State"
+        },
+        {
+            "tid": 15,
+            "name": "Jose Gadiel Rodriguez",
+            "ratings": [
+                {
+                    "diq": 16,
+                    "dnk": 46,
+                    "drb": 64,
+                    "endu": 3,
+                    "fg": 9,
+                    "ft": 28,
+                    "hgt": 48,
+                    "ins": 45,
+                    "jmp": 20,
+                    "oiq": 33,
+                    "pss": 59,
+                    "reb": 52,
+                    "spd": 39,
+                    "stre": 46,
+                    "tp": 7
+                }
+            ],
+            "pos": "F",
+            "hgt": 79,
+            "weight": 215,
+            "born": {
+                "year": 1994,
+                "loc": "Bronx (NY), Puerto Rico"
+            },
+            "college": ""
+        },
+        {
+            "tid": 15,
+            "name": "Andre Curbelo",
+            "ratings": [
+                {
+                    "diq": 39,
+                    "dnk": 31,
+                    "drb": 36,
+                    "endu": 39,
+                    "fg": 32,
+                    "ft": 33,
+                    "hgt": 26,
+                    "ins": 37,
+                    "jmp": 38,
+                    "oiq": 31,
+                    "pss": 39,
+                    "reb": 34,
+                    "spd": 37,
+                    "stre": 35,
+                    "tp": 29
+                }
+            ],
+            "pos": "PG",
+            "hgt": 73,
+            "weight": 175,
+            "born": {
+                "year": 2001,
+                "loc": "Brookville, NY, Puerto Rico"
+            },
+            "college": "Illinois"
+        },
+        {
+            "tid": 15,
+            "name": "Gilberto Clavell",
+            "ratings": [
+                {
+                    "diq": 11,
+                    "dnk": 64,
+                    "drb": 49,
+                    "endu": 13,
+                    "fg": 13,
+                    "ft": 32,
+                    "hgt": 44,
+                    "ins": 77,
+                    "jmp": 0,
+                    "oiq": 38,
+                    "pss": 46,
+                    "reb": 52,
+                    "spd": 12,
+                    "stre": 62,
+                    "tp": 14
+                }
+            ],
+            "pos": "F",
+            "hgt": 78,
+            "weight": 210,
+            "born": {
+                "year": 1989,
+                "loc": "Mayaguez (PR), Puerto Rico"
             },
             "college": ""
         },
@@ -16434,32 +16496,32 @@
         },
         {
             "tid": 10,
-            "name": "Alexey Shved",
+            "name": "Anton Astapkovich",
             "ratings": [
                 {
-                    "diq": 45,
-                    "dnk": 49,
-                    "drb": 71,
-                    "endu": 39,
-                    "fg": 54,
-                    "ft": 47,
-                    "hgt": 44,
-                    "ins": 59,
-                    "jmp": 35,
-                    "oiq": 49,
-                    "pss": 75,
-                    "reb": 46,
-                    "spd": 44,
-                    "stre": 50,
-                    "tp": 49
+                    "diq": 47,
+                    "dnk": 43,
+                    "drb": 51,
+                    "endu": 43,
+                    "fg": 42,
+                    "ft": 44,
+                    "hgt": 52,
+                    "ins": 36,
+                    "jmp": 42,
+                    "oiq": 44,
+                    "pss": 49,
+                    "reb": 44,
+                    "spd": 45,
+                    "stre": 45,
+                    "tp": 43
                 }
             ],
-            "pos": "G",
-            "hgt": 78,
-            "weight": 187,
+            "pos": "GF",
+            "hgt": 80,
+            "weight": 208,
             "born": {
-                "year": 1988,
-                "loc": "Belgorod, Russia"
+                "year": 1994,
+                "loc": "Minsk, Belarus"
             },
             "college": ""
         },
@@ -16491,99 +16553,6 @@
             "born": {
                 "year": 1987,
                 "loc": "Omsk, Russia"
-            },
-            "college": ""
-        },
-        {
-            "tid": 10,
-            "name": "Dmitry Kulagin",
-            "ratings": [
-                {
-                    "diq": 43,
-                    "dnk": 45,
-                    "drb": 50,
-                    "endu": 42,
-                    "fg": 42,
-                    "ft": 39,
-                    "hgt": 44,
-                    "ins": 50,
-                    "jmp": 42,
-                    "oiq": 45,
-                    "pss": 52,
-                    "reb": 44,
-                    "spd": 43,
-                    "stre": 45,
-                    "tp": 38
-                }
-            ],
-            "pos": "SG",
-            "hgt": 78,
-            "weight": 196,
-            "born": {
-                "year": 1992,
-                "loc": "Moscow, Russia"
-            },
-            "college": ""
-        },
-        {
-            "tid": 10,
-            "name": "Andrey Zubkov",
-            "ratings": [
-                {
-                    "diq": 48,
-                    "dnk": 43,
-                    "drb": 51,
-                    "endu": 34,
-                    "fg": 35,
-                    "ft": 40,
-                    "hgt": 56,
-                    "ins": 34,
-                    "jmp": 33,
-                    "oiq": 41,
-                    "pss": 49,
-                    "reb": 49,
-                    "spd": 39,
-                    "stre": 44,
-                    "tp": 39
-                }
-            ],
-            "pos": "SF",
-            "hgt": 81,
-            "weight": 195,
-            "born": {
-                "year": 1991,
-                "loc": "Chelyabinsk, Russia"
-            },
-            "college": ""
-        },
-        {
-            "tid": 10,
-            "name": "Pavel Antipov",
-            "ratings": [
-                {
-                    "diq": 42,
-                    "dnk": 40,
-                    "drb": 42,
-                    "endu": 34,
-                    "fg": 44,
-                    "ft": 44,
-                    "hgt": 56,
-                    "ins": 31,
-                    "jmp": 36,
-                    "oiq": 38,
-                    "pss": 39,
-                    "reb": 40,
-                    "spd": 40,
-                    "stre": 39,
-                    "tp": 52
-                }
-            ],
-            "pos": "F",
-            "hgt": 81,
-            "weight": 212,
-            "born": {
-                "year": 1991,
-                "loc": "Tatarstan, Russia"
             },
             "college": ""
         },
@@ -16713,29 +16682,153 @@
         },
         {
             "tid": 10,
-            "name": "Andrey Lopatin",
+            "name": "Ivan Strebkov",
             "ratings": [
                 {
-                    "diq": 39,
+                    "diq": 42,
+                    "dnk": 37,
+                    "drb": 54,
+                    "endu": 37,
+                    "fg": 44,
+                    "ft": 41,
+                    "hgt": 33,
+                    "ins": 37,
+                    "jmp": 34,
+                    "oiq": 42,
+                    "pss": 55,
+                    "reb": 42,
+                    "spd": 38,
+                    "stre": 41,
+                    "tp": 39
+                }
+            ],
+            "pos": "G",
+            "hgt": 75,
+            "weight": 185,
+            "born": {
+                "year": 1991,
+                "loc": "Almaty, Russia"
+            },
+            "college": ""
+        },
+        {
+            "tid": 10,
+            "name": "Vladimir Ivlev",
+            "ratings": [
+                {
+                    "diq": 45,
                     "dnk": 42,
-                    "drb": 44,
-                    "endu": 29,
-                    "fg": 32,
-                    "ft": 47,
+                    "drb": 41,
+                    "endu": 32,
+                    "fg": 25,
+                    "ft": 29,
                     "hgt": 56,
-                    "ins": 18,
-                    "jmp": 49,
-                    "oiq": 35,
-                    "pss": 35,
-                    "reb": 37,
-                    "spd": 53,
-                    "stre": 38,
-                    "tp": 46
+                    "ins": 38,
+                    "jmp": 25,
+                    "oiq": 39,
+                    "pss": 40,
+                    "reb": 50,
+                    "spd": 30,
+                    "stre": 43,
+                    "tp": 29
                 }
             ],
             "pos": "F",
             "hgt": 81,
-            "weight": 200,
+            "weight": 198,
+            "born": {
+                "year": 1990,
+                "loc": "Moscow, Russia"
+            },
+            "college": ""
+        },
+        {
+            "tid": 10,
+            "name": "Semen Antonov",
+            "ratings": [
+                {
+                    "diq": 43,
+                    "dnk": 44,
+                    "drb": 43,
+                    "endu": 27,
+                    "fg": 36,
+                    "ft": 35,
+                    "hgt": 52,
+                    "ins": 32,
+                    "jmp": 25,
+                    "oiq": 41,
+                    "pss": 37,
+                    "reb": 43,
+                    "spd": 30,
+                    "stre": 40,
+                    "tp": 40
+                }
+            ],
+            "pos": "SF",
+            "hgt": 80,
+            "weight": 214,
+            "born": {
+                "year": 1989,
+                "loc": "Tyumen, Russia"
+            },
+            "college": ""
+        },
+        {
+            "tid": 10,
+            "name": "Anton Kardanakhishvili",
+            "ratings": [
+                {
+                    "diq": 36,
+                    "dnk": 40,
+                    "drb": 41,
+                    "endu": 39,
+                    "fg": 37,
+                    "ft": 29,
+                    "hgt": 44,
+                    "ins": 46,
+                    "jmp": 45,
+                    "oiq": 33,
+                    "pss": 44,
+                    "reb": 35,
+                    "spd": 43,
+                    "stre": 41,
+                    "tp": 36
+                }
+            ],
+            "pos": "SF",
+            "hgt": 78,
+            "weight": 187,
+            "born": {
+                "year": 2002,
+                "loc": "Moscow, Russia"
+            },
+            "college": ""
+        },
+        {
+            "tid": 10,
+            "name": "Grigory Motovilov",
+            "ratings": [
+                {
+                    "diq": 36,
+                    "dnk": 42,
+                    "drb": 48,
+                    "endu": 31,
+                    "fg": 35,
+                    "ft": 34,
+                    "hgt": 37,
+                    "ins": 43,
+                    "jmp": 43,
+                    "oiq": 34,
+                    "pss": 47,
+                    "reb": 37,
+                    "spd": 46,
+                    "stre": 40,
+                    "tp": 38
+                }
+            ],
+            "pos": "SG",
+            "hgt": 76,
+            "weight": 150,
             "born": {
                 "year": 1998,
                 "loc": "Moscow, Russia"
@@ -16744,63 +16837,32 @@
         },
         {
             "tid": 10,
-            "name": "Sergey Karasev",
+            "name": "Timofey Mozgov",
             "ratings": [
                 {
-                    "diq": 43,
-                    "dnk": 41,
-                    "drb": 46,
-                    "endu": 32,
-                    "fg": 41,
-                    "ft": 46,
-                    "hgt": 48,
-                    "ins": 32,
-                    "jmp": 34,
-                    "oiq": 37,
-                    "pss": 41,
-                    "reb": 36,
-                    "spd": 39,
-                    "stre": 39,
-                    "tp": 50
+                    "diq": 50,
+                    "dnk": 46,
+                    "drb": 40,
+                    "endu": 16,
+                    "fg": 27,
+                    "ft": 34,
+                    "hgt": 70,
+                    "ins": 62,
+                    "jmp": 3,
+                    "oiq": 30,
+                    "pss": 42,
+                    "reb": 55,
+                    "spd": 11,
+                    "stre": 47,
+                    "tp": 20
                 }
             ],
-            "pos": "SF",
-            "hgt": 79,
-            "weight": 213,
+            "pos": "C",
+            "hgt": 85,
+            "weight": 275,
             "born": {
-                "year": 1993,
+                "year": 1986,
                 "loc": "Saint Petersburg, Russia"
-            },
-            "college": ""
-        },
-        {
-            "tid": 10,
-            "name": "Stanislav Ilnitskiy",
-            "ratings": [
-                {
-                    "diq": 40,
-                    "dnk": 44,
-                    "drb": 41,
-                    "endu": 35,
-                    "fg": 33,
-                    "ft": 36,
-                    "hgt": 48,
-                    "ins": 34,
-                    "jmp": 35,
-                    "oiq": 39,
-                    "pss": 37,
-                    "reb": 44,
-                    "spd": 38,
-                    "stre": 43,
-                    "tp": 42
-                }
-            ],
-            "pos": "PF",
-            "hgt": 79,
-            "weight": 226,
-            "born": {
-                "year": 1994,
-                "loc": "Belgorod, Russia"
             },
             "college": ""
         },
@@ -17116,34 +17178,34 @@
         },
         {
             "tid": 34,
-            "name": "Gorgui Dieng",
+            "name": "Pierria Henry",
             "ratings": [
                 {
-                    "diq": 53,
-                    "dnk": 48,
-                    "drb": 51,
-                    "endu": 33,
-                    "fg": 40,
-                    "ft": 49,
-                    "hgt": 59,
-                    "ins": 44,
-                    "jmp": 34,
-                    "oiq": 45,
-                    "pss": 48,
-                    "reb": 59,
-                    "spd": 39,
-                    "stre": 50,
-                    "tp": 48
+                    "diq": 57,
+                    "dnk": 40,
+                    "drb": 77,
+                    "endu": 44,
+                    "fg": 39,
+                    "ft": 40,
+                    "hgt": 41,
+                    "ins": 43,
+                    "jmp": 48,
+                    "oiq": 41,
+                    "pss": 84,
+                    "reb": 48,
+                    "spd": 57,
+                    "stre": 48,
+                    "tp": 26
                 }
             ],
-            "pos": "FC",
-            "hgt": 82,
-            "weight": 252,
+            "pos": "G",
+            "hgt": 77,
+            "weight": 197,
             "born": {
-                "year": 1991,
-                "loc": "Senegal"
+                "year": 1993,
+                "loc": "South Charleston (WV), USA"
             },
-            "college": "Louisville"
+            "college": ""
         },
         {
             "tid": 34,
@@ -17173,37 +17235,6 @@
             "born": {
                 "year": 1997,
                 "loc": "Fissel, Senegal"
-            },
-            "college": ""
-        },
-        {
-            "tid": 34,
-            "name": "Michel Diouf",
-            "ratings": [
-                {
-                    "diq": 42,
-                    "dnk": 45,
-                    "drb": 38,
-                    "endu": 35,
-                    "fg": 49,
-                    "ft": 41,
-                    "hgt": 59,
-                    "ins": 31,
-                    "jmp": 39,
-                    "oiq": 41,
-                    "pss": 34,
-                    "reb": 40,
-                    "spd": 43,
-                    "stre": 43,
-                    "tp": 43
-                }
-            ],
-            "pos": "FC",
-            "hgt": 82,
-            "weight": 200,
-            "born": {
-                "year": 1989,
-                "loc": "Medina Gouna, Senegal"
             },
             "college": ""
         },
@@ -17302,99 +17333,6 @@
         },
         {
             "tid": 34,
-            "name": "Youssoupha Fall",
-            "ratings": [
-                {
-                    "diq": 33,
-                    "dnk": 50,
-                    "drb": 32,
-                    "endu": 22,
-                    "fg": 13,
-                    "ft": 17,
-                    "hgt": 78,
-                    "ins": 81,
-                    "jmp": 21,
-                    "oiq": 29,
-                    "pss": 39,
-                    "reb": 69,
-                    "spd": 19,
-                    "stre": 57,
-                    "tp": 19
-                }
-            ],
-            "pos": "C",
-            "hgt": 87,
-            "weight": 271,
-            "born": {
-                "year": 1995,
-                "loc": "Dakar, Senegal"
-            },
-            "college": ""
-        },
-        {
-            "tid": 34,
-            "name": "Tacko Fall",
-            "ratings": [
-                {
-                    "diq": 33,
-                    "dnk": 40,
-                    "drb": 22,
-                    "endu": 27,
-                    "fg": 17,
-                    "ft": 4,
-                    "hgt": 85,
-                    "ins": 50,
-                    "jmp": 42,
-                    "oiq": 24,
-                    "pss": 31,
-                    "reb": 60,
-                    "spd": 32,
-                    "stre": 54,
-                    "tp": 21
-                }
-            ],
-            "pos": "C",
-            "hgt": 89,
-            "weight": 311,
-            "born": {
-                "year": 1997,
-                "loc": "Senegal"
-            },
-            "college": "UCF"
-        },
-        {
-            "tid": 34,
-            "name": "Mouhammad Faye",
-            "ratings": [
-                {
-                    "diq": 37,
-                    "dnk": 38,
-                    "drb": 40,
-                    "endu": 26,
-                    "fg": 38,
-                    "ft": 43,
-                    "hgt": 56,
-                    "ins": 28,
-                    "jmp": 28,
-                    "oiq": 31,
-                    "pss": 37,
-                    "reb": 36,
-                    "spd": 33,
-                    "stre": 37,
-                    "tp": 48
-                }
-            ],
-            "pos": "PF",
-            "hgt": 81,
-            "weight": 215,
-            "born": {
-                "year": 1988,
-                "loc": "Dakar, Senegal"
-            },
-            "college": ""
-        },
-        {
-            "tid": 34,
             "name": "Boubacar Toure",
             "ratings": [
                 {
@@ -17426,125 +17364,187 @@
         },
         {
             "tid": 34,
-            "name": "Christ Koumadje",
+            "name": "Cheikh Diallo",
             "ratings": [
                 {
-                    "diq": 32,
-                    "dnk": 37,
-                    "drb": 26,
-                    "endu": 28,
-                    "fg": 19,
-                    "ft": 16,
-                    "hgt": 81,
-                    "ins": 41,
-                    "jmp": 42,
-                    "oiq": 23,
-                    "pss": 32,
-                    "reb": 49,
-                    "spd": 35,
-                    "stre": 46,
-                    "tp": 25
+                    "diq": 29,
+                    "dnk": 31,
+                    "drb": 31,
+                    "endu": 45,
+                    "fg": 36,
+                    "ft": 42,
+                    "hgt": 33,
+                    "ins": 32,
+                    "jmp": 36,
+                    "oiq": 35,
+                    "pss": 30,
+                    "reb": 31,
+                    "spd": 37,
+                    "stre": 34,
+                    "tp": 51
                 }
             ],
-            "pos": "C",
-            "hgt": 88,
-            "weight": 270,
+            "pos": "SG",
+            "hgt": 75,
+            "weight": 170,
             "born": {
                 "year": 1997,
-                "loc": "Senegal"
+                "loc": "Thies, Senegal"
             },
-            "college": "Florida State"
+            "college": ""
         },
         {
             "tid": 34,
-            "name": "Biram Faye",
+            "name": "Alkaly Mamadou Ndour",
             "ratings": [
                 {
-                    "diq": 34,
-                    "dnk": 35,
-                    "drb": 30,
-                    "endu": 40,
-                    "fg": 33,
-                    "ft": 34,
+                    "diq": 32,
+                    "dnk": 33,
+                    "drb": 35,
+                    "endu": 39,
+                    "fg": 23,
+                    "ft": 19,
                     "hgt": 56,
-                    "ins": 38,
+                    "ins": 35,
                     "jmp": 35,
-                    "oiq": 35,
-                    "pss": 30,
-                    "reb": 38,
+                    "oiq": 28,
+                    "pss": 37,
+                    "reb": 37,
                     "spd": 34,
-                    "stre": 38,
-                    "tp": 35
+                    "stre": 36,
+                    "tp": 23
                 }
             ],
             "pos": "C",
             "hgt": 81,
-            "weight": 220,
+            "weight": 219,
             "born": {
-                "year": 1999,
+                "year": 1997,
+                "loc": "Senegal"
+            },
+            "college": ""
+        },
+        {
+            "tid": 34,
+            "name": "Jean-Jacques Boissy",
+            "ratings": [
+                {
+                    "diq": 38,
+                    "dnk": 30,
+                    "drb": 36,
+                    "endu": 36,
+                    "fg": 29,
+                    "ft": 31,
+                    "hgt": 22,
+                    "ins": 39,
+                    "jmp": 33,
+                    "oiq": 31,
+                    "pss": 40,
+                    "reb": 38,
+                    "spd": 32,
+                    "stre": 34,
+                    "tp": 32
+                }
+            ],
+            "pos": "PG",
+            "hgt": 72,
+            "weight": 146,
+            "born": {
+                "year": 2000,
                 "loc": "Dakar, Senegal"
             },
             "college": ""
         },
         {
-            "tid": 4,
-            "name": "Nikola Jokic",
+            "tid": 34,
+            "name": "Gorgui Dieng",
             "ratings": [
                 {
-                    "diq": 58,
-                    "dnk": 53,
-                    "drb": 70,
-                    "endu": 67,
-                    "fg": 56,
-                    "ft": 52,
-                    "hgt": 67,
-                    "ins": 72,
-                    "jmp": 54,
-                    "oiq": 57,
-                    "pss": 81,
-                    "reb": 81,
-                    "spd": 52,
-                    "stre": 68,
-                    "tp": 36
+                    "diq": 53,
+                    "dnk": 48,
+                    "drb": 51,
+                    "endu": 33,
+                    "fg": 40,
+                    "ft": 49,
+                    "hgt": 59,
+                    "ins": 44,
+                    "jmp": 34,
+                    "oiq": 45,
+                    "pss": 48,
+                    "reb": 59,
+                    "spd": 39,
+                    "stre": 50,
+                    "tp": 48
                 }
             ],
-            "pos": "C",
-            "hgt": 84,
-            "weight": 284,
+            "pos": "FC",
+            "hgt": 82,
+            "weight": 252,
             "born": {
-                "year": 1996,
-                "loc": "Serbia"
+                "year": 1991,
+                "loc": "Senegal"
+            },
+            "college": "Louisville"
+        },
+        {
+            "tid": 34,
+            "name": "Michel Diouf",
+            "ratings": [
+                {
+                    "diq": 42,
+                    "dnk": 45,
+                    "drb": 38,
+                    "endu": 35,
+                    "fg": 49,
+                    "ft": 41,
+                    "hgt": 59,
+                    "ins": 31,
+                    "jmp": 39,
+                    "oiq": 41,
+                    "pss": 34,
+                    "reb": 40,
+                    "spd": 43,
+                    "stre": 43,
+                    "tp": 43
+                }
+            ],
+            "pos": "FC",
+            "hgt": 82,
+            "weight": 200,
+            "born": {
+                "year": 1989,
+                "loc": "Medina Gouna, Senegal"
             },
             "college": ""
         },
         {
-            "tid": 4,
-            "name": "Bogdan Bogdanovic",
+            "tid": 34,
+            "name": "Youssoupha Fall",
             "ratings": [
                 {
-                    "diq": 50,
-                    "dnk": 51,
-                    "drb": 62,
-                    "endu": 53,
-                    "fg": 66,
-                    "ft": 61,
-                    "hgt": 44,
-                    "ins": 42,
-                    "jmp": 59,
-                    "oiq": 53,
-                    "pss": 58,
-                    "reb": 48,
-                    "spd": 61,
-                    "stre": 55,
-                    "tp": 70
+                    "diq": 33,
+                    "dnk": 50,
+                    "drb": 32,
+                    "endu": 22,
+                    "fg": 13,
+                    "ft": 17,
+                    "hgt": 78,
+                    "ins": 81,
+                    "jmp": 21,
+                    "oiq": 29,
+                    "pss": 39,
+                    "reb": 69,
+                    "spd": 19,
+                    "stre": 57,
+                    "tp": 19
                 }
             ],
-            "pos": "SG",
-            "hgt": 78,
-            "weight": 220,
+            "pos": "C",
+            "hgt": 87,
+            "weight": 271,
             "born": {
-                "year": 1994,
-                "loc": "Serbia"
+                "year": 1995,
+                "loc": "Dakar, Senegal"
             },
             "college": ""
         },
@@ -17576,130 +17576,6 @@
             "born": {
                 "year": 1994,
                 "loc": "Kraljevo, Serbia"
-            },
-            "college": ""
-        },
-        {
-            "tid": 4,
-            "name": "Nikola Rakicevic",
-            "ratings": [
-                {
-                    "diq": 55,
-                    "dnk": 52,
-                    "drb": 40,
-                    "endu": 66,
-                    "fg": 27,
-                    "ft": 47,
-                    "hgt": 41,
-                    "ins": 66,
-                    "jmp": 47,
-                    "oiq": 52,
-                    "pss": 42,
-                    "reb": 57,
-                    "spd": 51,
-                    "stre": 57,
-                    "tp": 36
-                }
-            ],
-            "pos": "G",
-            "hgt": 77,
-            "weight": 185,
-            "born": {
-                "year": 1997,
-                "loc": "Smederevo, Serbia"
-            },
-            "college": "Buffalo"
-        },
-        {
-            "tid": 4,
-            "name": "Nikola Malesevic",
-            "ratings": [
-                {
-                    "diq": 56,
-                    "dnk": 67,
-                    "drb": 55,
-                    "endu": 48,
-                    "fg": 35,
-                    "ft": 38,
-                    "hgt": 48,
-                    "ins": 43,
-                    "jmp": 34,
-                    "oiq": 58,
-                    "pss": 45,
-                    "reb": 51,
-                    "spd": 46,
-                    "stre": 57,
-                    "tp": 30
-                }
-            ],
-            "pos": "SF",
-            "hgt": 79,
-            "weight": 200,
-            "born": {
-                "year": 1991,
-                "loc": "Uzice, Serbia"
-            },
-            "college": ""
-        },
-        {
-            "tid": 4,
-            "name": "Andreja Stevanovic",
-            "ratings": [
-                {
-                    "diq": 39,
-                    "dnk": 47,
-                    "drb": 57,
-                    "endu": 54,
-                    "fg": 49,
-                    "ft": 50,
-                    "hgt": 33,
-                    "ins": 62,
-                    "jmp": 46,
-                    "oiq": 49,
-                    "pss": 60,
-                    "reb": 48,
-                    "spd": 50,
-                    "stre": 54,
-                    "tp": 64
-                }
-            ],
-            "pos": "G",
-            "hgt": 75,
-            "weight": 205,
-            "born": {
-                "year": 1995,
-                "loc": "Kragujevac, Serbia"
-            },
-            "college": ""
-        },
-        {
-            "tid": 4,
-            "name": "Dorde Simeunovic",
-            "ratings": [
-                {
-                    "diq": 49,
-                    "dnk": 55,
-                    "drb": 49,
-                    "endu": 54,
-                    "fg": 31,
-                    "ft": 26,
-                    "hgt": 48,
-                    "ins": 64,
-                    "jmp": 37,
-                    "oiq": 53,
-                    "pss": 53,
-                    "reb": 69,
-                    "spd": 43,
-                    "stre": 62,
-                    "tp": 34
-                }
-            ],
-            "pos": "SF",
-            "hgt": 79,
-            "weight": 212,
-            "born": {
-                "year": 1995,
-                "loc": "Krusevac, Serbia"
             },
             "college": ""
         },
@@ -17767,94 +17643,280 @@
         },
         {
             "tid": 4,
-            "name": "Vojislav Stojanovic",
+            "name": "Milos Teodosic",
+            "ratings": [
+                {
+                    "diq": 43,
+                    "dnk": 37,
+                    "drb": 68,
+                    "endu": 39,
+                    "fg": 47,
+                    "ft": 47,
+                    "hgt": 41,
+                    "ins": 45,
+                    "jmp": 36,
+                    "oiq": 42,
+                    "pss": 75,
+                    "reb": 44,
+                    "spd": 44,
+                    "stre": 40,
+                    "tp": 53
+                }
+            ],
+            "pos": "PG",
+            "hgt": 77,
+            "weight": 196,
+            "born": {
+                "year": 1987,
+                "loc": "Valjevo, Serbia"
+            },
+            "college": ""
+        },
+        {
+            "tid": 4,
+            "name": "Nikola Kalinic",
             "ratings": [
                 {
                     "diq": 52,
-                    "dnk": 52,
-                    "drb": 38,
-                    "endu": 61,
-                    "fg": 36,
-                    "ft": 31,
-                    "hgt": 48,
-                    "ins": 59,
-                    "jmp": 52,
-                    "oiq": 50,
-                    "pss": 39,
-                    "reb": 51,
-                    "spd": 48,
-                    "stre": 54,
-                    "tp": 41
+                    "dnk": 43,
+                    "drb": 63,
+                    "endu": 34,
+                    "fg": 30,
+                    "ft": 35,
+                    "hgt": 52,
+                    "ins": 37,
+                    "jmp": 32,
+                    "oiq": 44,
+                    "pss": 65,
+                    "reb": 56,
+                    "spd": 41,
+                    "stre": 47,
+                    "tp": 30
+                }
+            ],
+            "pos": "F",
+            "hgt": 80,
+            "weight": 222,
+            "born": {
+                "year": 1991,
+                "loc": "Subotica, Serbia"
+            },
+            "college": ""
+        },
+        {
+            "tid": 4,
+            "name": "Danilo Andjusic",
+            "ratings": [
+                {
+                    "diq": 35,
+                    "dnk": 48,
+                    "drb": 54,
+                    "endu": 43,
+                    "fg": 47,
+                    "ft": 54,
+                    "hgt": 37,
+                    "ins": 46,
+                    "jmp": 46,
+                    "oiq": 47,
+                    "pss": 51,
+                    "reb": 39,
+                    "spd": 53,
+                    "stre": 48,
+                    "tp": 55
                 }
             ],
             "pos": "SG",
-            "hgt": 79,
-            "weight": 196,
+            "hgt": 76,
+            "weight": 200,
             "born": {
-                "year": 1997,
+                "year": 1991,
                 "loc": "Belgrade, Serbia"
             },
             "college": ""
         },
         {
             "tid": 4,
-            "name": "Dusan Kutlesic",
+            "name": "Dejan Davidovac",
             "ratings": [
                 {
-                    "diq": 53,
-                    "dnk": 56,
-                    "drb": 54,
-                    "endu": 49,
-                    "fg": 32,
-                    "ft": 31,
-                    "hgt": 44,
-                    "ins": 51,
-                    "jmp": 45,
-                    "oiq": 46,
-                    "pss": 52,
-                    "reb": 41,
-                    "spd": 54,
-                    "stre": 55,
-                    "tp": 29
+                    "diq": 49,
+                    "dnk": 43,
+                    "drb": 47,
+                    "endu": 42,
+                    "fg": 40,
+                    "ft": 45,
+                    "hgt": 52,
+                    "ins": 32,
+                    "jmp": 44,
+                    "oiq": 43,
+                    "pss": 44,
+                    "reb": 43,
+                    "spd": 47,
+                    "stre": 44,
+                    "tp": 47
                 }
             ],
-            "pos": "SG",
-            "hgt": 78,
-            "weight": 195,
+            "pos": "SF",
+            "hgt": 80,
+            "weight": 210,
             "born": {
-                "year": 1994,
-                "loc": "Uzice, Serbia"
+                "year": 1995,
+                "loc": "Zrenjanin, Serbia"
             },
             "college": ""
         },
         {
             "tid": 4,
-            "name": "Nikola Kovacevic",
+            "name": "Filip Petrusev",
             "ratings": [
                 {
-                    "diq": 31,
-                    "dnk": 52,
-                    "drb": 48,
-                    "endu": 49,
-                    "fg": 44,
-                    "ft": 48,
-                    "hgt": 56,
-                    "ins": 40,
-                    "jmp": 55,
-                    "oiq": 45,
-                    "pss": 42,
-                    "reb": 42,
-                    "spd": 58,
-                    "stre": 52,
-                    "tp": 47
+                    "diq": 33,
+                    "dnk": 54,
+                    "drb": 40,
+                    "endu": 47,
+                    "fg": 30,
+                    "ft": 28,
+                    "hgt": 63,
+                    "ins": 55,
+                    "jmp": 49,
+                    "oiq": 46,
+                    "pss": 39,
+                    "reb": 52,
+                    "spd": 50,
+                    "stre": 57,
+                    "tp": 24
+                }
+            ],
+            "pos": "FC",
+            "hgt": 83,
+            "weight": 225,
+            "born": {
+                "year": 1999,
+                "loc": "Belgrade, Serbia"
+            },
+            "college": ""
+        },
+        {
+            "tid": 4,
+            "name": "Ognjen Dobric",
+            "ratings": [
+                {
+                    "diq": 40,
+                    "dnk": 46,
+                    "drb": 51,
+                    "endu": 40,
+                    "fg": 45,
+                    "ft": 47,
+                    "hgt": 44,
+                    "ins": 38,
+                    "jmp": 43,
+                    "oiq": 48,
+                    "pss": 45,
+                    "reb": 43,
+                    "spd": 48,
+                    "stre": 46,
+                    "tp": 50
                 }
             ],
             "pos": "F",
-            "hgt": 81,
-            "weight": 230,
+            "hgt": 78,
+            "weight": 198,
+            "born": {
+                "year": 1994,
+                "loc": "Knin, Croatia"
+            },
+            "college": ""
+        },
+        {
+            "tid": 4,
+            "name": "Vanja Marinkovic",
+            "ratings": [
+                {
+                    "diq": 32,
+                    "dnk": 44,
+                    "drb": 43,
+                    "endu": 43,
+                    "fg": 54,
+                    "ft": 49,
+                    "hgt": 44,
+                    "ins": 34,
+                    "jmp": 58,
+                    "oiq": 42,
+                    "pss": 35,
+                    "reb": 34,
+                    "spd": 57,
+                    "stre": 43,
+                    "tp": 69
+                }
+            ],
+            "pos": "G",
+            "hgt": 78,
+            "weight": 194,
             "born": {
                 "year": 1999,
-                "loc": "Serbia"
+                "loc": "Belgrade, Serbia"
+            },
+            "college": ""
+        },
+        {
+            "tid": 4,
+            "name": "Nikola Milutinov",
+            "ratings": [
+                {
+                    "diq": 50,
+                    "dnk": 58,
+                    "drb": 43,
+                    "endu": 37,
+                    "fg": 13,
+                    "ft": 23,
+                    "hgt": 67,
+                    "ins": 49,
+                    "jmp": 23,
+                    "oiq": 54,
+                    "pss": 39,
+                    "reb": 82,
+                    "spd": 26,
+                    "stre": 57,
+                    "tp": 14
+                }
+            ],
+            "pos": "C",
+            "hgt": 84,
+            "weight": 220,
+            "born": {
+                "year": 1995,
+                "loc": "Novi Sad, Serbia"
+            },
+            "college": ""
+        },
+        {
+            "tid": 4,
+            "name": "Aleksa Avramovic",
+            "ratings": [
+                {
+                    "diq": 40,
+                    "dnk": 46,
+                    "drb": 55,
+                    "endu": 43,
+                    "fg": 43,
+                    "ft": 38,
+                    "hgt": 33,
+                    "ins": 43,
+                    "jmp": 47,
+                    "oiq": 42,
+                    "pss": 54,
+                    "reb": 38,
+                    "spd": 52,
+                    "stre": 48,
+                    "tp": 34
+                }
+            ],
+            "pos": "G",
+            "hgt": 75,
+            "weight": 190,
+            "born": {
+                "year": 1994,
+                "loc": "Cacak, Serbia"
             },
             "college": ""
         },
@@ -18294,37 +18356,6 @@
         },
         {
             "tid": 29,
-            "name": "Song Kyo-Chang",
-            "ratings": [
-                {
-                    "diq": 39,
-                    "dnk": 46,
-                    "drb": 43,
-                    "endu": 40,
-                    "fg": 42,
-                    "ft": 31,
-                    "hgt": 48,
-                    "ins": 37,
-                    "jmp": 42,
-                    "oiq": 40,
-                    "pss": 40,
-                    "reb": 44,
-                    "spd": 44,
-                    "stre": 49,
-                    "tp": 34
-                }
-            ],
-            "pos": "F",
-            "hgt": 79,
-            "weight": 213,
-            "born": {
-                "year": 1996,
-                "loc": "South Korea"
-            },
-            "college": ""
-        },
-        {
-            "tid": 29,
             "name": "Hyunjung Lee",
             "ratings": [
                 {
@@ -18353,99 +18384,6 @@
                 "loc": "Yongin, South Korea"
             },
             "college": "Davidson"
-        },
-        {
-            "tid": 29,
-            "name": "Hoon Heo",
-            "ratings": [
-                {
-                    "diq": 39,
-                    "dnk": 35,
-                    "drb": 59,
-                    "endu": 40,
-                    "fg": 43,
-                    "ft": 33,
-                    "hgt": 19,
-                    "ins": 34,
-                    "jmp": 47,
-                    "oiq": 38,
-                    "pss": 62,
-                    "reb": 37,
-                    "spd": 52,
-                    "stre": 41,
-                    "tp": 39
-                }
-            ],
-            "pos": "SG",
-            "hgt": 71,
-            "weight": 178,
-            "born": {
-                "year": 1995,
-                "loc": "Seoul, South Korea"
-            },
-            "college": ""
-        },
-        {
-            "tid": 29,
-            "name": "Jung-Hyun Lee",
-            "ratings": [
-                {
-                    "diq": 41,
-                    "dnk": 43,
-                    "drb": 54,
-                    "endu": 28,
-                    "fg": 43,
-                    "ft": 45,
-                    "hgt": 33,
-                    "ins": 35,
-                    "jmp": 31,
-                    "oiq": 39,
-                    "pss": 51,
-                    "reb": 33,
-                    "spd": 41,
-                    "stre": 40,
-                    "tp": 49
-                }
-            ],
-            "pos": "F",
-            "hgt": 75,
-            "weight": 196,
-            "born": {
-                "year": 1987,
-                "loc": "Seoul, South Korea"
-            },
-            "college": ""
-        },
-        {
-            "tid": 29,
-            "name": "Gookchan Kim",
-            "ratings": [
-                {
-                    "diq": 46,
-                    "dnk": 41,
-                    "drb": 43,
-                    "endu": 37,
-                    "fg": 44,
-                    "ft": 43,
-                    "hgt": 37,
-                    "ins": 26,
-                    "jmp": 42,
-                    "oiq": 36,
-                    "pss": 37,
-                    "reb": 32,
-                    "spd": 46,
-                    "stre": 41,
-                    "tp": 45
-                }
-            ],
-            "pos": "SF",
-            "hgt": 76,
-            "weight": 198,
-            "born": {
-                "year": 1996,
-                "loc": "Seoul, South Korea"
-            },
-            "college": ""
         },
         {
             "tid": 29,
@@ -18480,125 +18418,249 @@
         },
         {
             "tid": 29,
-            "name": "Myeongjin Seo",
+            "name": "Hongseok Yang",
             "ratings": [
                 {
-                    "diq": 34,
-                    "dnk": 31,
-                    "drb": 52,
-                    "endu": 40,
-                    "fg": 39,
-                    "ft": 38,
-                    "hgt": 33,
-                    "ins": 29,
-                    "jmp": 51,
-                    "oiq": 34,
-                    "pss": 54,
-                    "reb": 38,
-                    "spd": 52,
-                    "stre": 38,
-                    "tp": 38
+                    "diq": 38,
+                    "dnk": 39,
+                    "drb": 40,
+                    "endu": 38,
+                    "fg": 36,
+                    "ft": 35,
+                    "hgt": 44,
+                    "ins": 35,
+                    "jmp": 37,
+                    "oiq": 40,
+                    "pss": 38,
+                    "reb": 46,
+                    "spd": 38,
+                    "stre": 42,
+                    "tp": 37
                 }
             ],
-            "pos": "G",
-            "hgt": 75,
-            "weight": 202,
+            "pos": "C",
+            "hgt": 78,
+            "weight": 211,
             "born": {
-                "year": 1999,
-                "loc": "South Korea"
+                "year": 1997,
+                "loc": "Jeonju, South Korea"
             },
             "college": ""
         },
         {
             "tid": 29,
-            "name": "Sun-Hyung Kim",
+            "name": "Guna Ra",
             "ratings": [
                 {
-                    "diq": 43,
-                    "dnk": 43,
-                    "drb": 54,
-                    "endu": 32,
-                    "fg": 41,
-                    "ft": 39,
+                    "diq": 42,
+                    "dnk": 45,
+                    "drb": 35,
+                    "endu": 35,
+                    "fg": 42,
+                    "ft": 31,
+                    "hgt": 52,
+                    "ins": 51,
+                    "jmp": 18,
+                    "oiq": 41,
+                    "pss": 36,
+                    "reb": 57,
+                    "spd": 23,
+                    "stre": 51,
+                    "tp": 25
+                }
+            ],
+            "pos": "PF",
+            "hgt": 80,
+            "weight": 240,
+            "born": {
+                "year": 1990,
+                "loc": "Hampton (VA), USA"
+            },
+            "college": ""
+        },
+        {
+            "tid": 29,
+            "name": "Junhyeong Byeon",
+            "ratings": [
+                {
+                    "diq": 45,
+                    "dnk": 33,
+                    "drb": 49,
+                    "endu": 38,
+                    "fg": 34,
+                    "ft": 33,
                     "hgt": 30,
-                    "ins": 36,
-                    "jmp": 34,
-                    "oiq": 39,
-                    "pss": 52,
-                    "reb": 36,
-                    "spd": 43,
-                    "stre": 43,
-                    "tp": 32
+                    "ins": 32,
+                    "jmp": 43,
+                    "oiq": 34,
+                    "pss": 50,
+                    "reb": 32,
+                    "spd": 46,
+                    "stre": 36,
+                    "tp": 40
                 }
             ],
             "pos": "SG",
             "hgt": 74,
-            "weight": 180,
+            "weight": 181,
             "born": {
-                "year": 1988,
-                "loc": "Incheon, South Korea"
+                "year": 1996,
+                "loc": "Wonju, South Korea"
             },
             "college": ""
         },
         {
             "tid": 29,
-            "name": "Jaedo Lee",
+            "name": "Nakhyeon Kim",
             "ratings": [
                 {
-                    "diq": 46,
-                    "dnk": 38,
-                    "drb": 57,
-                    "endu": 37,
-                    "fg": 42,
-                    "ft": 40,
-                    "hgt": 15,
+                    "diq": 37,
+                    "dnk": 32,
+                    "drb": 49,
+                    "endu": 41,
+                    "fg": 43,
+                    "ft": 42,
+                    "hgt": 19,
+                    "ins": 33,
+                    "jmp": 42,
+                    "oiq": 39,
+                    "pss": 51,
+                    "reb": 36,
+                    "spd": 44,
+                    "stre": 36,
+                    "tp": 46
+                }
+            ],
+            "pos": "SG",
+            "hgt": 71,
+            "weight": 198,
+            "born": {
+                "year": 1995,
+                "loc": "Yeosu, South Korea"
+            },
+            "college": ""
+        },
+        {
+            "tid": 29,
+            "name": "Seonghyen Jeon",
+            "ratings": [
+                {
+                    "diq": 36,
+                    "dnk": 42,
+                    "drb": 41,
+                    "endu": 34,
+                    "fg": 46,
+                    "ft": 43,
+                    "hgt": 30,
                     "ins": 28,
-                    "jmp": 39,
-                    "oiq": 42,
-                    "pss": 56,
-                    "reb": 37,
-                    "spd": 48,
-                    "stre": 41,
+                    "jmp": 36,
+                    "oiq": 40,
+                    "pss": 33,
+                    "reb": 30,
+                    "spd": 42,
+                    "stre": 38,
+                    "tp": 55
+                }
+            ],
+            "pos": "G",
+            "hgt": 74,
+            "weight": 167,
+            "born": {
+                "year": 1991,
+                "loc": "Seoul, South Korea"
+            },
+            "college": ""
+        },
+        {
+            "tid": 29,
+            "name": "Dae Sung Lee",
+            "ratings": [
+                {
+                    "diq": 34,
+                    "dnk": 30,
+                    "drb": 55,
+                    "endu": 26,
+                    "fg": 42,
+                    "ft": 33,
+                    "hgt": 37,
+                    "ins": 31,
+                    "jmp": 35,
+                    "oiq": 35,
+                    "pss": 57,
+                    "reb": 34,
+                    "spd": 37,
+                    "stre": 32,
                     "tp": 37
                 }
             ],
             "pos": "G",
-            "hgt": 70,
-            "weight": 160,
+            "hgt": 76,
+            "weight": 205,
             "born": {
                 "year": 1991,
-                "loc": "Ansan, South Korea"
+                "loc": "South Korea"
             },
             "college": ""
         },
         {
             "tid": 29,
-            "name": "Young-Jun An",
+            "name": "Seounghyun Lee",
             "ratings": [
                 {
-                    "diq": 40,
-                    "dnk": 43,
-                    "drb": 42,
-                    "endu": 36,
-                    "fg": 37,
-                    "ft": 34,
+                    "diq": 27,
+                    "dnk": 37,
+                    "drb": 40,
+                    "endu": 27,
+                    "fg": 27,
+                    "ft": 20,
+                    "hgt": 44,
+                    "ins": 23,
+                    "jmp": 32,
+                    "oiq": 30,
+                    "pss": 37,
+                    "reb": 34,
+                    "spd": 37,
+                    "stre": 38,
+                    "tp": 24
+                }
+            ],
+            "pos": "C",
+            "hgt": 78,
+            "weight": 231,
+            "born": {
+                "year": 1992,
+                "loc": "Gumi, South Korea"
+            },
+            "college": ""
+        },
+        {
+            "tid": 29,
+            "name": "Seonggon Moon",
+            "ratings": [
+                {
+                    "diq": 26,
+                    "dnk": 29,
+                    "drb": 32,
+                    "endu": 30,
+                    "fg": 29,
+                    "ft": 23,
                     "hgt": 41,
-                    "ins": 28,
-                    "jmp": 41,
-                    "oiq": 36,
-                    "pss": 38,
-                    "reb": 40,
-                    "spd": 45,
-                    "stre": 45,
-                    "tp": 38
+                    "ins": 16,
+                    "jmp": 38,
+                    "oiq": 21,
+                    "pss": 31,
+                    "reb": 25,
+                    "spd": 42,
+                    "stre": 33,
+                    "tp": 36
                 }
             ],
             "pos": "F",
             "hgt": 77,
-            "weight": 208,
+            "weight": 192,
             "born": {
-                "year": 1995,
-                "loc": "South Korea"
+                "year": 1993,
+                "loc": "Busan, South Korea"
             },
             "college": ""
         },
@@ -20309,6 +20371,37 @@
         },
         {
             "tid": 32,
+            "name": "Ahmed Addami",
+            "ratings": [
+                {
+                    "diq": 39,
+                    "dnk": 42,
+                    "drb": 40,
+                    "endu": 37,
+                    "fg": 32,
+                    "ft": 33,
+                    "hgt": 52,
+                    "ins": 33,
+                    "jmp": 42,
+                    "oiq": 35,
+                    "pss": 37,
+                    "reb": 37,
+                    "spd": 45,
+                    "stre": 39,
+                    "tp": 41
+                }
+            ],
+            "pos": "PF",
+            "hgt": 80,
+            "weight": 216,
+            "born": {
+                "year": 1997,
+                "loc": "Turkey"
+            },
+            "college": ""
+        },
+        {
+            "tid": 32,
             "name": "Mourad El Mabrouk",
             "ratings": [
                 {
@@ -20433,37 +20526,6 @@
         },
         {
             "tid": 32,
-            "name": "Makram Ben Romdhane",
-            "ratings": [
-                {
-                    "diq": 44,
-                    "dnk": 44,
-                    "drb": 33,
-                    "endu": 37,
-                    "fg": 13,
-                    "ft": 12,
-                    "hgt": 52,
-                    "ins": 47,
-                    "jmp": 19,
-                    "oiq": 37,
-                    "pss": 34,
-                    "reb": 45,
-                    "spd": 26,
-                    "stre": 42,
-                    "tp": 22
-                }
-            ],
-            "pos": "FC",
-            "hgt": 80,
-            "weight": 231,
-            "born": {
-                "year": 1989,
-                "loc": "Sousse, Tunisia"
-            },
-            "college": ""
-        },
-        {
-            "tid": 32,
             "name": "Achref Gannouni",
             "ratings": [
                 {
@@ -20490,6 +20552,99 @@
             "born": {
                 "year": 1997,
                 "loc": "Tunisia"
+            },
+            "college": ""
+        },
+        {
+            "tid": 32,
+            "name": "Ziyed Chennoufi",
+            "ratings": [
+                {
+                    "diq": 28,
+                    "dnk": 34,
+                    "drb": 36,
+                    "endu": 34,
+                    "fg": 34,
+                    "ft": 38,
+                    "hgt": 44,
+                    "ins": 28,
+                    "jmp": 27,
+                    "oiq": 37,
+                    "pss": 34,
+                    "reb": 33,
+                    "spd": 30,
+                    "stre": 33,
+                    "tp": 37
+                }
+            ],
+            "pos": "SF",
+            "hgt": 78,
+            "weight": 220,
+            "born": {
+                "year": 1988,
+                "loc": "Hagen, Germany"
+            },
+            "college": ""
+        },
+        {
+            "tid": 32,
+            "name": "Salah Mejri",
+            "ratings": [
+                {
+                    "diq": 25,
+                    "dnk": 31,
+                    "drb": 18,
+                    "endu": 17,
+                    "fg": 26,
+                    "ft": 17,
+                    "hgt": 74,
+                    "ins": 44,
+                    "jmp": 25,
+                    "oiq": 17,
+                    "pss": 25,
+                    "reb": 32,
+                    "spd": 18,
+                    "stre": 37,
+                    "tp": 24
+                }
+            ],
+            "pos": "C",
+            "hgt": 86,
+            "weight": 235,
+            "born": {
+                "year": 1986,
+                "loc": "Jendouba, Tunisia"
+            },
+            "college": ""
+        },
+        {
+            "tid": 32,
+            "name": "Makram Ben Romdhane",
+            "ratings": [
+                {
+                    "diq": 44,
+                    "dnk": 44,
+                    "drb": 33,
+                    "endu": 37,
+                    "fg": 13,
+                    "ft": 12,
+                    "hgt": 52,
+                    "ins": 47,
+                    "jmp": 19,
+                    "oiq": 37,
+                    "pss": 34,
+                    "reb": 45,
+                    "spd": 26,
+                    "stre": 42,
+                    "tp": 22
+                }
+            ],
+            "pos": "FC",
+            "hgt": 80,
+            "weight": 231,
+            "born": {
+                "year": 1989,
+                "loc": "Sousse, Tunisia"
             },
             "college": ""
         },
@@ -20556,37 +20711,6 @@
             "college": ""
         },
         {
-            "tid": 32,
-            "name": "Salah Mejri",
-            "ratings": [
-                {
-                    "diq": 25,
-                    "dnk": 31,
-                    "drb": 18,
-                    "endu": 17,
-                    "fg": 26,
-                    "ft": 17,
-                    "hgt": 74,
-                    "ins": 44,
-                    "jmp": 25,
-                    "oiq": 17,
-                    "pss": 25,
-                    "reb": 32,
-                    "spd": 18,
-                    "stre": 37,
-                    "tp": 24
-                }
-            ],
-            "pos": "C",
-            "hgt": 86,
-            "weight": 235,
-            "born": {
-                "year": 1986,
-                "loc": "Jendouba, Tunisia"
-            },
-            "college": ""
-        },
-        {
             "tid": 14,
             "name": "Furkan Korkmaz",
             "ratings": [
@@ -20619,32 +20743,32 @@
         },
         {
             "tid": 14,
-            "name": "Mert Akay",
+            "name": "Cedi Osman",
             "ratings": [
                 {
-                    "diq": 53,
-                    "dnk": 34,
-                    "drb": 72,
-                    "endu": 59,
-                    "fg": 28,
-                    "ft": 30,
-                    "hgt": 44,
-                    "ins": 55,
-                    "jmp": 53,
-                    "oiq": 42,
-                    "pss": 89,
-                    "reb": 58,
-                    "spd": 56,
-                    "stre": 49,
-                    "tp": 28
+                    "diq": 46,
+                    "dnk": 49,
+                    "drb": 56,
+                    "endu": 49,
+                    "fg": 51,
+                    "ft": 48,
+                    "hgt": 48,
+                    "ins": 43,
+                    "jmp": 57,
+                    "oiq": 47,
+                    "pss": 54,
+                    "reb": 50,
+                    "spd": 57,
+                    "stre": 52,
+                    "tp": 53
                 }
             ],
-            "pos": "PG",
-            "hgt": 78,
-            "weight": 180,
+            "pos": "GF",
+            "hgt": 79,
+            "weight": 230,
             "born": {
-                "year": 1999,
-                "loc": "Beyoglu, Turkey"
+                "year": 1997,
+                "loc": "North Macedonia"
             },
             "college": ""
         },
@@ -20743,32 +20867,32 @@
         },
         {
             "tid": 14,
-            "name": "Kerem Kanter",
+            "name": "Shane Larkin",
             "ratings": [
                 {
                     "diq": 42,
-                    "dnk": 52,
-                    "drb": 42,
-                    "endu": 46,
-                    "fg": 34,
-                    "ft": 36,
-                    "hgt": 59,
-                    "ins": 61,
-                    "jmp": 30,
-                    "oiq": 50,
-                    "pss": 41,
-                    "reb": 62,
-                    "spd": 33,
-                    "stre": 54,
-                    "tp": 35
+                    "dnk": 42,
+                    "drb": 60,
+                    "endu": 45,
+                    "fg": 47,
+                    "ft": 50,
+                    "hgt": 19,
+                    "ins": 39,
+                    "jmp": 49,
+                    "oiq": 49,
+                    "pss": 59,
+                    "reb": 44,
+                    "spd": 55,
+                    "stre": 45,
+                    "tp": 55
                 }
             ],
-            "pos": "PF",
-            "hgt": 82,
-            "weight": 240,
+            "pos": "PG",
+            "hgt": 71,
+            "weight": 175,
             "born": {
-                "year": 1996,
-                "loc": "Gemlik, Turkey"
+                "year": 1993,
+                "loc": "Cincinnati (OH), USA"
             },
             "college": ""
         },
@@ -20802,6 +20926,37 @@
                 "loc": "Kadikoy, Turkey"
             },
             "college": ""
+        },
+        {
+            "tid": 14,
+            "name": "Omer Yurtseven",
+            "ratings": [
+                {
+                    "diq": 43,
+                    "dnk": 44,
+                    "drb": 36,
+                    "endu": 43,
+                    "fg": 35,
+                    "ft": 30,
+                    "hgt": 67,
+                    "ins": 59,
+                    "jmp": 33,
+                    "oiq": 39,
+                    "pss": 42,
+                    "reb": 68,
+                    "spd": 32,
+                    "stre": 54,
+                    "tp": 32
+                }
+            ],
+            "pos": "C",
+            "hgt": 84,
+            "weight": 264,
+            "born": {
+                "year": 1998,
+                "loc": "Uzbekistan"
+            },
+            "college": "Georgetown"
         },
         {
             "tid": 14,
@@ -20893,37 +21048,6 @@
             "born": {
                 "year": 1996,
                 "loc": "Seyhan, Turkey"
-            },
-            "college": ""
-        },
-        {
-            "tid": 14,
-            "name": "Metin Turen",
-            "ratings": [
-                {
-                    "diq": 42,
-                    "dnk": 39,
-                    "drb": 45,
-                    "endu": 35,
-                    "fg": 38,
-                    "ft": 42,
-                    "hgt": 59,
-                    "ins": 29,
-                    "jmp": 38,
-                    "oiq": 40,
-                    "pss": 42,
-                    "reb": 46,
-                    "spd": 41,
-                    "stre": 41,
-                    "tp": 47
-                }
-            ],
-            "pos": "SF",
-            "hgt": 82,
-            "weight": 209,
-            "born": {
-                "year": 1994,
-                "loc": "Goztepe, Turkey"
             },
             "college": ""
         },
@@ -21704,37 +21828,6 @@
         },
         {
             "tid": 0,
-            "name": "Bradley Beal",
-            "ratings": [
-                {
-                    "diq": 45,
-                    "dnk": 72,
-                    "drb": 70,
-                    "endu": 67,
-                    "fg": 66,
-                    "ft": 65,
-                    "hgt": 33,
-                    "ins": 76,
-                    "jmp": 64,
-                    "oiq": 62,
-                    "pss": 68,
-                    "reb": 55,
-                    "spd": 70,
-                    "stre": 72,
-                    "tp": 44
-                }
-            ],
-            "pos": "SG",
-            "hgt": 75,
-            "weight": 207,
-            "born": {
-                "year": 1993,
-                "loc": "St. Louis, MO, USA"
-            },
-            "college": "Florida"
-        },
-        {
-            "tid": 0,
             "name": "Khris Middleton",
             "ratings": [
                 {
@@ -21890,37 +21983,6 @@
         },
         {
             "tid": 0,
-            "name": "Kevin Love",
-            "ratings": [
-                {
-                    "diq": 56,
-                    "dnk": 54,
-                    "drb": 60,
-                    "endu": 39,
-                    "fg": 53,
-                    "ft": 57,
-                    "hgt": 52,
-                    "ins": 54,
-                    "jmp": 31,
-                    "oiq": 55,
-                    "pss": 59,
-                    "reb": 71,
-                    "spd": 38,
-                    "stre": 57,
-                    "tp": 62
-                }
-            ],
-            "pos": "FC",
-            "hgt": 80,
-            "weight": 247,
-            "born": {
-                "year": 1988,
-                "loc": "Santa Monica, CA, USA"
-            },
-            "college": "UCLA"
-        },
-        {
-            "tid": 0,
             "name": "Jerami Grant",
             "ratings": [
                 {
@@ -21982,35 +22044,66 @@
             "college": "Michigan State"
         },
         {
-            "tid": 40,
-            "name": "Santiago Vescovi",
+            "tid": 0,
+            "name": "Keldon Johnson",
             "ratings": [
                 {
-                    "diq": 49,
-                    "dnk": 47,
-                    "drb": 46,
-                    "endu": 45,
-                    "fg": 41,
+                    "diq": 43,
+                    "dnk": 55,
+                    "drb": 48,
+                    "endu": 53,
+                    "fg": 43,
                     "ft": 41,
-                    "hgt": 33,
-                    "ins": 36,
-                    "jmp": 43,
-                    "oiq": 46,
-                    "pss": 39,
-                    "reb": 42,
-                    "spd": 44,
-                    "stre": 43,
-                    "tp": 55
+                    "hgt": 44,
+                    "ins": 50,
+                    "jmp": 59,
+                    "oiq": 45,
+                    "pss": 45,
+                    "reb": 56,
+                    "spd": 59,
+                    "stre": 59,
+                    "tp": 37
                 }
             ],
-            "pos": "G",
-            "hgt": 75,
-            "weight": 188,
+            "pos": "SF",
+            "hgt": 78,
+            "weight": 210,
             "born": {
                 "year": 2001,
-                "loc": "Montevideo, Uruguay"
+                "loc": "United States"
             },
-            "college": "Tennessee"
+            "college": "Kentucky"
+        },
+        {
+            "tid": 0,
+            "name": "JaVale McGee",
+            "ratings": [
+                {
+                    "diq": 51,
+                    "dnk": 49,
+                    "drb": 39,
+                    "endu": 28,
+                    "fg": 35,
+                    "ft": 32,
+                    "hgt": 67,
+                    "ins": 55,
+                    "jmp": 25,
+                    "oiq": 37,
+                    "pss": 42,
+                    "reb": 60,
+                    "spd": 25,
+                    "stre": 55,
+                    "tp": 28
+                }
+            ],
+            "pos": "C",
+            "hgt": 84,
+            "weight": 270,
+            "born": {
+                "year": 1989,
+                "loc": "United States"
+            },
+            "college": "Nevada"
         },
         {
             "tid": 40,
@@ -22169,6 +22262,37 @@
         },
         {
             "tid": 40,
+            "name": "Santiago Vescovi",
+            "ratings": [
+                {
+                    "diq": 49,
+                    "dnk": 47,
+                    "drb": 46,
+                    "endu": 45,
+                    "fg": 41,
+                    "ft": 41,
+                    "hgt": 33,
+                    "ins": 36,
+                    "jmp": 43,
+                    "oiq": 46,
+                    "pss": 39,
+                    "reb": 42,
+                    "spd": 44,
+                    "stre": 43,
+                    "tp": 55
+                }
+            ],
+            "pos": "G",
+            "hgt": 75,
+            "weight": 188,
+            "born": {
+                "year": 2001,
+                "loc": "Montevideo, Uruguay"
+            },
+            "college": "Tennessee"
+        },
+        {
+            "tid": 40,
             "name": "Panchi Barrera",
             "ratings": [
                 {
@@ -22197,6 +22321,37 @@
                 "loc": "Mercedes, Uruguay"
             },
             "college": ""
+        },
+        {
+            "tid": 40,
+            "name": "Kiril Wachsmann",
+            "ratings": [
+                {
+                    "diq": 48,
+                    "dnk": 46,
+                    "drb": 43,
+                    "endu": 33,
+                    "fg": 31,
+                    "ft": 33,
+                    "hgt": 48,
+                    "ins": 42,
+                    "jmp": 28,
+                    "oiq": 38,
+                    "pss": 42,
+                    "reb": 45,
+                    "spd": 34,
+                    "stre": 44,
+                    "tp": 36
+                }
+            ],
+            "pos": "F",
+            "hgt": 79,
+            "weight": 240,
+            "born": {
+                "year": 1984,
+                "loc": "New York, NY, USA"
+            },
+            "college": "Iona"
         },
         {
             "tid": 40,
@@ -22293,6 +22448,37 @@
         },
         {
             "tid": 19,
+            "name": "Jhornan Zamora",
+            "ratings": [
+                {
+                    "diq": 45,
+                    "dnk": 52,
+                    "drb": 46,
+                    "endu": 49,
+                    "fg": 44,
+                    "ft": 44,
+                    "hgt": 41,
+                    "ins": 47,
+                    "jmp": 41,
+                    "oiq": 54,
+                    "pss": 42,
+                    "reb": 41,
+                    "spd": 46,
+                    "stre": 48,
+                    "tp": 51
+                }
+            ],
+            "pos": "SG",
+            "hgt": 77,
+            "weight": 205,
+            "born": {
+                "year": 1989,
+                "loc": "Caracas, Venezuela"
+            },
+            "college": ""
+        },
+        {
+            "tid": 19,
             "name": "Michael Carrera",
             "ratings": [
                 {
@@ -22319,37 +22505,6 @@
             "born": {
                 "year": 1994,
                 "loc": "Anzoategui, Venezuela"
-            },
-            "college": ""
-        },
-        {
-            "tid": 19,
-            "name": "Jose Materan",
-            "ratings": [
-                {
-                    "diq": 48,
-                    "dnk": 46,
-                    "drb": 42,
-                    "endu": 49,
-                    "fg": 43,
-                    "ft": 48,
-                    "hgt": 41,
-                    "ins": 41,
-                    "jmp": 45,
-                    "oiq": 41,
-                    "pss": 41,
-                    "reb": 45,
-                    "spd": 47,
-                    "stre": 48,
-                    "tp": 48
-                }
-            ],
-            "pos": "GF",
-            "hgt": 77,
-            "weight": 196,
-            "born": {
-                "year": 1996,
-                "loc": "Barquisimeto, Venezuela"
             },
             "college": ""
         },
@@ -22510,6 +22665,37 @@
         },
         {
             "tid": 19,
+            "name": "Pedro Chourio",
+            "ratings": [
+                {
+                    "diq": 21,
+                    "dnk": 51,
+                    "drb": 44,
+                    "endu": 16,
+                    "fg": 56,
+                    "ft": 27,
+                    "hgt": 26,
+                    "ins": 24,
+                    "jmp": 24,
+                    "oiq": 38,
+                    "pss": 27,
+                    "reb": 11,
+                    "spd": 35,
+                    "stre": 34,
+                    "tp": 72
+                }
+            ],
+            "pos": "SG",
+            "hgt": 73,
+            "weight": 180,
+            "born": {
+                "year": 1990,
+                "loc": "Zulia, Colombia"
+            },
+            "college": ""
+        },
+        {
+            "tid": 19,
             "name": "Gregory Vargas",
             "ratings": [
                 {
@@ -22598,6 +22784,37 @@
             "born": {
                 "year": 1986,
                 "loc": "Caracas, Venezuela"
+            },
+            "college": ""
+        },
+        {
+            "tid": 19,
+            "name": "Jose Materan",
+            "ratings": [
+                {
+                    "diq": 48,
+                    "dnk": 46,
+                    "drb": 42,
+                    "endu": 49,
+                    "fg": 43,
+                    "ft": 48,
+                    "hgt": 41,
+                    "ins": 41,
+                    "jmp": 45,
+                    "oiq": 41,
+                    "pss": 41,
+                    "reb": 45,
+                    "spd": 47,
+                    "stre": 48,
+                    "tp": 48
+                }
+            ],
+            "pos": "GF",
+            "hgt": 77,
+            "weight": 196,
+            "born": {
+                "year": 1996,
+                "loc": "Barquisimeto, Venezuela"
             },
             "college": ""
         }
