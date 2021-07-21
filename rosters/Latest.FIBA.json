@@ -928,7 +928,7 @@
             "weight": 200,
             "born": {
                 "year": 1997,
-                "loc": "Sammamish, WA, United States"
+                "loc": "Sammamish, WA, USA"
             },
             "college": "Washington"
         },
@@ -959,7 +959,7 @@
             "weight": 210,
             "born": {
                 "year": 2000,
-                "loc": "Sydney, United States"
+                "loc": "Sydney, Australia"
             },
             "college": "Arizona"
         },
@@ -5578,7 +5578,7 @@
             "weight": 220,
             "born": {
                 "year": 1983,
-                "loc": "Rantoul, IL, United States"
+                "loc": "Rantoul, IL, USA"
             },
             "college": "Loyola (IL)"
         },
@@ -6570,7 +6570,7 @@
             "weight": 180,
             "born": {
                 "year": 1994,
-                "loc": "New York (NY), United States"
+                "loc": "New York (NY), USA"
             },
             "college": ""
         },
@@ -6725,7 +6725,7 @@
             "weight": 215,
             "born": {
                 "year": 1997,
-                "loc": "Orlando (FL), United States"
+                "loc": "Orlando (FL), USA"
             },
             "college": ""
         },
@@ -6818,7 +6818,7 @@
             "weight": 190,
             "born": {
                 "year": 1989,
-                "loc": "Arlington (TX), United States"
+                "loc": "Arlington (TX), USA"
             },
             "college": ""
         },
@@ -6880,7 +6880,7 @@
             "weight": 210,
             "born": {
                 "year": 1994,
-                "loc": "United States"
+                "loc": "USA"
             },
             "college": "South Florida"
         },
@@ -8895,7 +8895,7 @@
             "weight": 213,
             "born": {
                 "year": 1989,
-                "loc": "Casselberry (FL), United States"
+                "loc": "Casselberry (FL), USA"
             },
             "college": ""
         },
@@ -9794,7 +9794,7 @@
             "weight": 230,
             "born": {
                 "year": 1990,
-                "loc": "West St. Paul, MN, United States"
+                "loc": "West St. Paul, MN, USA"
             },
             "college": "Omaha"
         },
@@ -10817,7 +10817,7 @@
             "weight": 235,
             "born": {
                 "year": 1988,
-                "loc": "Gilbert (AZ), United States"
+                "loc": "Gilbert (AZ), USA"
             },
             "college": ""
         },
@@ -12088,7 +12088,7 @@
             "weight": 240,
             "born": {
                 "year": 1998,
-                "loc": "United States"
+                "loc": "USA"
             },
             "college": "Gonzaga"
         },
@@ -13173,7 +13173,7 @@
             "weight": 175,
             "born": {
                 "year": 1986,
-                "loc": "Lansing (MI), United States"
+                "loc": "Lansing (MI), USA"
             },
             "college": ""
         },
@@ -13235,7 +13235,7 @@
             "weight": 209,
             "born": {
                 "year": 1995,
-                "loc": "United States"
+                "loc": "USA"
             },
             "college": "Marquette"
         },
@@ -13266,7 +13266,7 @@
             "weight": 190,
             "born": {
                 "year": 1993,
-                "loc": "San Diego (CA), United States"
+                "loc": "San Diego (CA), USA"
             },
             "college": ""
         },
@@ -13297,7 +13297,7 @@
             "weight": 185,
             "born": {
                 "year": 1987,
-                "loc": "San Antonio (TX), United States"
+                "loc": "San Antonio (TX), USA"
             },
             "college": ""
         },
@@ -13421,7 +13421,7 @@
             "weight": 214,
             "born": {
                 "year": 1988,
-                "loc": "Salinas (CA), United States"
+                "loc": "Salinas (CA), USA"
             },
             "college": ""
         },
@@ -14506,7 +14506,7 @@
             "weight": 225,
             "born": {
                 "year": 1999,
-                "loc": "United States"
+                "loc": "USA"
             },
             "college": "Louisville"
         },
@@ -14537,7 +14537,7 @@
             "weight": 200,
             "born": {
                 "year": 1998,
-                "loc": "United States"
+                "loc": "USA"
             },
             "college": "UC Santa Barbara"
         },
@@ -14661,7 +14661,7 @@
             "weight": 225,
             "born": {
                 "year": 1999,
-                "loc": "United States"
+                "loc": "USA"
             },
             "college": "USC"
         },
@@ -14692,7 +14692,7 @@
             "weight": 215,
             "born": {
                 "year": 1991,
-                "loc": "Raleigh (NC), United States"
+                "loc": "Raleigh (NC), USA"
             },
             "college": ""
         },
@@ -14723,7 +14723,7 @@
             "weight": 275,
             "born": {
                 "year": 1997,
-                "loc": "United States"
+                "loc": "USA"
             },
             "college": "Duke"
         },
@@ -14785,7 +14785,7 @@
             "weight": 215,
             "born": {
                 "year": 1994,
-                "loc": "Edmond (OK), United States"
+                "loc": "Edmond (OK), USA"
             },
             "college": ""
         },
@@ -14816,7 +14816,7 @@
             "weight": 195,
             "born": {
                 "year": 1995,
-                "loc": "United States"
+                "loc": "USA"
             },
             "college": "Washington State"
         },
@@ -14847,7 +14847,7 @@
             "weight": 200,
             "born": {
                 "year": 1992,
-                "loc": "Hartford, CT, United States"
+                "loc": "Hartford, CT, USA"
             },
             "college": "Syracuse"
         },
@@ -15250,7 +15250,7 @@
             "weight": 210,
             "born": {
                 "year": 1998,
-                "loc": "West Covina, CA, United States"
+                "loc": "West Covina, CA, USA"
             },
             "college": "Cal Poly - Pomona"
         },
@@ -15653,7 +15653,7 @@
             "weight": 185,
             "born": {
                 "year": 1988,
-                "loc": "Shelbyville (KY), United States"
+                "loc": "Shelbyville (KY), USA"
             },
             "college": ""
         },
@@ -17358,7 +17358,7 @@
             "weight": 197,
             "born": {
                 "year": 1993,
-                "loc": "South Charleston (WV), United States"
+                "loc": "South Charleston (WV), USA"
             },
             "college": ""
         },
@@ -18257,7 +18257,7 @@
             "weight": 260,
             "born": {
                 "year": 1994,
-                "loc": "Monroe, NY, United States"
+                "loc": "Monroe, NY, USA"
             },
             "college": "Virginia"
         },
@@ -18629,7 +18629,7 @@
             "weight": 240,
             "born": {
                 "year": 1990,
-                "loc": "Hampton (VA), United States"
+                "loc": "Hampton (VA), USA"
             },
             "college": ""
         },
@@ -21047,7 +21047,7 @@
             "weight": 175,
             "born": {
                 "year": 1993,
-                "loc": "Cincinnati (OH), United States"
+                "loc": "Cincinnati (OH), USA"
             },
             "college": ""
         },
@@ -21915,7 +21915,7 @@
             "weight": 195,
             "born": {
                 "year": 1990,
-                "loc": "Oakland, CA, United States"
+                "loc": "Oakland, CA, USA"
             },
             "college": "Weber State"
         },
@@ -21946,7 +21946,7 @@
             "weight": 240,
             "born": {
                 "year": 1988,
-                "loc": "Washington, DC, United States"
+                "loc": "Washington, DC, USA"
             },
             "college": "Texas"
         },
@@ -21977,7 +21977,7 @@
             "weight": 206,
             "born": {
                 "year": 1996,
-                "loc": "Moss Point, MS, United States"
+                "loc": "Moss Point, MS, USA"
             },
             "college": "Kentucky"
         },
@@ -22008,7 +22008,7 @@
             "weight": 222,
             "born": {
                 "year": 1991,
-                "loc": "North Charleston, SC, United States"
+                "loc": "North Charleston, SC, USA"
             },
             "college": "Texas A&M"
         },
@@ -22039,7 +22039,7 @@
             "weight": 210,
             "born": {
                 "year": 1998,
-                "loc": "St. Louis, MO, United States"
+                "loc": "St. Louis, MO, USA"
             },
             "college": "Duke"
         },
@@ -22070,7 +22070,7 @@
             "weight": 200,
             "born": {
                 "year": 1995,
-                "loc": "Bothell, WA, United States"
+                "loc": "Bothell, WA, USA"
             },
             "college": "UCLA"
         },
@@ -22101,7 +22101,7 @@
             "weight": 255,
             "born": {
                 "year": 1997,
-                "loc": "Newark, NJ, United States"
+                "loc": "Newark, NJ, USA"
             },
             "college": "Kentucky"
         },
@@ -22132,7 +22132,7 @@
             "weight": 205,
             "born": {
                 "year": 1990,
-                "loc": "Chatsworth, CA, United States"
+                "loc": "Chatsworth, CA, USA"
             },
             "college": "UCLA"
         },
@@ -22163,7 +22163,7 @@
             "weight": 210,
             "born": {
                 "year": 1994,
-                "loc": "Hyattsville, MD, United States"
+                "loc": "Hyattsville, MD, USA"
             },
             "college": "Syracuse"
         },
@@ -22194,7 +22194,7 @@
             "weight": 230,
             "born": {
                 "year": 1990,
-                "loc": "Saginaw, MI, United States"
+                "loc": "Saginaw, MI, USA"
             },
             "college": "Michigan State"
         },
@@ -22225,7 +22225,7 @@
             "weight": 210,
             "born": {
                 "year": 2001,
-                "loc": "United States"
+                "loc": "USA"
             },
             "college": "Kentucky"
         },
@@ -22256,7 +22256,7 @@
             "weight": 270,
             "born": {
                 "year": 1989,
-                "loc": "United States"
+                "loc": "USA"
             },
             "college": "Nevada"
         },
@@ -22504,7 +22504,7 @@
             "weight": 240,
             "born": {
                 "year": 1984,
-                "loc": "New York, NY, United States"
+                "loc": "New York, NY, USA"
             },
             "college": "Iona"
         },
